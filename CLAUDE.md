@@ -27,6 +27,12 @@ posts from) and the code + rules for making them. Each daily run makes ONE brand
 Title line, blank line, a short punchy description that sets up the rule and asks a question that
 invites comments, then exactly 5 hashtags, the last one `#whatiffun`. No "oddly satisfying" clichés.
 
+Use the vidIQ connector for the title line (owner's request): draft your own title, then call
+`vidiq_generate_titles` (type "short", numTitles 6, pass your title + a plain description of the video,
+and the last few titles from HISTORY.md as previousTitles) and `vidiq_score_title` on your draft.
+Pick the highest-scoring title that doesn't spoil the ending or the number the caption asks viewers to
+guess; strip any hashtags from it (hashtags only go in the final 5-tag line). Note the score in HISTORY.md.
+
 ## Pipeline
 1. Pick a concept NOT in `HISTORY.md`. Real physics (pymunk, numpy RK4, particle methods...), seeded
    so it's deterministic. Tune the sim headless first (print counts/timings), then render previews.
