@@ -14,6 +14,15 @@ posts from) and the code + rules for making them. Each daily run makes ONE brand
   amber accent (0.88,0.64,0.30). Brass and glass materials.
 - Different from the many generic "satisfying ball" pages. No neon rainbow, no stock music.
 
+## Series + analytics lessons (2026-11-03 review)
+- The page is now ONE identity: physics simulations, as a numbered series called **"One rule."**
+  Next day number = last Day in HISTORY.md + 1. The kicker on the video reads `ONE RULE  ·  DAY N`
+  and the caption's title line starts with `Day N:` (e.g. `Day 2: <title>`).
+- Sims beat "what if" explainers 3–7x on reach. Followers are the weak spot (~1 per 1,500 views), so
+  every reel must make the series obvious (kicker, end card) to give people a reason to follow.
+- Motion must start on frame 1 — no waiting/latch/static intro. Galton's quiet first second = 41% skip.
+- Aim for ≤ 25 s unless the story genuinely needs more; 45 s reels died (68% skip).
+
 ## Format (must)
 - 1080x1920, 30 fps, H.264 yuv420p + AAC, 20–30 s, loops (crossfade the last ~0.6 s back to frame 0).
 - Text safe area: keep key text inside y 180–1500 and x 100–980 (Instagram UI covers the edges/bottom).
@@ -42,8 +51,12 @@ guess; strip any hashtags from it (hashtags only go in the final 5-tag line). No
 4. Copy the mp4 to `reels/YYYY-MM-DD-<slug>.mp4`, the code to `src/YYYY-MM-DD-<slug>/`, append to
    `HISTORY.md`, commit and push to `main`.
 5. Check `https://raw.githubusercontent.com/sankyrajeev/whatiffun-media/main/reels/<file>` returns 200.
-6. Schedule with the Metricool connector: blogId 7560268, network instagram, instagramData type REEL,
-   showReelOnFeed true, autoPublish true, timezone Asia/Calcutta, at 19:30 IST the same day.
+6. Schedule ONE Metricool post (blogId 7560268) to BOTH Instagram and YouTube Shorts:
+   providers [{"network":"instagram"},{"network":"youtube"}], autoPublish true, timezone Asia/Calcutta,
+   19:30 IST the same day, media = the raw GitHub URL, text = the caption.
+   instagramData {type: "REEL", showReelOnFeed: true}.
+   youtubeData {title: "Day N: <title>" (≤ 100 chars, no hashtags), type: "short", privacy: "public",
+   madeForKids: false, category: "SCIENCE_TECHNOLOGY", tags: 8–12 plain keywords for the concept}.
 7. Send the owner the video file and the caption.
 
 `src/` has the full code of every past reel — reuse the rendering/audio helpers rather than starting over.
