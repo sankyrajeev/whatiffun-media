@@ -38,6 +38,18 @@ Full list with notes: `REFERENCES.md`. Principles so far:
   the scene itself (something gives way, escapes, collapses, flips, goes silent), not just a counter stopping.
 - **Brand on screen all the time.** Keep a small, tasteful `@whatiffun` mark visible throughout (not only
   on the end card), placed where Instagram's UI won't cover it, so reposts and screenshots carry the name.
+- **The rule in six words or fewer, from frame 1.** A short bold label beats a sentence. Put the full
+  explanation in the caption, not on screen.
+- **Let the viewer play.** Where the physics allows, build in a prediction moment: freeze for ~1.5 s
+  just before the outcome with a clear numbered or lettered choice on screen ("Which one is left? 1–6"),
+  then reveal. The caption asks the same question, so comments are a single number. This also drives
+  rewatches (people go back to check).
+- **One hero to follow.** Mark a single object (a brighter, gold-white one among the amber) so the eye has
+  something to track through the chaos, and make its fate part of the payoff.
+- **Tension right before the payoff.** A short beat that signals "it's about to happen" (things slowing,
+  a sound swelling, a readout nearing its limit) right before the key moment. Motion still starts on frame 1.
+- **A big final number is a payoff in itself.** Show the live counter and land on a satisfying final
+  value, but never put that number in the title or caption.
 
 ## Format (must)
 - 1080x1920, 30 fps, H.264 yuv420p + AAC, 20–30 s, loops (crossfade the last ~0.6 s back to frame 0).
