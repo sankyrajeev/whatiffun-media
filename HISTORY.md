@@ -8,4 +8,4 @@ Series: **"One rule."** Day 1 = 2026-11-03 (doubling-jam). Each new daily reel i
 | 2026-11-02 | – | pendulums | 1,000 double pendulums 0.000001° apart, chaos then exact rewind | best performer: IG 5,187 plays, 65% watched, 27% skip; YT 1,807 |
 | 2026-11-02 | – | galton | 440 amber glass marbles through brass pins form a bell curve, ASMR clicks | IG 1,722 plays, 40% watched, 41% skip (slow first second) |
 | 2026-11-03 | – | chladni | sand on a vibrating plate, 6 resonant modes 90→1170 Hz | owner: too generic |
-| 2026-11-03 | 1 | doubling-jam | zero-g drum, marble doubles on every hit from moving discs, torque-limited motor jams at 3,196 | IG posted 2026-11-03 19:45 IST; title "I gave one marble one rule and it jammed the whole drum" (vidIQ 97 vs 82) |
+| 2026-11-03 | 1 | doubling-jam | zero-g drum, marble doubles on every hit from moving discs, torque-limited motor jams at 3,196 | IG posted 2026-11-03 19:45 IST, YouTube Short 22:00 IST; title "I gave one marble one rule and it jammed the whole drum" (vidIQ 97 vs 82) |

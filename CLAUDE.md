@@ -18,7 +18,7 @@ posts from) and the code + rules for making them. Each daily run makes ONE brand
 - The page is now ONE identity: physics simulations, as a numbered series called **"One rule."**
   Next day number = last Day in HISTORY.md + 1. The kicker on the video reads `ONE RULE  ·  DAY N`
   and the caption's title line starts with `Day N:` (e.g. `Day 2: <title>`).
-- Sims beat "what if" explainers 3–7x on reach. Followers are the weak spot (~1 per 1,500 views), so
+- Sims beat "what if" explainers 3–7x on reach (owner paused the "what if" pipeline on 2026-11-03). Followers are the weak spot (~1 per 1,500 views), so
   every reel must make the series obvious (kicker, end card) to give people a reason to follow.
 - Motion must start on frame 1 — no waiting/latch/static intro. Galton's quiet first second = 41% skip.
 - Aim for ≤ 25 s unless the story genuinely needs more; 45 s reels died (68% skip).
