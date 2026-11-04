@@ -3,6 +3,22 @@
 This repo hosts the videos for the Instagram page **@whatiffun** (public raw links are what Metricool
 posts from) and the code + rules for making them. Each daily run makes ONE brand-new reel and schedules it.
 
+## THE BAR: experimental and new, never generic (owner, 2026-11-04)
+The owner's verdict: No. 1 (doubling-jam) was "experimental, new and nice — keep it like that"; the others
+(metronome sync, Chladni sand, Galton board, bouncing ball) "seemed too generic". So:
+- **Banned: famous physics demos and the common sim-page formats**, even with our styling: metronome
+  sync, Newton's cradle, pendulum waves, Galton/plinko boards, Chladni/cymatics, double pendulums again,
+  "ball bounces in a circle and grows/splits/escapes", colour battles, marble races, sand/fluid pours,
+  domino runs, orbit/solar-system builds, Brazil-nut shaking, Lissajous/harmonograph drawings.
+- **What No. 1 had, and every reel needs:** (1) an INVENTED rule that bends the world in a game-like way
+  ("a hit from anything moving doubles you"); (2) a physical FEEDBACK LOOP where the rule's own success
+  creates the thing that stops or breaks it (more marbles → more load → motor jams); (3) an ending
+  nobody scripted or could predict, discovered by running the physics; (4) a twist you can say in one breath.
+- **Originality check before building:** write 5 candidate concepts in one line each, score each 1–5 on
+  "have I seen this on a sim page?" (1 = never), "is there a feedback loop?" and "is the ending
+  unpredictable?". Build only the best, and only if it scores 1 on the first question. Log the
+  candidates you rejected in HISTORY.md's notes so later runs don't retry them.
+
 ## What performs (owner feedback, keep doing this)
 - Rule-based, real-physics hooks: "every time X happens, Y doubles", a rule that runs away and then
   breaks itself. The 1,000-double-pendulums butterfly-effect reel hit 5k views; doubling marbles and the
@@ -16,8 +32,9 @@ posts from) and the code + rules for making them. Each daily run makes ONE brand
 
 ## Series + analytics lessons (2026-11-03 review)
 - The page is now ONE identity: physics simulations, as a numbered series called **"One rule."**
-  Next day number = last Day in HISTORY.md + 1. The kicker on the video reads `ONE RULE  ·  DAY N`
-  and the caption's title line starts with `Day N:` (e.g. `Day 2: <title>`).
+  Two reels a day (13:00 and 19:30 IST), numbered per reel: next number = highest number in HISTORY.md + 1.
+  The kicker on the video reads `ONE RULE  ·  NO. N` and the caption's title line starts with `No. N:`
+  (e.g. `No. 3: <title>`). Never write "#N" (Instagram would read it as a hashtag).
 - Sims beat "what if" explainers 3–7x on reach (owner paused the "what if" pipeline on 2026-11-03). Followers are the weak spot (~1 per 1,500 views), so
   every reel must make the series obvious (kicker, end card) to give people a reason to follow.
 - Motion must start on frame 1 — no waiting/latch/static intro. Galton's quiet first second = 41% skip.
@@ -71,7 +88,8 @@ Pick the highest-scoring title that doesn't spoil the ending or the number the c
 guess; strip any hashtags from it (hashtags only go in the final 5-tag line). Note the score in HISTORY.md.
 
 ## Pipeline
-1. Pick a concept NOT in `HISTORY.md`. Real physics (pymunk, numpy RK4, particle methods...), seeded
+0. `git pull` first: the other daily slot may have pushed a reel since you cloned.
+1. Pick a concept NOT in `HISTORY.md` that passes THE BAR's originality check. Real physics (pymunk, numpy RK4, particle methods...), seeded
    so it's deterministic. Tune the sim headless first (print counts/timings), then render previews.
 2. Render with skia-python (`pip install --break-system-packages skia-python pymunk scipy`): draw a few
    full-size preview frames at the busiest moments and LOOK at them before the full render.
@@ -81,9 +99,10 @@ guess; strip any hashtags from it (hashtags only go in the final 5-tag line). No
 5. Check `https://raw.githubusercontent.com/sankyrajeev/whatiffun-media/main/reels/<file>` returns 200.
 6. Schedule ONE Metricool post (blogId 7560268) to BOTH Instagram and YouTube Shorts:
    providers [{"network":"instagram"},{"network":"youtube"}], autoPublish true, timezone Asia/Calcutta,
-   19:30 IST the same day, media = the raw GitHub URL, text = the caption.
+   at the post time your task prompt gives (13:00 or 19:30 IST, same day), media = the raw GitHub URL,
+   text = the caption.
    instagramData {type: "REEL", showReelOnFeed: true}.
-   youtubeData {title: "Day N: <title>" (≤ 100 chars, no hashtags), type: "short", privacy: "public",
+   youtubeData {title: "No. N: <title>" (≤ 100 chars, no hashtags), type: "short", privacy: "public",
    madeForKids: false, category: "SCIENCE_TECHNOLOGY", tags: 8–12 plain keywords for the concept}.
 7. Send the owner the video file and the caption.
 
