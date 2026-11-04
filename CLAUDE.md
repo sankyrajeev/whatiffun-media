@@ -23,6 +23,22 @@ posts from) and the code + rules for making them. Each daily run makes ONE brand
 - Motion must start on frame 1 — no waiting/latch/static intro. Galton's quiet first second = 41% skip.
 - Aim for ≤ 25 s unless the story genuinely needs more; 45 s reels died (68% skip).
 
+## Reference reels from the owner — learn principles, NEVER copy
+The owner sends other creators' reels as references only. Never reuse their concept, mechanism, layout,
+look, branding or sound; borrow only the underlying craft principle, applied to our own original idea.
+Full list with notes: `REFERENCES.md`. Principles so far:
+- **A visible cause.** The viewer should see the one thing that makes the rule happen (a machine, a
+  contact, a trigger) so every event reads instantly without text.
+- **Progress you can read at a glance.** Make each stage/generation visibly different (in our theme:
+  amber shade or brightness tiers, never a rainbow) so growth is legible even with the sound off.
+- **Rhythm in the sound.** Make the key events happen in pulses (driven by the physics: a rotation, a
+  period, a cycle), so the ASMR gets a beat-like groove. Give the key event a deeper "thump" layer
+  under the glassy detail. Still no music.
+- **A payoff that breaks the frame.** The ending should release built-up tension in a way that changes
+  the scene itself (something gives way, escapes, collapses, flips, goes silent), not just a counter stopping.
+- **Brand on screen all the time.** Keep a small, tasteful `@whatiffun` mark visible throughout (not only
+  on the end card), placed where Instagram's UI won't cover it, so reposts and screenshots carry the name.
+
 ## Format (must)
 - 1080x1920, 30 fps, H.264 yuv420p + AAC, 20–30 s, loops (crossfade the last ~0.6 s back to frame 0).
 - Text safe area: keep key text inside y 180–1500 and x 100–980 (Instagram UI covers the edges/bottom).
