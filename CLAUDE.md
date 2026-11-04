@@ -4,25 +4,36 @@ This repo hosts the videos for the Instagram page **@whatiffun** (public raw lin
 posts from) and the code + rules for making them. Each daily run makes ONE brand-new reel and schedules it.
 
 ## THE BAR: experimental and new, never generic (owner, 2026-11-04)
-The owner's verdict: No. 1 (doubling-jam) was "experimental, new and nice — keep it like that"; the others
-(metronome sync, Chladni sand, Galton board, bouncing ball) "seemed too generic". So:
-- **Banned: famous physics demos and the common sim-page formats**, even with our styling: metronome
-  sync, Newton's cradle, pendulum waves, Galton/plinko boards, Chladni/cymatics, double pendulums again,
-  "ball bounces in a circle and grows/splits/escapes", colour battles, marble races, sand/fluid pours,
-  domino runs, orbit/solar-system builds, Brazil-nut shaking, Lissajous/harmonograph drawings.
-- **What No. 1 had, and every reel needs:** (1) an INVENTED rule that bends the world in a game-like way
-  ("a hit from anything moving doubles you"); (2) a physical FEEDBACK LOOP where the rule's own success
-  creates the thing that stops or breaks it (more marbles → more load → motor jams); (3) an ending
-  nobody scripted or could predict, discovered by running the physics; (4) a twist you can say in one breath.
-- **Originality check before building:** write 5 candidate concepts in one line each, score each 1–5 on
-  "have I seen this on a sim page?" (1 = never), "is there a feedback loop?" and "is the ending
-  unpredictable?". Build only the best, and only if it scores 1 on the first question. Log the
-  candidates you rejected in HISTORY.md's notes so later runs don't retry them.
+The owner's gold standard is the **1,000 double pendulums** reel ("experimental, new and nice — keep it
+like that"; also the best performer: 5,187 IG plays, 65% watched). The others (doubling marbles,
+metronome sync, Chladni sand, Galton board, bouncing ball) "seemed too generic".
+
+What made the pendulums work, and what every reel needs:
+1. **A deep, counterintuitive truth about the real world**, shown rather than explained (there:
+   chaos — a difference too small to measure decides everything). Not a toy or a game mechanic.
+2. **Many copies of one system with a near-invisible difference**, so the idea becomes a visual event
+   (1,000 overlapping pendulums = one line, then a fan, then a spectrum).
+3. **A deceptive calm start that transforms**: it looks simple and ordered, then blooms into
+   something nobody expected. Motion from frame 1, but the "turn" is the hook that holds people.
+4. **A twist on top** that plays with time or expectation (there: everything rewinds exactly back to one
+   line — and the loop ends where it began).
+5. **Precise, elegant instrumentation**: live readouts like `Δ 0.000001°` and `t 07.20s`, minimal serif
+   type, a cool premium look. The numbers make it feel like a real experiment.
+6. **Not a format already common on sim pages.**
+
+Banned (famous demos / common formats, even with our styling): metronome sync, Newton's cradle,
+pendulum waves, Galton/plinko boards, Chladni/cymatics, double pendulums again, "ball bounces in a circle
+and grows/splits/escapes", doubling/multiplying-marble counters, colour battles, marble races, sand/fluid
+pours, domino runs, orbit/solar-system builds, Brazil-nut shaking, Lissajous/harmonograph drawings.
+
+**Originality check before building:** write 5 candidate concepts in one line each and score each 1–5 on
+"have I seen this on a sim page?" (1 = never), "is there a real counterintuitive truth?" and "is there a
+transformation + twist?". Build only the best, and only if it scores 1 on the first question. Log the
+rejected candidates in HISTORY.md's notes so later runs don't retry them.
 
 ## What performs (owner feedback, keep doing this)
-- Rule-based, real-physics hooks: "every time X happens, Y doubles", a rule that runs away and then
-  breaks itself. The 1,000-double-pendulums butterfly-effect reel hit 5k views; doubling marbles and the
-  Galton board landed well.
+- The 1,000-double-pendulums butterfly-effect reel is the model (see THE BAR). A simple rule or setup is
+  still the hook ("One rule."), but the payoff must be a real, surprising truth, not a counter going up.
 - Owner said "too generic / think outside the box" about a pure pretty-pattern piece (Chladni sand).
   Prefer a surprising rule + an emergent, unscripted ending over a calm visual.
 - ASMR: tactile, physically driven sound (every collision a real event, stereo-panned by x), no music.
