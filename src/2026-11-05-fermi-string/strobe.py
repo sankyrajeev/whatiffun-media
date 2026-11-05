@@ -1,4 +1,4 @@
-import numpy as np, sim, sys
+import numpy as np, sim_explore as sim, sys
 N=32; sim.N=N; sim.ALPHA=float(sys.argv[1]); A=float(sys.argv[2])
 j=np.arange(1,N+1); sim.j=j
 S=np.sqrt(2/(N+1))*np.sin(np.outer(j,j)*np.pi/(N+1)); om=2*np.sin(j*np.pi/(2*(N+1)))

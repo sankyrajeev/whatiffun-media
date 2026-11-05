@@ -21,6 +21,13 @@ What made the pendulums work, and what every reel needs:
    type, a cool premium look. The numbers make it feel like a real experiment.
 6. **Not a format already common on sim pages.**
 
+**Too abstract is as bad as too generic (owner, 2026-11-05, on No. 3 Fermi string):** a line of beads, a
+long-exposure haze and a heat-map strip of "stretch" was "bad: too abstract". The viewer must instantly
+recognise the physical thing and feel what's at stake without reading labels: real-looking objects with
+weight and consequence (things fall, collide, break, escape, survive), not plots, modes, energy readouts or
+space-time diagrams. Readouts may decorate a scene you can feel; they can never BE the scene. Test before
+building: "would someone with the sound off and no text say what is happening in one sentence?"
+
 Banned (famous demos / common formats, even with our styling): metronome sync, Newton's cradle,
 pendulum waves, Galton/plinko boards, Chladni/cymatics, double pendulums again, "ball bounces in a circle
 and grows/splits/escapes", doubling/multiplying-marble counters, colour battles, marble races, sand/fluid
