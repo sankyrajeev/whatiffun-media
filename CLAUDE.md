@@ -37,9 +37,12 @@ rejected candidates in HISTORY.md's notes so later runs don't retry them.
 - Owner said "too generic / think outside the box" about a pure pretty-pattern piece (Chladni sand).
   Prefer a surprising rule + an emergent, unscripted ending over a calm visual.
 - ASMR: tactile, physically driven sound (every collision a real event, stereo-panned by x), no music.
-- ONE color theme: amber/gold/honey on warm near-black (#0f0d0b-ish), cream text (0.96,0.92,0.84),
-  amber accent (0.88,0.64,0.30). Brass and glass materials.
-- Different from the many generic "satisfying ball" pages. No neon rainbow, no stock music.
+- Colour (owner, 2026-11-05: "no rules, just keep the background theme same"): the BACKGROUND is
+  always the same warm near-black (#0f0d0b-ish radial vignette) with the same cream text
+  (0.96,0.92,0.84), fonts, kicker and end card, so the page looks like one series. Everything ON it
+  (objects, trails, accents) uses whatever colours make that video's idea read best — a spectrum like
+  the pendulums, a single hue, anything. No colour rules beyond the background.
+- Different from the many generic "satisfying ball" pages. No stock music.
 
 ## Series + analytics lessons (2026-11-03 review)
 - The page is now ONE identity: physics simulations, as a numbered series called **"One rule."**
@@ -57,8 +60,8 @@ look, branding or sound; borrow only the underlying craft principle, applied to 
 Full list with notes: `REFERENCES.md`. Principles so far:
 - **A visible cause.** The viewer should see the one thing that makes the rule happen (a machine, a
   contact, a trigger) so every event reads instantly without text.
-- **Progress you can read at a glance.** Make each stage/generation visibly different (in our theme:
-  amber shade or brightness tiers, never a rainbow) so growth is legible even with the sound off.
+- **Progress you can read at a glance.** Make each stage/generation visibly different (colour,
+  brightness, size) so growth is legible even with the sound off.
 - **Rhythm in the sound.** Make the key events happen in pulses (driven by the physics: a rotation, a
   period, a cycle), so the ASMR gets a beat-like groove. Give the key event a deeper "thump" layer
   under the glassy detail. Still no music.
@@ -72,7 +75,7 @@ Full list with notes: `REFERENCES.md`. Principles so far:
   just before the outcome with a clear numbered or lettered choice on screen ("Which one is left? 1–6"),
   then reveal. The caption asks the same question, so comments are a single number. This also drives
   rewatches (people go back to check).
-- **One hero to follow.** Mark a single object (a brighter, gold-white one among the amber) so the eye has
+- **One hero to follow.** Mark a single object (brighter or differently coloured than the rest) so the eye has
   something to track through the chaos, and make its fate part of the payoff.
 - **Tension right before the payoff.** A short beat that signals "it's about to happen" (things slowing,
   a sound swelling, a readout nearing its limit) right before the key moment. Motion still starts on frame 1.
