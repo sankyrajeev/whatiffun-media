@@ -50,7 +50,10 @@ Keep the calm ASMR feel, but make every reel richer. The owner's ideas — use t
 - **Combine two layers per reel** (a ladder + a pattern, a rule + a reveal, gliding + a twist) so it's never
   just one effect. A secret that is revealed as the count grows is ideal ("each ball only moves in a straight
   line… and yet").
-Reference implementation: No. 13 `src/2026-11-10-straight-lines/render.py` (ladder 2 → 4,096, rose patterns).
+WARNING: No. 13 (straight-lines: dots sliding on lines forming rose curves) was REJECTED as "too basic" —
+flat dots on thin lines read as a screensaver. Patterns must come from real, tactile, satisfying physical
+objects and events (things colliding, cutting, squishing, pouring, stacking, gliding through), richly
+rendered, with lots happening — not abstract dots tracing curves.
 Keep the rule text ≤ 6 words, the count, no questions, no lectures.
 
 Look (fixed): the warm near-black radial background, cream text, Instrument Serif rule lines, Inter
@@ -73,7 +76,7 @@ that doesn't spoil the ending; strip hashtags from it. Log the score in HISTORY.
 
 ## Pipeline
 0. `git pull` first (the other slot may have pushed). Check Metricool (`getScheduledPosts`, blogId 7560268,
-   timezone Asia/Calcutta) — if a post is already scheduled within 45 minutes of your slot today, do
+   timezone Asia/Calcutta) — if a NON-DRAFT post is already scheduled within 45 minutes of your slot today, do
    nothing and finish (the owner may have queued one by hand).
 1. Pick a new rule (not in HISTORY.md). Build the sim (pymunk / numpy, seeded, deterministic). Tune it
    headless until the arc lands: count timeline, when it peaks, when it settles, 20–25 s of action.
