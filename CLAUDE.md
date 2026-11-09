@@ -34,6 +34,25 @@ What every reel must be:
    HISTORY.md). Variations on the format are good (multiplying, splitting, sticking, filling, melting,
    magnetising, chain-ringing, stacking, crystallising...), but each must feel new.
 
+## LEVEL UP (owner, 2026-11-09): "I like the direction, but it's becoming a little too simple"
+Keep the calm ASMR feel, but make every reel richer. The owner's ideas — use them, never copy any page:
+- **Escalation ladders.** The same satisfying action at exploding scale, in stages: 1 → 10 → 100 → 1,000 →
+  10,000 (each stage ~3–5 s, the count jumping with a soft thump + chord, the scene getting denser and
+  more beautiful each step). The owner loved a page doing "1 knife, 2 knives, 1,000 knives…" — the FORMAT is
+  the idea; never knives or anything from that page.
+- **Patterns from physics equations.** People love patterns. Balls, beads and lines driven by real equations
+  that create shapes nobody drew: harmonic motion with phase offsets (a ring of straight-line sliders that
+  rolls as a circle, then blooms into roses), pendulum waves, Lissajous/harmonograph traces, spirographs,
+  phyllotaxis (golden-angle spirals), standing-wave grids, orbital resonances, strange-attractor ribbons,
+  vortex lattices… Rainbow colour by phase or angle makes the pattern pop.
+- **Gliding.** Things gliding smoothly through things: beads sliding on rails, objects passing through
+  gates/rings/layers, ribbons, slices, smooth eased motion. Silky > jittery.
+- **Combine two layers per reel** (a ladder + a pattern, a rule + a reveal, gliding + a twist) so it's never
+  just one effect. A secret that is revealed as the count grows is ideal ("each ball only moves in a straight
+  line… and yet").
+Reference implementation: No. 13 `src/2026-11-10-straight-lines/render.py` (ladder 2 → 4,096, rose patterns).
+Keep the rule text ≤ 6 words, the count, no questions, no lectures.
+
 Look (fixed): the warm near-black radial background, cream text, Instrument Serif rule lines, Inter
 kicker, the serif count, the small `@whatiffun` mark near the bottom, the dark end card
 "Follow / @whatiffun / for more" — all exactly as `kit.py` draws them. Colours of the objects are free
