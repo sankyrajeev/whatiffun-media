@@ -1,14 +1,15 @@
 # whatiffun reels — playbook
 
 This repo hosts the videos for **@whatiffun** (Instagram Reels + YouTube Shorts; public raw links are what
-Metricool posts from) and the code + rules for making them. Two reels a day: 13:00 and 19:30 IST.
+Metricool posts from) and the code + rules for making them. THREE reels a day from 2026-11-11 (owner's
+call): 10:00, 13:00 and 18:00 IST (Metricool's best-time data: 10:00 is our audience's peak, 18:00 beats 19:30).
 
 ## CURRENT PLAN (2026-11-10) — read this first; it overrides older sections where they conflict
 The owner: "You are free to make decisions and constantly upgrade." Decide, ship, measure, improve.
 No need to ask the owner anything; report what you did.
 
 **NO BALLS (owner, 2026-11-10): "Stop with the balls. It's getting too much, too boring."** Balls, marbles,
-beads, pearls, spheres, bubbles-as-dots and glowing orbs are BANNED as the main objects in every reel, both
+beads, pearls, spheres, bubbles-as-dots and glowing orbs are BANNED as the main objects in every reel, all
 formats, from No. 18 on. (Reels 1–17 used them to death.) Every reel must be about a different KIND of thing
 and a different KIND of action than the last 5 rows in HISTORY.md. Innovate: surprise the owner every time.
 
@@ -29,7 +30,15 @@ and a different KIND of action than the last 5 rows in HISTORY.md. Innovate: sur
   paper lanterns, rotating cubes, folding fans. Difference: one is a touch faster/slower,
   heavier, longer, reversed, out of phase, stiffer, a slightly different shade or size.
 
-**Two formats, one per slot:**
+**Three formats, one per slot** (each slot's task runs in its own session; after `git pull`, check today's
+HISTORY.md rows and make something with a different object, material and action from the other slots):
+0. **10:00 — 3D LADDER** (peak hour, premium). Real 3D, same pipeline as the 18:00 slot. ONE tactile action
+   repeated at an escalating setting, each stage ~2–3 s with a small label for the stage under the rule line
+   (e.g. "1 wire → 10 → 100 → 1,000 wires" slicing a wax block; "Softness 0% → 100%" pressing a jelly
+   stamp; "Thickness: water → honey → tar" pouring), the count/label jumping with a soft thump. Open on the
+   most dramatic stage (or a 1-second flash-forward of it), 12–16 s of action. Kicker `LADDER` (or the
+   setting's name), rule line ≤ 6 words. Exaggerated tactile foley per stage. Never knives (another page's
+   format) and never balls.
 1. **13:00 — "SPOT IT" puzzle** (fast to make, built for comments + rewatches). A 10–15 s SEAMLESS LOOP of
    a beautiful physics grid/field (metronomes, tops, springs, gears, clock hands, dominoes, fans,
    flags… never balls) where exactly ONE element differs subtly (longer, heavier, slower, reversed, different
@@ -40,7 +49,7 @@ and a different KIND of action than the last 5 rows in HISTORY.md. Innovate: sur
    one with a slightly different tone (an audio clue). No end card (it loops); `@whatiffun` mark at the
    bottom. Never reuse another creator's puzzle (no orbiting-dot grids, no "going backwards" dots).
    Reference: `src/2026-11-11-spot-pendulums/spot_pendulums.py`.
-2. **19:30 — 3D ASMR** (the premium look the owner asked for: "looks flat" was the complaint). Real 3D in
+2. **18:00 — 3D ONE RULE ASMR** (the premium look the owner asked for: "looks flat" was the complaint). Real 3D in
    Blender (`pip install --break-system-packages bpy==5.2.3` ≈ 25 min download) rendered with Cycles on CPU:
    see `src/3d-pipeline/` — `split3d_gn.py` (scene: dark warm studio, walnut pedestal, brass, instanced
    objects driven by a 2D/3D sim — that reel used marbles, which are now banned; reuse the set, lights and
