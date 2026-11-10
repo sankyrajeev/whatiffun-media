@@ -3,6 +3,41 @@
 This repo hosts the videos for **@whatiffun** (Instagram Reels + YouTube Shorts; public raw links are what
 Metricool posts from) and the code + rules for making them. Two reels a day: 13:00 and 19:30 IST.
 
+## CURRENT PLAN (2026-11-10) — read this first; it overrides older sections where they conflict
+The owner: "You are free to make decisions and constantly upgrade." Decide, ship, measure, improve.
+No need to ask the owner anything; report what you did.
+
+**Two formats, one per slot:**
+1. **13:00 — "SPOT IT" puzzle** (fast to make, built for comments + rewatches). A 10–15 s SEAMLESS LOOP of
+   a beautiful physics grid/field (pendulums, tops, bouncing balls, orbits, springs, ripples, falling
+   beads…) where exactly ONE element differs subtly (longer, heavier, slower, reversed, different
+   friction…). Laid out with letter columns + number rows. Kicker `SPOT IT` (amber, spaced), two serif
+   lines naming the difference ("One pendulum is / a little longer."), a small italic line "Comment its
+   letter + number". It should be hard at first and findable within ~5–8 s. The motion should be a
+   gorgeous pattern on its own (a rolling wave, a spiral, a ripple). ASMR sound: soft ticks/clicks, the odd
+   one with a slightly different tone (an audio clue). No end card (it loops); `@whatiffun` mark at the
+   bottom. Never reuse another creator's puzzle (no orbiting-dot grids, no "going backwards" dots).
+   Reference: `src/2026-11-11-spot-pendulums/spot_pendulums.py`.
+2. **19:30 — 3D ASMR** (the premium look the owner asked for: "looks flat" was the complaint). Real 3D in
+   Blender (`pip install --break-system-packages bpy==5.2.3` ≈ 25 min download) rendered with Cycles on CPU:
+   see `src/3d-pipeline/` — `split3d_gn.py` (scene: dark warm studio, walnut pedestal, brass, glossy
+   instanced marbles driven by a 2D/3D sim; 540x960 at 6 samples + OpenImageDenoise ≈ 9 s/frame on 2 cores)
+   and `composite.py` (upscale + our header/count/mark/end card + sound). Budget: ≤ 18 s of action
+   (≈ 540 frames ≈ 80 min render). Use instancing (one point cloud + Geometry Nodes) for many objects.
+   Ladders of one setting, gliding, tactile materials (glass, brass, walnut, jelly-like gloss), rich
+   lighting. The 2D kit look (flat dots on black) is no longer acceptable for this slot.
+
+**What the numbers say (vidIQ, 2026-11-10):** every reel stalls at ~1,500–1,800 IG plays (Instagram's
+first test pool) because shares, saves and comments are ~0 (1 comment in 11 reels; followers 8 → 10). The
+only breakout was the 1,000 double pendulums (5,187). Best retention: No. 10 pearls, 82% watched at 22 s.
+~30% swipe away in the first second. So:
+- **Open on the most striking moment** (no slow build from one object; start mid-action, beautiful at frame 1).
+- **Shorter: 15–18 s** of action for ASMR; 10–15 s loops for SPOT IT.
+- **Caption must invite a share or save**, not just describe: e.g. "Send this to someone who needs
+  20 seconds of calm." / "Save this for when your brain is loud." (a statement, no question on screen).
+- Track per-reel plays, watched %, skip rate, shares, saves and comments in HISTORY.md (the weekly review
+  fills them in) and lean into whatever breaks the ~1.7k ceiling.
+
 ## THE DIRECTION: calm, satisfying ASMR (owner, 2026-11-05) — this overrides everything older
 The owner called the "science lesson" reels (Fermi string, stochastic resonance, metronomes, Chladni) junk:
 "It needs to be ASMR videos. People watch this because they are calm and satisfying."
