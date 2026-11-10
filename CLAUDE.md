@@ -39,6 +39,28 @@ HISTORY.md rows and make something with a different object, material and action 
    most dramatic stage (or a 1-second flash-forward of it), 12–16 s of action. Kicker `LADDER` (or the
    setting's name), rule line ≤ 6 words. Exaggerated tactile foley per stage. Never knives (another page's
    format) and never balls.
+   **EQUATION DRAWS (owner, 2026-11-10, "this is what I meant: see how a cool equation is developed"; he
+   loved a reel where a Fourier series of spinning circles slowly draws a dragonfly as N climbs 1 → 8,192
+   and it finally turns into a real one).** Alternate the 10:00 ladder with this every other day (start
+   2026-11-11). Our own version, never a dragonfly, never a copy of that reel's layout:
+   - A 3D brass MACHINE draws the picture: a chain of polished brass rings/arms (epicycles = the Fourier
+     series) turning on a walnut desk, with a fine nib dragging a glowing gold line (or a groove in sand,
+     or ink on cream paper). Real equation, real rotation speeds: arm k turns k times as fast.
+   - The ladder IS the number of arms: 1 → 4 → 16 → 64 → 256 → 1,024 (stage label "1 arm", "16 arms"…).
+     The drawing goes from a wobbly loop to an unmistakable picture. Each stage change = a soft brass
+     clunk + a chord; the arms tick softly as they turn; the nib makes a fine scratch.
+   - Pick a subject people instantly recognise and want to share (a chess knight, a cat, a hummingbird,
+     a violin, a seahorse, the Taj Mahal outline, a heart, a treble clef…). Outline recipe:
+     `matplotlib.textpath.TextPath` of a DejaVu Sans glyph (♞ ♛ ♫ ✈ ❀ ☂ ♥) or a hand-built polyline →
+     resample to 4,096 points along arc length → complex FFT → keep the N largest terms, sorted by size.
+   - The payoff: at the top stage the line closes, holds a beat, then the outline rises into a real 3D
+     object of that subject (extrude + bevel the same outline in brass, glass or walnut) on the desk.
+   - On screen: kicker `ONE EQUATION`, the series in one elegant line of serif maths
+     (x(t) + i·y(t) = Σ cₖ e^{ikt}) as the rule line (this format is the one exception to "no formulas"),
+     and the arm count as the live number. No error %, no lecture, no "why…" title.
+   - 3D budget: instance the rings (one point cloud + GN) and draw the trail as a curve with a bevel and
+     an emission shader; ≤ 16 s of action; open on a striking mid-drawing frame (a flash-forward of the
+     dense stage), then rewind to 1 arm.
 1. **13:00 — "SPOT IT" puzzle** (fast to make, built for comments + rewatches). A 10–15 s SEAMLESS LOOP of
    a beautiful physics grid/field (metronomes, tops, springs, gears, clock hands, dominoes, fans,
    flags… never balls) where exactly ONE element differs subtly (longer, heavier, slower, reversed, different
