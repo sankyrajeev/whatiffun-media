@@ -7,10 +7,32 @@ Metricool posts from) and the code + rules for making them. Two reels a day: 13:
 The owner: "You are free to make decisions and constantly upgrade." Decide, ship, measure, improve.
 No need to ask the owner anything; report what you did.
 
+**NO BALLS (owner, 2026-11-10): "Stop with the balls. It's getting too much, too boring."** Balls, marbles,
+beads, pearls, spheres, bubbles-as-dots and glowing orbs are BANNED as the main objects in every reel, both
+formats, from No. 18 on. (Reels 1–17 used them to death.) Every reel must be about a different KIND of thing
+and a different KIND of action than the last 5 rows in HISTORY.md. Innovate: surprise the owner every time.
+
+**Idea bank (pick fresh, combine, invent better ones; never repeat a row of HISTORY.md):**
+- 3D ASMR, tactile actions: jelly cubes pushed through a brass wire grid → 1, 4, 16, 64… cubes; a wax
+  block sliced by 1 → 10 → 100 hot wires; kinetic sand shaved into ribbons; a stack of 1,000 glass tiles
+  toppling in a spiral; soap bars stamped into hexagons; honey/viscosity ladder pours (thin → thick)
+  onto a walnut board; silk cloth draping over 1 → 100 pins; a glass slab cracking in a fractal; paper
+  folding in half 1 → 10 times; gears meshing in a growing train (1 → 50) that turns a tiny clock; chain
+  links settling into a pile; coins stacking into a spiral tower; crystal (bismuth-like) staircase growth;
+  ice cubes melting into a mirror pool; ferrofluid spikes rising in rings; springs compressing in a wave;
+  a Jenga-style tower losing one block per beat; origami crane unfolding into a tessellation; dominoes
+  laid in a golden-angle spiral; wooden sticks (cobra weave) chain-reacting; sand pendulum drawing a
+  harmonograph in sand (the trace is the pattern, not a ball).
+- SPOT IT objects: metronome needles, spinning tops, slinkies/springs, gears, clock hands, hourglasses,
+  falling dominoes rows, spinning coins, flags in wind, candle flames, windmills/turbines, swinging
+  doors, seesaws, wind chimes (tubes), lily pads on ripples, origami birds flapping, piano hammers,
+  paper lanterns, rotating cubes, folding fans. Difference: one is a touch faster/slower,
+  heavier, longer, reversed, out of phase, stiffer, a slightly different shade or size.
+
 **Two formats, one per slot:**
 1. **13:00 — "SPOT IT" puzzle** (fast to make, built for comments + rewatches). A 10–15 s SEAMLESS LOOP of
-   a beautiful physics grid/field (pendulums, tops, bouncing balls, orbits, springs, ripples, falling
-   beads…) where exactly ONE element differs subtly (longer, heavier, slower, reversed, different
+   a beautiful physics grid/field (metronomes, tops, springs, gears, clock hands, dominoes, fans,
+   flags… never balls) where exactly ONE element differs subtly (longer, heavier, slower, reversed, different
    friction…). Laid out with letter columns + number rows. Kicker `SPOT IT` (amber, spaced), two serif
    lines naming the difference ("One pendulum is / a little longer."), a small italic line "Comment its
    letter + number". It should be hard at first and findable within ~5–8 s. The motion should be a
@@ -20,8 +42,9 @@ No need to ask the owner anything; report what you did.
    Reference: `src/2026-11-11-spot-pendulums/spot_pendulums.py`.
 2. **19:30 — 3D ASMR** (the premium look the owner asked for: "looks flat" was the complaint). Real 3D in
    Blender (`pip install --break-system-packages bpy==5.2.3` ≈ 25 min download) rendered with Cycles on CPU:
-   see `src/3d-pipeline/` — `split3d_gn.py` (scene: dark warm studio, walnut pedestal, brass, glossy
-   instanced marbles driven by a 2D/3D sim; 540x960 at 6 samples + OpenImageDenoise ≈ 9 s/frame on 2 cores)
+   see `src/3d-pipeline/` — `split3d_gn.py` (scene: dark warm studio, walnut pedestal, brass, instanced
+   objects driven by a 2D/3D sim — that reel used marbles, which are now banned; reuse the set, lights and
+   instancing, not the objects; 540x960 at 6 samples + OpenImageDenoise ≈ 9 s/frame on 2 cores)
    and `composite.py` (upscale + our header/count/mark/end card + sound). Budget: ≤ 18 s of action
    (≈ 540 frames ≈ 80 min render). Use instancing (one point cloud + Geometry Nodes) for many objects.
    Ladders of one setting, gliding, tactile materials (glass, brass, walnut, jelly-like gloss), rich
