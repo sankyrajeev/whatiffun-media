@@ -56,6 +56,13 @@ objects and events (things colliding, cutting, squishing, pouring, stacking, gli
 rendered, with lots happening — not abstract dots tracing curves.
 Keep the rule text ≤ 6 words, the count, no questions, no lectures.
 
+## 3D, NOT FLAT (owner, 2026-11-10): asked what made No. 13 too basic → "Looks flat"
+The owner's latest references are realistic 3D CGI (studio lighting, soft shadows, depth, real materials:
+wood, brushed metal, glass, jelly, marble, liquid), plus a ladder of one setting per stage ("Soft 0% → 100%",
+"10 → 1,000 cuts") and exaggerated tactile foley (chop, squish, shatter, splat). Flat 2D dots/circles on a
+black screen now read as basic. Move to real 3D scenes (Blender via `bpy`) on our dark warm studio
+background, with objects on a pedestal/surface, a key light + rim light, shadows and reflections.
+
 Look (fixed): the warm near-black radial background, cream text, Instrument Serif rule lines, Inter
 kicker, the serif count, the small `@whatiffun` mark near the bottom, the dark end card
 "Follow / @whatiffun / for more" — all exactly as `kit.py` draws them. Colours of the objects are free
