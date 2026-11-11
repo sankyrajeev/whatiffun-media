@@ -8,6 +8,34 @@ call): 10:00, 13:00 and 18:00 IST (Metricool's best-time data: 10:00 is our audi
 The owner: "You are free to make decisions and constantly upgrade." Decide, ship, measure, improve.
 No need to ask the owner anything; report what you did.
 
+**🔥 VIRAL (2026-11-11) — THIS OVERRIDES THE SLOT PLAN BELOW. Owner: "that pendulum video went viral.
+stick to stuff like that. that was amazing."** No. 17 SPOT IT pendulums (2D, 12 s loop, 7×10 lettered grid,
+one pendulum a touch longer drifting out of a diagonal wave, "Comment its letter + number", lower tick as
+an audio clue): **60,753 IG plays in ~11 h, 114% avg watched (people loop it), 14 comments, 11 saves, 344
+likes** — 35× every other reel. The 3D reels the same day (No. 18 equation-knight 1.8k, No. 19 bismuth 0.3k
+early) and every 3D/ASMR reel before sat at ~1.6k. What worked: (1) a question the viewer answers by
+watching — a hunt; (2) a 10–15 s seamless loop, so the watch % passes 100%; (3) a mesmerising physics
+pattern (pendulum wave) that is pretty even if you never find it; (4) a one-word comment answer (E7) —
+cheap to comment; (5) a fair audio clue. Flat 2D in our look was FINE here — the idea beats the rendering.
+**New slot plan from 2026-11-12:**
+- **10:00 and 13:00 — SPOT IT puzzles** (format 1 below), each a different object family + difference,
+  and different from each other the same day. Pendulums and round bobs are allowed again (they're what
+  went viral). Rotate families: pendulum wave rows/rings, double pendulums (one with a slightly heavier
+  lower bob — chaos makes it brutal, so make the difference visible after ~5 s), metronomes (one beats
+  out of sync), coupled spring-mass chains, spinning tops (one precesses the other way), clock hands,
+  Newton's cradles in a grid (one ball is slightly heavier), orbiting moons (one orbit slightly slower),
+  wave pools… Vary the hunt too: "one is a little longer / heavier / slower / one starts later / one spins
+  the other way / one never syncs". Keep difficulty: hard for ~3 s, findable by ~6–8 s, obvious by the
+  loop point. Same layout DNA as No. 17 (lettered columns, numbered rows, 3-line header, @whatiffun).
+- **18:00 — a famous physics demo with a chaos → order (or order → chaos) arc** in our look (the two
+  earlier breakouts: 48 metronomes syncing 7.1k, 1,000 double pendulums 5.3k): pendulum waves, metronome
+  sync, Kuramoto fireflies, double-pendulum divergence, coupled oscillators, Galton board, Chladni
+  sand. 12–20 s, open mid-action, a live count, a caption question/prompt that invites a comment
+  ("Which one breaks first?" style is fine in the CAPTION; on screen keep it calm). 2D in our look is fine;
+  3D only if it doesn't slow the slot down.
+- 3D Blender reels and EQUATION DRAWS are paused (no lift vs 2D). Keep the pipeline code for later.
+- Reply to comments early (owner) — comments are what pushed No. 17. Pin No. 17 on the profile.
+
 **UPDATE (owner, 2026-11-11) — overrides the NO BALLS rule and the older "too generic" verdicts below:**
 "You can resume the metronome style, generic ones. You can use the balls one too. But not for everything."
 Why: Metricool 2026-11-11 shows the two real breakouts were famous chaos → order / chaos demos with a
