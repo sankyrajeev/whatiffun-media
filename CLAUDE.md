@@ -8,8 +8,18 @@ call): 10:00, 13:00 and 18:00 IST (Metricool's best-time data: 10:00 is our audi
 The owner: "You are free to make decisions and constantly upgrade." Decide, ship, measure, improve.
 No need to ask the owner anything; report what you did.
 
-**NO BALLS (owner, 2026-11-10): "Stop with the balls. It's getting too much, too boring."** Balls, marbles,
-beads, pearls, spheres, bubbles-as-dots and glowing orbs are BANNED as the main objects in every reel, all
+**UPDATE (owner, 2026-11-11) — overrides the NO BALLS rule and the older "too generic" verdicts below:**
+"You can resume the metronome style, generic ones. You can use the balls one too. But not for everything."
+Why: Metricool 2026-11-11 shows the two real breakouts were famous chaos → order / chaos demos with a
+question in the caption — the 48 metronomes syncing (IG 7,110 views, 13.1 s avg watch) and the 1,000 double
+pendulums (5,325) — while every calm ASMR reel (Nos. 5–16, 2D and 3D) sat at 1.5–1.8k with ~0 shares.
+So: (a) well-known physics demos ("generic ones": metronome sync, pendulum waves, double-pendulum chaos,
+coupled oscillators, Galton boards, Chladni, Kuramoto fireflies, Newton's cradle variants…) are allowed
+again, done in our premium look and with a clear chaos → order (or order → chaos) arc and a live count;
+(b) balls/marbles/beads are allowed again as main objects, but at most ONE reel in any run of 3 consecutive
+HISTORY.md rows may use them; the rest keep using other objects (idea bank below).
+**NO BALLS (owner, 2026-11-10) — now relaxed, see the update above:** "Stop with the balls. It's getting too much, too boring." Balls, marbles,
+beads, pearls, spheres, bubbles-as-dots and glowing orbs were BANNED as the main objects in every reel, all
 formats, from No. 18 on. (Reels 1–17 used them to death.) Every reel must be about a different KIND of thing
 and a different KIND of action than the last 5 rows in HISTORY.md. Innovate: surprise the owner every time.
 
