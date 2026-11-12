@@ -1,8 +1,8 @@
 # whatiffun reels — playbook
 
 This repo hosts the videos for **@whatiffun** (Instagram Reels + YouTube Shorts; public raw links are what
-Metricool posts from) and the code + rules for making them. THREE reels a day from 2026-11-11 (owner's
-call): 10:00, 13:00 and 18:00 IST (Metricool's best-time data: 10:00 is our audience's peak, 18:00 beats 19:30).
+Metricool posts from) and the code + rules for making them. FOUR reels a day from 2026-11-13 (owner's
+call): 10:00, 13:00, 15:00 and 18:00 IST (Metricool's best-time data: 10:00 is our audience's peak, 18:00 beats 19:30).
 
 ## CURRENT PLAN (2026-11-10) — read this first; it overrides older sections where they conflict
 The owner: "You are free to make decisions and constantly upgrade." Decide, ship, measure, improve.
@@ -47,6 +47,25 @@ cheap to comment; (5) a fair audio clue. Flat 2D in our look was FINE here — t
   checks this and edits the 18:00 task's prompt).
 - **18:00 tension → release (2026-11-12 reference):** build the demo around a near-miss — a long "almost" (it nearly syncs, the gap nearly closes, the last one nearly falls) with ticks building tempo — then a sudden cascading payoff. Comment prompt in the caption can ride the tension ("Guess the second it happens.").
 - Reply to comments early (owner) — comments are what pushed No. 17. Pin No. 17 on the profile.
+
+**15:00 — SATISFYING CHAIN REACTION (owner, 2026-11-12, after No. 23 "One gap": "This is nice. Tomorrow after
+plan to post stuff like this around 3pm… stick to similar video like I told. Satisfying").** A FOURTH daily slot.
+DNA of No. 23 (code: `src/2026-11-12-one-gap/`): ONE clear goal the viewer instantly gets (get in / break
+through / reach / fill), a long NEAR-MISS build-up of ~10–14 s (it almost makes it again and again — the gap
+glows, every close call flashes and ticks louder), then a sudden RELEASE into an exploding, satisfying
+cascade (things multiply, break, clear, fill) ~5–7 s, a live count racing up, "cleared/filled" moment +
+chord, end card; 20–26 s total. 2D in our look, crisp glossy objects, colour gradients; the arena must read
+at phone size (big, bright hero object during the build-up). Kicker = the goal in 2 words ("ONE GAP"),
+rule lines ≤ 6 words ("Find the gap. / Then it multiplies."). Caption prompt rides the tension: "Guess the
+second it slips through." Balls are ALLOWED in this slot (that's the format); keep the other slots' reels
+not ball-led. Change the arena + mechanic every day — never the same board twice: a round arena with one
+gap in a spinning-free steel ring; a honeycomb of hex blocks; a spiral wall with one opening; a glass jar
+whose lid has one hole and the balls multiply until it overflows; a dam of blocks that one drip erodes until
+it bursts; a lock of nested rings with one gap each (inner rings only open after the outer is cleared)…
+Tune the sim headless so the near misses are VISIBLE (search launch angles/positions for the most spread
+near misses, like gap.py's search) and the cascade lasts 5–7 s (not < 2 s, not > 9 s). NEVER copy another
+creator's game, layout or face-cam. The owner rejected "One spark" (top-down matches, invisible tension):
+if a viewer can't tell what is almost happening, it fails.
 
 **UPDATE (owner, 2026-11-11) — overrides the NO BALLS rule and the older "too generic" verdicts below:**
 "You can resume the metronome style, generic ones. You can use the balls one too. But not for everything."
