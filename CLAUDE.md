@@ -45,6 +45,7 @@ cheap to comment; (5) a fair audio clue. Flat 2D in our look was FINE here — t
 - **18:00 slot rule.** If the 18:00 famous demos (from No. 22 on) stay under ~5k IG plays at 24 h for two
   in a row while SPOT IT keeps beating them, switch 18:00 to a third daily SPOT IT (the weekly review
   checks this and edits the 18:00 task's prompt).
+- **18:00 tension → release (2026-11-12 reference):** build the demo around a near-miss — a long "almost" (it nearly syncs, the gap nearly closes, the last one nearly falls) with ticks building tempo — then a sudden cascading payoff. Comment prompt in the caption can ride the tension ("Guess the second it happens.").
 - Reply to comments early (owner) — comments are what pushed No. 17. Pin No. 17 on the profile.
 
 **UPDATE (owner, 2026-11-11) — overrides the NO BALLS rule and the older "too generic" verdicts below:**
