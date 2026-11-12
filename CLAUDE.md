@@ -67,6 +67,21 @@ near misses, like gap.py's search) and the cascade lasts 5–7 s (not < 2 s, not
 creator's game, layout or face-cam. The owner rejected "One spark" (top-down matches, invisible tension):
 if a viewer can't tell what is almost happening, it fails.
 
+**RACE (owner, 2026-11-12: "You can add this too", after a "1 vs 100 vs 10,000" lane race).** The 18:00 slot
+now ALTERNATES: RACE on odd days of the month, famous physics demo on even days (start 2026-11-13 = race).
+Format: 3 side-by-side lanes (labelled A / B / C, each its own colour), one goal readable in 1 second
+("First to the bottom wins", "First jar full wins"), the same start, a different PHYSICAL setting per lane;
+the early leader must NOT be the winner (a real comeback), the finish is close and the margin is shown
+("C wins by 0.18 s"). Live per-lane counters (time / distance / count). Real, deterministic physics so the
+result is true — and ideally counter-intuitive, so people argue in the comments: brachistochrone (straight
+ramp vs steep drop vs cycloid curve), honey vs oil vs water fall-through (viscosity), 1 big vs 100 medium
+vs 10,000 grains through a funnel, heavy vs light vs hollow cylinders rolling down a slope, pendulum
+lengths, spring stiffness, Galton boards with different peg spacing, dominoes with different spacing… Our
+look (warm black, cream serif header, amber kicker `RACE`), ASMR sound per lane panned left/centre/right,
+a chord + "A/B/C wins" at the finish, end card; 18–28 s. Caption: one line on the setup + "Pick your lane
+before it starts: A, B or C 👇" (the cheap one-letter comment that made SPOT IT work) + "Sound on. 🎧".
+Never copy that creator's columns-of-HP-floors, ball counts, neon look or wording.
+
 **UPDATE (owner, 2026-11-11) — overrides the NO BALLS rule and the older "too generic" verdicts below:**
 "You can resume the metronome style, generic ones. You can use the balls one too. But not for everything."
 Why: Metricool 2026-11-11 shows the two real breakouts were famous chaos → order / chaos demos with a
