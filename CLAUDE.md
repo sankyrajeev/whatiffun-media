@@ -34,6 +34,17 @@ cheap to comment; (5) a fair audio clue. Flat 2D in our look was FINE here — t
   ("Which one breaks first?" style is fine in the CAPTION; on screen keep it calm). 2D in our look is fine;
   3D only if it doesn't slow the slot down.
 - 3D Blender reels and EQUATION DRAWS are paused (no lift vs 2D). Keep the pipeline code for later.
+**Upgrades (2026-11-12, after No. 20 metronomes also hit 41k in 5.5 h, 163% watched, and No. 17 passed
+275k plays but only ~25 follows):**
+- **Answer loop → follows.** Every SPOT IT caption adds a line "Yesterday's answer: <letter+number> 🎯"
+  revealing the PREVIOUS DAY's puzzle in the SAME slot (take it from HISTORY.md; skip the line if there is
+  none), and every SPOT IT Metricool post sets `firstCommentText` to "Answer in tomorrow's puzzle 👀".
+- **No sameness.** Each SPOT IT must change the ARRANGEMENT as well as the object (rectangular grid,
+  ring/clock face, spiral, staggered rows, concentric rings…) — never the same layout two puzzles running.
+  Keep the lettered/numbered addressing (for rings: letters around, numbers outward).
+- **18:00 slot rule.** If the 18:00 famous demos (from No. 22 on) stay under ~5k IG plays at 24 h for two
+  in a row while SPOT IT keeps beating them, switch 18:00 to a third daily SPOT IT (the weekly review
+  checks this and edits the 18:00 task's prompt).
 - Reply to comments early (owner) — comments are what pushed No. 17. Pin No. 17 on the profile.
 
 **UPDATE (owner, 2026-11-11) — overrides the NO BALLS rule and the older "too generic" verdicts below:**
