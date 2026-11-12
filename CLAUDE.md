@@ -53,6 +53,15 @@ cheap to comment; (5) a fair audio clue. Flat 2D in our look was FINE here — t
   above the grid (calm, no beeps — a soft tick per second at most), the 10:00 puzzle does not; the weekly review
   compares plays/comments/watch % and keeps the winner; (4) a shared visible CAUSE helps (wind, a wave, a
   push, a magnet field) with one element defying or lagging it.
+- **BREAKS PHYSICS puzzles (2026-11-12, owner reference):** every THIRD SPOT IT (whichever slot is next after
+  two normal ones in HISTORY.md) hides one object that VIOLATES a law instead of a small parameter change.
+  Two serif lines: "One of these / breaks physics." Our own violations (never the reference's cradle where 1
+  ball in → 2 out): a pendulum that swings a little HIGHER each time (gains energy); a bouncing ball that
+  bounces higher than it fell; a spinning top that never slows while the rest wind down; an hourglass whose
+  sand trickles UP; a ripple that converges back into the stone; a spring that stretches when unloaded; a
+  domino that falls and then stands back up; a coin whose spin speeds up; a candle flame leaning INTO the
+  wind. Subtle enough to take ~5 s, unmistakable once seen. Caption: "Comment its letter + number — and
+  tell us which law it breaks." (an invitation to longer comments).
 - Reply to comments early (owner) — comments are what pushed No. 17. Pin No. 17 on the profile.
 
 **15:00 — SATISFYING CHAIN REACTION (owner, 2026-11-12, after No. 23 "One gap": "This is nice. Tomorrow after
