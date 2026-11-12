@@ -46,6 +46,13 @@ cheap to comment; (5) a fair audio clue. Flat 2D in our look was FINE here — t
   in a row while SPOT IT keeps beating them, switch 18:00 to a third daily SPOT IT (the weekly review
   checks this and edits the 18:00 task's prompt).
 - **18:00 tension → release (2026-11-12 reference):** build the demo around a near-miss — a long "almost" (it nearly syncs, the gap nearly closes, the last one nearly falls) with ticks building tempo — then a sudden cascading payoff. Comment prompt in the caption can ride the tension ("Guess the second it happens.").
+- **SPOT IT upgrades (2026-11-12, from two owner-sent puzzle reels):** (1) add a small line under the
+  "Comment its letter + number" line: "Like it if you found it 👍" (italic, ~32 px, 50% cream); (2) vary the
+  difficulty: every other puzzle uses a BIG field (120–220 smaller objects, still readable at phone size) so
+  people pause and loop; (3) A/B TEST for one week: the 13:00 puzzle shows a slim 12 → 0 countdown ring/number
+  above the grid (calm, no beeps — a soft tick per second at most), the 10:00 puzzle does not; the weekly review
+  compares plays/comments/watch % and keeps the winner; (4) a shared visible CAUSE helps (wind, a wave, a
+  push, a magnet field) with one element defying or lagging it.
 - Reply to comments early (owner) — comments are what pushed No. 17. Pin No. 17 on the profile.
 
 **15:00 — SATISFYING CHAIN REACTION (owner, 2026-11-12, after No. 23 "One gap": "This is nice. Tomorrow after
