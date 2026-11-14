@@ -8,6 +8,30 @@ call): 10:00, 13:00, 15:00 and 18:00 IST (Metricool's best-time data: 10:00 is o
 The owner: "You are free to make decisions and constantly upgrade." Decide, ship, measure, improve.
 No need to ask the owner anything; report what you did.
 
+**🚫 QUALITY GATE (owner, 2026-11-14, took No. 30 down: "Did you genuinely think the ball video … was even
+nice? … it looks dumb. You are supposed to make it interesting and keep people at it.")** No. 30 "one hole"
+(1,006 plays) failed because for 12.5 s of 24 s the screen was ONE ball bouncing on a thin line over an
+empty black jar, then balls appeared from nowhere into a perfect fake lattice. Rules for EVERY reel:
+1. **Frame 1 is full and beautiful.** The thing at stake (a colourful wall, a field of objects, a pattern)
+   fills most of the frame from the first frame. Never a mostly-black screen with one small object.
+2. **Something worth watching changes every second.** If any 2-second stretch would look the same as a
+   screenshot, cut it. Build-ups are ≤ 5 s, not 10–14 s.
+3. **The payoff is physical and believable.** Nothing appears from nowhere; no perfect lattices; things
+   pile, scatter, bounce and settle like real objects.
+4. **Independent review before posting.** After the full render, spawn a FRESH reviewer with the Agent tool
+   (it must not see your plan or your reasoning): give it a contact sheet of frames every 1.5 s plus the
+   caption and ask "You're a stranger scrolling Instagram. Score 1–10 how likely you are to keep watching
+   to the end, and name the dullest 2 seconds." Post only if it scores ≥ 8 and the dull stretch is fixed or
+   absent; otherwise fix and re-review once, and if it still fails send the owner the file and the
+   reviewer's verdict instead of posting. (If the Agent tool isn't available, apply the same test yourself
+   strictly.)
+**Data (vidIQ 2026-11-14):** SPOT IT puzzles are the page: No. 21 tops 154k (291 comments, 134 shares),
+No. 20 metronomes 146k, No. 25 springs 72k, No. 29 hourglasses 8k; everything else 0.3k–7.5k (No. 27 race
+337, No. 22 pendulum wave 1.9k, No. 30 1.0k). Followers 10 → 88 in four days, nearly all from puzzles.
+**Slot plan from 2026-11-15: 10:00, 13:00 and 18:00 = SPOT IT puzzles; 15:00 = satisfying (rebriefed
+below).** The 18:00 race/demo slot hit the switch rule (two under 5k: No. 22 1.9k, No. 27 337). Three
+puzzles a day must differ from each other in object family, kind of difference AND arrangement.
+
 **🔥 VIRAL (2026-11-11) — THIS OVERRIDES THE SLOT PLAN BELOW. Owner: "that pendulum video went viral.
 stick to stuff like that. that was amazing."** No. 17 SPOT IT pendulums (2D, 12 s loop, 7×10 lettered grid,
 one pendulum a touch longer drifting out of a diagonal wave, "Comment its letter + number", lower tick as
@@ -67,10 +91,11 @@ cheap to comment; (5) a fair audio clue. Flat 2D in our look was FINE here — t
 **15:00 — SATISFYING CHAIN REACTION (owner, 2026-11-12, after No. 23 "One gap": "This is nice. Tomorrow after
 plan to post stuff like this around 3pm… stick to similar video like I told. Satisfying").** A FOURTH daily slot.
 DNA of No. 23 (code: `src/2026-11-12-one-gap/`): ONE clear goal the viewer instantly gets (get in / break
-through / reach / fill), a long NEAR-MISS build-up of ~10–14 s (it almost makes it again and again — the gap
-glows, every close call flashes and ticks louder), then a sudden RELEASE into an exploding, satisfying
-cascade (things multiply, break, clear, fill) ~5–7 s, a live count racing up, "cleared/filled" moment +
-chord, end card; 20–26 s total. 2D in our look, crisp glossy objects, colour gradients; the arena must read
+through / reach / fill), a SHORT near-miss build-up of ≤ 5 s (REVISED 2026-11-14 after No. 30 — the old 10–14 s made dead
+air) while the frame is already full of the colourful thing at stake, then a RELEASE into an exploding,
+satisfying cascade (things multiply, break, clear, fill) that keeps escalating for 8–12 s, a live count
+racing up, "cleared/filled" moment + chord, end card; 16–22 s total. Best so far: No. 26 break-out
+(7.5k) and No. 23 one-gap: a full block wall from frame 1. Never an empty arena with one ball. 2D in our look, crisp glossy objects, colour gradients; the arena must read
 at phone size (big, bright hero object during the build-up). Kicker = the goal in 2 words ("ONE GAP"),
 rule lines ≤ 6 words ("Find the gap. / Then it multiplies."). Caption prompt rides the tension: "Guess the
 second it slips through." Balls are ALLOWED in this slot (that's the format); keep the other slots' reels
