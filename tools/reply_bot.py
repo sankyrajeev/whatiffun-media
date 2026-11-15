@@ -6,7 +6,9 @@ Every run (GitHub Actions, every 15 min):
   * replies to answer-style comments on SPOT IT puzzles ("E7", "b 4", "found it") with a rotating,
     spoiler-free line ("Locked in 🔒 …") — it never says whether a guess is right,
   * replies to "what's the answer?" comments with where the answer appears,
-  * leaves everything else (questions, long comments, other reels) for a human.
+  * leaves everything else (questions, long comments, other reels) for a human,
+  * 24 h after a puzzle goes up, posts its answer as a comment ON THAT PUZZLE ("Answer: E6 🎯 …"), using
+    answers.json (puzzle number -> cell), once per puzzle.
 
 Stateless: a comment counts as answered when it already has a reply from our own account.
 Public repo => logs are public, so we only ever print counts and ids, never names or comment text.
@@ -14,32 +16,35 @@ Public repo => logs are public, so we only ever print counts and ids, never name
 Env: IG_TOKEN (required, long-lived Instagram user token with instagram_business_basic +
 instagram_business_manage_comments), DRY_RUN=1 to only count, MAX_REPLIES (default 25 per run).
 """
-import json, os, random, re, sys, time, urllib.error, urllib.parse, urllib.request
+import json, os, pathlib, random, re, sys, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone
 
 API = "https://graph.instagram.com"
-MEDIA_LIMIT = 30            # ~a week of reels at 4 a day
+MEDIA_LIMIT = 60            # ~two weeks of reels at 4 a day
+ANSWER_AFTER_H = 24         # reveal the answer on the puzzle this long after it posts
 REPLY_WINDOW_H = 48         # only comments younger than this
 MAX_REPLIES = int(os.environ.get("MAX_REPLIES", "25"))
 DRY = os.environ.get("DRY_RUN", "") not in ("", "0", "false")
 
 LINES = [
-    "Locked in 🔒 Answer drops in tomorrow's puzzle 👀",
-    "Noted ✍️ The answer is in tomorrow's caption 🎯",
-    "Bold pick 👀 Tomorrow's puzzle reveals it",
-    "Got it 📌 Check tomorrow's puzzle for the answer",
-    "Locked in. Answer tomorrow, same time 🎯",
-    "Pinned your guess 📌 We reveal it tomorrow 👀",
+    "Locked in 🔒 The answer drops right here tomorrow 👀",
+    "Noted ✍️ We post the answer in these comments tomorrow 🎯",
+    "Bold pick 👀 Answer goes up here tomorrow",
+    "Got it 📌 Check back here tomorrow for the answer",
+    "Locked in. Answer in the comments tomorrow 🎯",
+    "Pinned your guess 📌 We reveal it here tomorrow 👀",
 ]
 LINES_BREAKS = [
-    "Locked in 🔒 Tomorrow we reveal which one, and the law it breaks 👀",
-    "Noted ✍️ Answer (and the broken law) in tomorrow's caption 🎯",
-    "Bold pick 👀 Tomorrow's puzzle reveals the cheater",
+    "Locked in 🔒 Tomorrow we reveal it here, and the law it breaks 👀",
+    "Noted ✍️ Answer (and the broken law) drops here tomorrow 🎯",
+    "Bold pick 👀 We reveal the cheater here tomorrow",
 ]
 LINES_ASK = [
-    "It's in tomorrow's puzzle caption 👀 Comment your guess first!",
-    "Answer drops tomorrow 🎯 Take a guess: letter + number",
+    "It drops right here in the comments tomorrow 👀 Take a guess first!",
+    "Answer goes up here tomorrow 🎯 Guess first: letter + number",
 ]
+ANSWER_FMT = "Answer: {answer} 🎯 It's {what}. Did you get it? New puzzle tomorrow 👀"
+
 
 # grid address: a column letter A–L and a row number 1–12, e.g. "E7", "e 7", "E-7", "7E"
 ADDR = re.compile(r"(?<![a-z0-9])(?:[a-l]\s?[-:.]?\s?(?:1[0-2]|[1-9])|(?:1[0-2]|[1-9])\s?[-:.]?\s?[a-l])(?![a-z0-9])", re.I)
@@ -98,9 +103,11 @@ def main():
     me = api("me", {"fields": "user_id,username"})
     my_name = me["username"].lower()
     since = datetime.now(timezone.utc) - timedelta(hours=REPLY_WINDOW_H)
-    media = api("me/media", {"fields": "id,caption,timestamp,media_product_type", "limit": MEDIA_LIMIT}).get("data", [])
+    media = paged("me/media", {"fields": "id,caption,timestamp,media_product_type", "limit": 50}, cap=MEDIA_LIMIT)
+    answers = json.loads((pathlib.Path(__file__).resolve().parent.parent / "answers.json").read_text())
+    now = datetime.now(timezone.utc)
     rng = random.Random()
-    stats = {"media": 0, "comments": 0, "already": 0, "skipped": 0, "replied": 0, "failed": 0}
+    stats = {"media": 0, "comments": 0, "already": 0, "skipped": 0, "replied": 0, "failed": 0, "answers_posted": 0}
     todo = []
     for m in media:
         cap = (m.get("caption") or "").lower()
@@ -109,7 +116,22 @@ def main():
         stats["media"] += 1
         pool = LINES_BREAKS if "breaks physics" in cap else LINES
         comments = paged(f"{m['id']}/comments",
-                         {"fields": "id,text,timestamp,username,replies{username}", "limit": 50})
+                         {"fields": "id,text,timestamp,username,replies{username}", "limit": 50}, cap=3000)
+        # 1) reveal the answer on the puzzle itself, once, ANSWER_AFTER_H after it went up
+        mnum = re.match(r"\s*no\.\s*(\d+)", cap)
+        posted = datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z")
+        if mnum and mnum.group(1) in answers and now - posted >= timedelta(hours=ANSWER_AFTER_H):
+            mine = [c for c in comments if (c.get("username") or "").lower() == my_name]
+            if not any((c.get("text") or "").lower().startswith("answer:") for c in mine):
+                a = answers[mnum.group(1)]
+                if DRY:
+                    stats["answers_posted"] += 1
+                else:
+                    try:
+                        api(f"{m['id']}/comments", {"message": ANSWER_FMT.format(**a)}, method="POST")
+                        stats["answers_posted"] += 1
+                    except RuntimeError as e:
+                        stats["failed"] += 1; print("answer failed", m["id"], str(e)[:200])
         for c in comments:
             ts = datetime.strptime(c["timestamp"], "%Y-%m-%dT%H:%M:%S%z")
             if ts < since:

@@ -93,9 +93,13 @@ cheap to comment; (5) a fair audio clue. Flat 2D in our look was FINE here — t
 - 3D Blender reels and EQUATION DRAWS are paused (no lift vs 2D). Keep the pipeline code for later.
 **Upgrades (2026-11-12, after No. 20 metronomes also hit 41k in 5.5 h, 163% watched, and No. 17 passed
 275k plays but only ~25 follows):**
-- **Answer loop → follows.** Every SPOT IT caption adds a line "Yesterday's answer: <letter+number> 🎯"
-  revealing the PREVIOUS DAY's puzzle in the SAME slot (take it from HISTORY.md; skip the line if there is
-  none), and every SPOT IT Metricool post sets `firstCommentText` to "Answer in tomorrow's puzzle 👀".
+- **Answer loop (REVISED 2026-11-15, owner: "You always leave a comment saying answer in the next puzzle. But there's
+  never an answer").** The answer goes ON THE PUZZLE ITSELF: every SPOT IT adds its entry to `answers.json`
+  ({"<No.>": {"answer": "E6", "what": "the clock running backwards"}}) in the same commit, and the reply bot
+  (`tools/reply_bot.py`, GitHub Actions every 15 min) comments "Answer: E6 🎯 It's the clock running backwards…" on
+  that reel 24 h after it posts. Every SPOT IT Metricool post sets `firstCommentText` to
+  "Answer drops right here tomorrow 👀". The caption also reveals the previous puzzle in the same slot, named:
+  "Answer to No. <N>: <cell> 🎯" (skip if none). Never write "Answer in tomorrow's puzzle".
 - **No sameness.** Each SPOT IT must change the ARRANGEMENT as well as the object (rectangular grid,
   ring/clock face, spiral, staggered rows, concentric rings…) — never the same layout two puzzles running.
   Keep the lettered/numbered addressing (for rings: letters around, numbers outward).
