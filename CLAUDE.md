@@ -25,9 +25,9 @@ empty black jar, then balls appeared from nowhere into a perfect fake lattice. R
    absent; otherwise fix and re-review once, and if it still fails send the owner the file and the
    reviewer's verdict instead of posting. (If the Agent tool isn't available, apply the same test yourself
    strictly.)
-**Data (vidIQ 2026-11-14):** SPOT IT puzzles are the page: No. 21 tops 154k (291 comments, 134 shares),
-No. 20 metronomes 146k, No. 25 springs 72k, No. 29 hourglasses 8k; everything else 0.3k–7.5k (No. 27 race
-337, No. 22 pendulum wave 1.9k, No. 30 1.0k). Followers 10 → 88 in four days, nearly all from puzzles.
+**Data (weekly review 2026-11-15, full table at the bottom of HISTORY.md):** SPOT IT is the page —
+normal-size puzzles: No. 17 286k, No. 21 175k (319 comments, 138 shares), No. 20 168k, No. 25 76k, No. 29 40k
+(100 comments); everything else 0.4k–7.6k. Followers 10 → 97 in five days. See "What the numbers say".
 **Slot plan from 2026-11-15: 10:00, 13:00 and 18:00 = SPOT IT puzzles; 15:00 = satisfying (rebriefed
 below).** The 18:00 race/demo slot hit the switch rule (two under 5k: No. 22 1.9k, No. 27 337). Three
 puzzles a day must differ from each other in object family, kind of difference AND arrangement.
@@ -71,11 +71,13 @@ cheap to comment; (5) a fair audio clue. Flat 2D in our look was FINE here — t
   checks this and edits the 18:00 task's prompt).
 - **18:00 tension → release (2026-11-12 reference):** build the demo around a near-miss — a long "almost" (it nearly syncs, the gap nearly closes, the last one nearly falls) with ticks building tempo — then a sudden cascading payoff. Comment prompt in the caption can ride the tension ("Guess the second it happens.").
 - **SPOT IT upgrades (2026-11-12, from two owner-sent puzzle reels):** (1) add a small line under the
-  "Comment its letter + number" line: "Like it if you found it 👍" (italic, ~32 px, 50% cream); (2) vary the
-  difficulty: every other puzzle uses a BIG field (120–220 smaller objects, still readable at phone size) so
-  people pause and loop; (3) A/B TEST for one week: the 13:00 puzzle shows a slim 12 → 0 countdown ring/number
-  above the grid (calm, no beeps — a soft tick per second at most), the 10:00 puzzle does not; the weekly review
-  compares plays/comments/watch % and keeps the winner; (4) a shared visible CAUSE helps (wind, a wave, a
+  "Comment its letter + number" line: "Like it if you found it 👍" (italic, ~32 px, 50% cream); (2) BIG FIELDS ARE
+  DROPPED (weekly review 2026-11-15: No. 24 120 candles 3.2k, No. 28 147 compasses 3.4k vs 40k–286k for every
+  normal field) — every puzzle uses 45–80 objects, each big enough to read on a phone; difficulty comes from
+  a subtle difference, not from tiny objects; (3) COUNTDOWN: the A/B week ended with the countdown arm
+  (No. 25 76k, No. 29 40k) far ahead of the no-countdown arm (Nos. 24/28, ~3k — but those were also the big
+  fields, so it is not a clean win). Decision: every SPOT IT now shows the slim 12 → 0 countdown ring above the
+  grid (calm, a soft tick per second at most); (4) a shared visible CAUSE helps (wind, a wave, a
   push, a magnet field) with one element defying or lagging it.
 - **BREAKS PHYSICS puzzles (2026-11-12, owner reference):** every THIRD SPOT IT (whichever slot is next after
   two normal ones in HISTORY.md) hides one object that VIOLATES a law instead of a small parameter change.
@@ -206,16 +208,28 @@ HISTORY.md rows and make something with a different object, material and action 
    Ladders of one setting, gliding, tactile materials (glass, brass, walnut, jelly-like gloss), rich
    lighting. The 2D kit look (flat dots on black) is no longer acceptable for this slot.
 
-**What the numbers say (vidIQ, 2026-11-10):** every reel stalls at ~1,500–1,800 IG plays (Instagram's
-first test pool) because shares, saves and comments are ~0 (1 comment in 11 reels; followers 8 → 10). The
-only breakout was the 1,000 double pendulums (5,187). Best retention: No. 10 pearls, 82% watched at 22 s.
-~30% swipe away in the first second. So:
-- **Open on the most striking moment** (no slow build from one object; start mid-action, beautiful at frame 1).
-- **Shorter: 15–18 s** of action for ASMR; 10–15 s loops for SPOT IT.
-- **Caption must invite a share or save**, not just describe: e.g. "Send this to someone who needs
-  20 seconds of calm." / "Save this for when your brain is loud." (a statement, no question on screen).
+**What the numbers say (weekly review 2026-11-15, Nos. 7–31; full table in HISTORY.md):**
+- **The ~1.7k Instagram ceiling is broken only by normal-size SPOT IT puzzles.** Every 2D/3D ASMR reel, the
+  equation draw, the famous demos (No. 22 1.9k, No. 31 1.9k) and the race (No. 27 0.4k) sat at 0.4k–2.1k with
+  ~0 comments/shares. Puzzles with 48–70 objects: 40k–286k, 118–177% watched (people loop them), 18–319
+  comments. The 15:00 satisfying slot is the only other format above the ceiling (No. 26 break-out 7.6k).
+- **Big fields flop** (No. 24 3.2k, No. 28 3.4k) even though watch % stayed ~100%: the first-second skip on
+  No. 24 was 45% — a wall of tiny objects doesn't read as a puzzle on the feed. Dropped (see SPOT IT upgrades).
+- **BREAKS PHYSICS brings comments**: No. 29 got 100 comments on 40k plays (2.5 per 1,000, ~4× the other
+  puzzles) because the caption invites "which law it breaks". Keep it every third puzzle.
+- **Puzzle reach is decaying** (286k → 168/175k → 76k → 40k): freshness matters. Each puzzle needs a family
+  the audience hasn't seen and a pretty pattern from frame 1. If the three daily puzzles average under ~10k IG
+  plays at 24 h next week, the next review cuts 18:00 back to a satisfying/demo reel (puzzle fatigue).
+- **YouTube is flat for everything (0.8k–3.5k)** — puzzles don't break out there (No. 17 2.1k); the best YT
+  Short is No. 26 break-out (3.5k). Keep cross-posting; don't plan around YouTube.
+- Title score didn't predict views (most titles scored 95–99 and the spread came entirely from the format).
+- Opening frame: first-second skip is ~26–32% on the hits and 38–46% on the flops (No. 14, 19, 22, 24) — a
+  full, colourful, already-moving frame 1 is the quality gate's rule 1 for a reason.
+**Changes for the week of 2026-11-16:** (1) all SPOT IT at 45–80 readable objects, no big fields; (2) the
+countdown ring on every SPOT IT; (3) new families to use first (none seen yet): Newton's cradles in a grid,
+double pendulums, clock faces, orbiting moons, wind chimes, folding fans, seesaws.
 - Track per-reel plays, watched %, skip rate, shares, saves and comments in HISTORY.md (the weekly review
-  fills them in) and lean into whatever breaks the ~1.7k ceiling.
+  fills them in).
 
 ## THE DIRECTION: calm, satisfying ASMR (owner, 2026-11-05) — this overrides everything older
 The owner called the "science lesson" reels (Fermi string, stochastic resonance, metronomes, Chladni) junk:
