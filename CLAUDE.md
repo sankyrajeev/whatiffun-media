@@ -34,6 +34,30 @@ empty black jar, then balls appeared from nowhere into a perfect fake lattice. R
    - Avoid the common fails up front (2026-11-15 lessons): puzzle motion must be BIG — at least half the
      object spacing, across the row, every object visibly moving every second (No. 32 pinwheels and No. 33
      lanterns read as stills); keep satisfying-slot cameras close through the payoff (No. 34).
+**🧩 SPOT IT v3 (owner, 2026-11-15 16:00: "your puzzle videos are getting horrible", sent the reference "WHO EXITS
+THE WRONG SIDE?" — 99 capsules, dots glide through, one turns back). This OVERRIDES older SPOT IT layout/difference
+rules below. First reel made this way: No. 35 spot-clocks (`src/2026-11-15-spot-clocks/spot_clocks.py`, copy its layout).**
+What went wrong (Nos. 28–35): thin serif "SPOT IT / One lantern hangs / on a shorter cord." headers that don't read at
+phone size; rainbow gradients + ornate objects (lanterns, seesaws with blocks) = visual noise; SUBTLE PARAMETER
+differences (a touch shorter / heavier / slower) that nobody can verify, so nobody comments with confidence.
+1. **Headline = a big bold QUESTION**, 2 lines, uppercase, InterDisplay ExtraBold ~84 px, line 1 cream, line 2 amber
+   ("WHICH CLOCK / RUNS BACKWARDS?", "WHICH GATE / LETS IT THROUGH?", "WHICH ONE / NEVER STOPS?"). Readable in 1 s.
+   No `SPOT IT` kicker, no serif rule lines, no countdown ring (the countdown is DROPPED — clutter, and the owner's
+   references don't have one).
+2. **The odd one breaks a RULE you can see and verify, every 2–3 s**: turns the other way, exits the wrong side,
+   goes up instead of down, stops when the others don't, skips a beat, bounces back, never lands, passes through a
+   wall. CATEGORICAL, never "slightly longer / heavier / slower / shorter cord". Once seen = 100% sure → people comment.
+   (BREAKS PHYSICS every third puzzle still fits: the headline becomes "WHICH ONE / BREAKS PHYSICS?" + a clear law break.)
+3. **Simple identical objects, one calm colour scheme** (cream/brass/amber on our warm black, or ONE accent colour);
+   no rainbow across the grid, no ornate props. 45–80 objects (up to ~90 if very simple), each ≥ ~90 px.
+4. **Everything moves all the time with BIG motion** (whole turns, full-width glides), randomly phased so you must
+   check each one: hard for ~3 s, findable by ~5–8 s. A pretty underlying pattern is a bonus but must not make the odd one
+   pop out instantly.
+5. Bottom CTA under the grid: "Comment its letter + number" (Inter SemiBold ~42, cream) + "Like it if you found it 👍"
+   (serif italic, 60%), `@whatiffun` at ~1636. 12 s seamless loop, soft ticks, the odd one's sound slightly different.
+6. Fresh rule every time — never the reference's dots-in-capsules; rotate rule types (direction, side, up/down, stop,
+   rhythm, pass-through) AND object families (clocks, gates, turnstiles, valves, doors, coins, fans, wheels, drops…).
+
 **Data (weekly review 2026-11-15, full table at the bottom of HISTORY.md):** SPOT IT is the page —
 normal-size puzzles: No. 17 286k, No. 21 175k (319 comments, 138 shares), No. 20 168k, No. 25 76k, No. 29 40k
 (100 comments); everything else 0.4k–7.6k. Followers 10 → 97 in five days. See "What the numbers say".
