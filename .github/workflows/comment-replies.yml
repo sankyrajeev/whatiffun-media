@@ -1,0 +1,50 @@
+name: comment replies
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"     # reply to new answer-style comments
+    - cron: "17 3 * * 1"       # Mondays: renew the 60-day Instagram token
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Only count, don't reply"
+        type: boolean
+        default: true
+
+concurrency:
+  group: comment-replies
+  cancel-in-progress: false
+
+jobs:
+  reply:
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '*/15 * * * *'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: tools
+      - name: Reply to comments
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '' }}
+        run: python3 tools/reply_bot.py
+
+  renew-token:
+    if: github.event.schedule == '17 3 * * 1'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: tools
+      - name: Renew Instagram token and store it back
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$IG_TOKEN" ] || [ -z "$GH_TOKEN" ]; then echo "IG_TOKEN or GH_PAT missing; skipping renewal"; exit 0; fi
+          NEW=$(python3 tools/reply_bot.py refresh)
+          echo "::add-mask::$NEW"
+          gh secret set IG_TOKEN --body "$NEW" --repo "$GITHUB_REPOSITORY"
+          echo "token renewed"
