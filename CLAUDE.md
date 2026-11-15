@@ -18,13 +18,22 @@ empty black jar, then balls appeared from nowhere into a perfect fake lattice. R
    screenshot, cut it. Build-ups are ≤ 5 s, not 10–14 s.
 3. **The payoff is physical and believable.** Nothing appears from nowhere; no perfect lattices; things
    pile, scatter, bounce and settle like real objects.
-4. **Independent review before posting.** After the full render, spawn a FRESH reviewer with the Agent tool
-   (it must not see your plan or your reasoning): give it a contact sheet of frames every 1.5 s plus the
-   caption and ask "You're a stranger scrolling Instagram. Score 1–10 how likely you are to keep watching
-   to the end, and name the dullest 2 seconds." Post only if it scores ≥ 8 and the dull stretch is fixed or
-   absent; otherwise fix and re-review once, and if it still fails send the owner the file and the
-   reviewer's verdict instead of posting. (If the Agent tool isn't available, apply the same test yourself
-   strictly.)
+4. **Independent review before posting — CALIBRATED (revised 2026-11-15).** On 2026-11-15 the first version
+   held ALL THREE reels (scores 6–7) and nothing posted; the owner asked "Nothing posts today?". Stills 1.5 s
+   apart make any moving puzzle look frozen, and an absolute score has no anchor. Now:
+   - Give a FRESH reviewer (Agent tool; not your plan, not the answer) TWO sheets per video: (a) a filmstrip
+     of 12 frames 0.25 s apart from the busiest 3 s, (b) 12 frames spread over the whole video. Do the same
+     for a KNOWN HIT as the anchor (SPOT IT → No. 21 tops or No. 20 metronomes in reels/; satisfying →
+     No. 26 break-out), shuffled and labelled only "Video X" / "Video Y".
+   - Ask it to score BOTH 1–10 ("a stranger scrolling Instagram: would you stop, watch to the end, and
+     comment?") and name each one's dullest moment.
+   - PASS if new ≥ anchor − 1 (or ≥ 7 outright). If it fails, fix the named problem once and re-review.
+   - If it still fails: do NOT leave the slot silently empty. Save it as a Metricool DRAFT and IMMEDIATELY
+     SendUserMessage + SendUserFile the owner: "Held: <title> scored X vs our hit's Y because <reason>.
+     Reply 'post' to publish it." (If the Agent tool isn't available, apply the same test yourself.)
+   - Avoid the common fails up front (2026-11-15 lessons): puzzle motion must be BIG — at least half the
+     object spacing, across the row, every object visibly moving every second (No. 32 pinwheels and No. 33
+     lanterns read as stills); keep satisfying-slot cameras close through the payoff (No. 34).
 **Data (weekly review 2026-11-15, full table at the bottom of HISTORY.md):** SPOT IT is the page —
 normal-size puzzles: No. 17 286k, No. 21 175k (319 comments, 138 shares), No. 20 168k, No. 25 76k, No. 29 40k
 (100 comments); everything else 0.4k–7.6k. Followers 10 → 97 in five days. See "What the numbers say".
