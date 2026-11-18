@@ -34,6 +34,13 @@ empty black jar, then balls appeared from nowhere into a perfect fake lattice. R
    - Avoid the common fails up front (2026-11-15 lessons): puzzle motion must be BIG — at least half the
      object spacing, across the row, every object visibly moving every second (No. 32 pinwheels and No. 33
      lanterns read as stills); keep satisfying-slot cameras close through the payoff (No. 34).
+**🧩 ALL PUZZLES (owner, 2026-11-18: "stop with the balls videos they are getting horrible by the day. Stick to the
+puzzles. It's getting us amazing reach").** ALL FOUR daily slots — 10:00, 13:00, 15:00 and 18:00 — are SPOT IT v3
+puzzles. The 15:00 "satisfying chain reaction" format is RETIRED (its last reel was No. 46 wrecking-ball), and
+balls / marbles / beads / glass spheres are BANNED as objects in every reel. This overrides the 15:00, RACE, demo and
+"balls allowed" sections below. Four puzzles a day must each differ in object family, rule type AND arrangement
+from the other three that day and from the last four SPOT IT rows (puzzle fatigue is the main risk now).
+
 **🧩 SPOT IT v3 (owner, 2026-11-15 16:00: "your puzzle videos are getting horrible", sent the reference "WHO EXITS
 THE WRONG SIDE?" — 99 capsules, dots glide through, one turns back). This OVERRIDES older SPOT IT layout/difference
 rules below. First reel made this way: No. 35 spot-clocks (`src/2026-11-15-spot-clocks/spot_clocks.py`, copy its layout).**
@@ -61,8 +68,7 @@ differences (a touch shorter / heavier / slower) that nobody can verify, so nobo
 **Data (weekly review 2026-11-15, full table at the bottom of HISTORY.md):** SPOT IT is the page —
 normal-size puzzles: No. 17 286k, No. 21 175k (319 comments, 138 shares), No. 20 168k, No. 25 76k, No. 29 40k
 (100 comments); everything else 0.4k–7.6k. Followers 10 → 97 in five days. See "What the numbers say".
-**Slot plan from 2026-11-15: 10:00, 13:00 and 18:00 = SPOT IT puzzles; 15:00 = satisfying (rebriefed
-below).** The 18:00 race/demo slot hit the switch rule (two under 5k: No. 22 1.9k, No. 27 337). Three
+**Slot plan from 2026-11-18: ALL FOUR slots = SPOT IT puzzles (see 🧩 ALL PUZZLES).** (Before: 10:00, 13:00, 18:00 puzzles; 15:00 satisfying.) The 18:00 race/demo slot hit the switch rule (two under 5k: No. 22 1.9k, No. 27 337). Three
 puzzles a day must differ from each other in object family, kind of difference AND arrangement.
 
 **🔥 VIRAL (2026-11-11) — THIS OVERRIDES THE SLOT PLAN BELOW. Owner: "that pendulum video went viral.
