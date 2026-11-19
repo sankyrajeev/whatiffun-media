@@ -70,5 +70,9 @@
   "47": {
     "answer": "E5",
     "what": "the padlock whose shackle springs open every time its key turns while every other lock stays shut"
+  },
+  "48": {
+    "answer": "C15",
+    "what": "the gear turning the same way as both its neighbours, so its teeth grind straight through theirs (meshed gears must turn opposite ways)"
   }
 }
