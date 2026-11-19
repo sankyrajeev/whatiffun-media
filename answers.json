@@ -74,5 +74,9 @@
   "48": {
     "answer": "C15",
     "what": "the gear turning the same way as both its neighbours, so its teeth grind straight through theirs (meshed gears must turn opposite ways)"
+  },
+  "49": {
+    "answer": "F3",
+    "what": "the umbrella that blows inside out into a cup every time it opens, while every other umbrella just flattens for a moment and springs back"
   }
 }
