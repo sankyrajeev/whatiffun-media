@@ -98,5 +98,9 @@
   "54": {
     "answer": "E3",
     "what": "the hot-air balloon that DROPS every time its burner fires and floats up while the burner is off, while every other balloon shoots up on the flame and slowly sinks (hot air rises, so it breaks physics)"
+  },
+  "55": {
+    "answer": "52",
+    "what": "metronome (2) + gear (10) × hourglass (5): the multiplication comes first, so 2 + 50 = 52, not 60"
   }
 }
