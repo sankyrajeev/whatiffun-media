@@ -64,6 +64,14 @@ differences (a touch shorter / heavier / slower) that nobody can verify, so nobo
    (serif italic, 60%), `@whatiffun` at ~1636. 12 s seamless loop, soft ticks, the odd one's sound slightly different.
 6. Fresh rule every time — never the reference's dots-in-capsules; rotate rule types (direction, side, up/down, stop,
    rhythm, pass-through) AND object families (clocks, gates, turnstiles, valves, doors, coins, fans, wheels, drops…).
+7. **"ONLY X% CAN FIND IT" badge (owner, 2026-11-20: "Under each video, add 'only 2% can solve this puzzle' change the
+   2-50 based on complexity. It gives a nice kick").** A red pill right under the headline (y ≈ 400–462, InterDisplay
+   ExtraBold ~38 px, white text, fill (0.75, 0.2, 0.14) at 92%; see `src/2026-11-20-solve-it-sample/solve_it.py`);
+   start the grid's column letters at y ≥ 500 so nothing collides. Set X from the puzzle's real difficulty, using the
+   reviewer's find time and this scale: 2–5% = BREAKS PHYSICS, or the odd one shows itself less than once per 4 s, or
+   70+ objects; 6–15% = shows every 2–3 s among 55–70 objects; 16–30% = shows every ≤ 2 s among ≤ 55 objects;
+   31–50% = the reviewer found it within ~3 s. Vary the number honestly; never the same X three puzzles running.
+   Put the same line as the caption's first line under the title ("Only 4% can find it 👀").
 
 **Data (weekly review 2026-11-15, full table at the bottom of HISTORY.md):** SPOT IT is the page —
 normal-size puzzles: No. 17 286k, No. 21 175k (319 comments, 138 shares), No. 20 168k, No. 25 76k, No. 29 40k
