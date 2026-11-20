@@ -102,5 +102,9 @@
   "55": {
     "answer": "52",
     "what": "metronome (2) + gear (10) × hourglass (5): the multiplication comes first, so 2 + 50 = 52, not 60"
+  },
+  "56": {
+    "answer": "D4",
+    "what": "the yo-yo that drops to the bottom of its string and never climbs back up: it just keeps spinning down there while every other yo-yo returns to the hand"
   }
 }
