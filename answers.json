@@ -110,5 +110,9 @@
   "57": {
     "answer": "D6",
     "what": "the die that lands on SEVEN pips (two columns of three plus a centre pip) every single roll, a face no real die has, while every other die lands on 1 to 6"
+  },
+  "58": {
+    "answer": "F4",
+    "what": "the hourglass whose sand falls UP: after every flip its full bulb is at the bottom, the grains climb through the neck and pile on the ceiling of the top bulb, while every other hourglass drains downward"
   }
 }
