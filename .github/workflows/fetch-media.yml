@@ -1,0 +1,48 @@
+name: fetch media
+# The cloud workspace can't reach generated-media hosts (vidIQ images/voice), so a list of
+# "<repo-relative path> <https url>" lines pushed to story/fetch/*.txt is downloaded here and committed.
+on:
+  push:
+    branches: [main]
+    paths: ["story/fetch/*.txt"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-media
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download listed media (allow-listed hosts only)
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          for list in story/fetch/*.txt; do
+            while read -r path url; do
+              [ -z "${path:-}" ] && continue
+              case "$path" in story/*) ;; *) echo "skip path $path"; continue;; esac
+              case "$path" in *..*) echo "skip path $path"; continue;; esac
+              host=$(echo "$url" | sed -E 's#^https://([^/]+)/.*#\1#')
+              case "$host" in
+                ai-thumbnails.s3.amazonaws.com|storage.googleapis.com|*.vidiq.com|*.elevenlabs.io|*.amazonaws.com) ;;
+                *) echo "skip host $host"; continue;;
+              esac
+              [ -f "$path" ] && continue
+              mkdir -p "$(dirname "$path")"
+              curl -sSfL --max-time 60 -o "$path" "$url" && echo "got $path ($(stat -c %s "$path") bytes)"
+            done < "$list"
+            git rm -q "$list"
+          done
+      - name: Commit
+        run: |
+          git config user.name "whatiffun-bot"; git config user.email "actions@users.noreply.github.com"
+          git add -A story
+          git commit -qm "fetch media" || exit 0
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done

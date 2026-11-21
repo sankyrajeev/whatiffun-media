@@ -1,0 +1,8 @@
+story/eiffel-bones/art/tower-bones.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/3fdbb346-7147-4a75-a40b-76a4f4aacce6.png
+story/eiffel-bones/art/tower-iron.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/15a24b4a-1d9f-4472-ab8c-b0ea662df9c7.png
+story/eiffel-bones/art/lift-iron-vs-bone.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/70e37aef-a989-42bd-9435-dd1e1cd7b129.png
+story/eiffel-bones/art/skeleton-queue.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/4a899d43-cbcb-4dec-bac1-aec4ef939fb8.png
+story/eiffel-bones/art/catacombs.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/efc48c9f-6dc4-43b8-b9cd-e628a9dfb439.png
+story/eiffel-bones/art/tower-sway.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/cb6f11ef-dfcb-447d-af4e-2494d8105abb.png
+story/eiffel-bones/art/tower-rain.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/5a5defb1-4f8f-4b7b-86a5-aa491956e1dd.png
+story/drank-bacteria/art/barry-beaker.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/2cf79909-0081-4800-a850-32bc4ff93c87.png
