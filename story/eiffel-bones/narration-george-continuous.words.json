@@ -1,0 +1,550 @@
+{
+ "text": " What if the Eiffel Tower was made of human bones? The real tower is 7,300 tons of iron. Bone is about four times lighter. So if you built the same shape from bone, it would weigh about 1,800 tons. That's about 250,000 skeletons. Where would Paris get them? Right under its streets. The catacombs hold the bones of 6 million people. That's enough for 24 towers. So, would it stand? Pound for pound, bone is nearly as strong as the tower's iron, but it's much bendier, so it would sway in the wind, and the rain would slowly rot it away. Subscribe for more What Ifs.",
+ "words": [
+  {
+   "word": "What",
+   "start": 0.0,
+   "end": 0.22
+  },
+  {
+   "word": "if",
+   "start": 0.22,
+   "end": 0.42
+  },
+  {
+   "word": "the",
+   "start": 0.42,
+   "end": 0.58
+  },
+  {
+   "word": "Eiffel",
+   "start": 0.58,
+   "end": 1.0
+  },
+  {
+   "word": "Tower",
+   "start": 1.0,
+   "end": 1.36
+  },
+  {
+   "word": "was",
+   "start": 1.36,
+   "end": 1.66
+  },
+  {
+   "word": "made",
+   "start": 1.66,
+   "end": 1.9
+  },
+  {
+   "word": "of",
+   "start": 1.9,
+   "end": 2.12
+  },
+  {
+   "word": "human",
+   "start": 2.12,
+   "end": 2.5
+  },
+  {
+   "word": "bones?",
+   "start": 2.5,
+   "end": 2.92
+  },
+  {
+   "word": "The",
+   "start": 3.72,
+   "end": 3.96
+  },
+  {
+   "word": "real",
+   "start": 3.96,
+   "end": 4.22
+  },
+  {
+   "word": "tower",
+   "start": 4.22,
+   "end": 4.58
+  },
+  {
+   "word": "is",
+   "start": 4.58,
+   "end": 4.86
+  },
+  {
+   "word": "7",
+   "start": 4.86,
+   "end": 5.22
+  },
+  {
+   "word": ",300",
+   "start": 5.22,
+   "end": 6.04
+  },
+  {
+   "word": "tons",
+   "start": 6.04,
+   "end": 6.6
+  },
+  {
+   "word": "of",
+   "start": 6.6,
+   "end": 6.88
+  },
+  {
+   "word": "iron.",
+   "start": 6.88,
+   "end": 7.3
+  },
+  {
+   "word": "Bone",
+   "start": 8.1,
+   "end": 8.22
+  },
+  {
+   "word": "is",
+   "start": 8.22,
+   "end": 8.48
+  },
+  {
+   "word": "about",
+   "start": 8.48,
+   "end": 8.72
+  },
+  {
+   "word": "four",
+   "start": 8.72,
+   "end": 9.06
+  },
+  {
+   "word": "times",
+   "start": 9.06,
+   "end": 9.38
+  },
+  {
+   "word": "lighter.",
+   "start": 9.38,
+   "end": 9.84
+  },
+  {
+   "word": "So",
+   "start": 10.28,
+   "end": 10.62
+  },
+  {
+   "word": "if",
+   "start": 10.62,
+   "end": 10.82
+  },
+  {
+   "word": "you",
+   "start": 10.82,
+   "end": 10.96
+  },
+  {
+   "word": "built",
+   "start": 10.96,
+   "end": 11.14
+  },
+  {
+   "word": "the",
+   "start": 11.14,
+   "end": 11.32
+  },
+  {
+   "word": "same",
+   "start": 11.32,
+   "end": 11.58
+  },
+  {
+   "word": "shape",
+   "start": 11.58,
+   "end": 11.86
+  },
+  {
+   "word": "from",
+   "start": 11.86,
+   "end": 12.1
+  },
+  {
+   "word": "bone,",
+   "start": 12.1,
+   "end": 12.48
+  },
+  {
+   "word": "it",
+   "start": 12.8,
+   "end": 12.96
+  },
+  {
+   "word": "would",
+   "start": 12.96,
+   "end": 13.08
+  },
+  {
+   "word": "weigh",
+   "start": 13.08,
+   "end": 13.28
+  },
+  {
+   "word": "about",
+   "start": 13.28,
+   "end": 13.58
+  },
+  {
+   "word": "1",
+   "start": 13.58,
+   "end": 13.82
+  },
+  {
+   "word": ",800",
+   "start": 13.82,
+   "end": 14.2
+  },
+  {
+   "word": "tons.",
+   "start": 14.2,
+   "end": 14.86
+  },
+  {
+   "word": "That's",
+   "start": 15.44,
+   "end": 15.82
+  },
+  {
+   "word": "about",
+   "start": 15.82,
+   "end": 16.06
+  },
+  {
+   "word": "250",
+   "start": 16.06,
+   "end": 16.9
+  },
+  {
+   "word": ",000",
+   "start": 16.9,
+   "end": 17.66
+  },
+  {
+   "word": "skeletons.",
+   "start": 17.66,
+   "end": 18.1
+  },
+  {
+   "word": "Where",
+   "start": 18.94,
+   "end": 19.14
+  },
+  {
+   "word": "would",
+   "start": 19.14,
+   "end": 19.32
+  },
+  {
+   "word": "Paris",
+   "start": 19.32,
+   "end": 19.6
+  },
+  {
+   "word": "get",
+   "start": 19.6,
+   "end": 19.86
+  },
+  {
+   "word": "them?",
+   "start": 19.86,
+   "end": 20.18
+  },
+  {
+   "word": "Right",
+   "start": 20.56,
+   "end": 20.94
+  },
+  {
+   "word": "under",
+   "start": 20.94,
+   "end": 21.18
+  },
+  {
+   "word": "its",
+   "start": 21.18,
+   "end": 21.4
+  },
+  {
+   "word": "streets.",
+   "start": 21.4,
+   "end": 21.8
+  },
+  {
+   "word": "The",
+   "start": 22.42,
+   "end": 22.62
+  },
+  {
+   "word": "catacombs",
+   "start": 22.62,
+   "end": 23.14
+  },
+  {
+   "word": "hold",
+   "start": 23.14,
+   "end": 23.4
+  },
+  {
+   "word": "the",
+   "start": 23.4,
+   "end": 23.58
+  },
+  {
+   "word": "bones",
+   "start": 23.58,
+   "end": 23.86
+  },
+  {
+   "word": "of",
+   "start": 23.86,
+   "end": 24.1
+  },
+  {
+   "word": "6",
+   "start": 24.1,
+   "end": 24.48
+  },
+  {
+   "word": "million",
+   "start": 24.48,
+   "end": 24.8
+  },
+  {
+   "word": "people.",
+   "start": 24.8,
+   "end": 25.4
+  },
+  {
+   "word": "That's",
+   "start": 25.68,
+   "end": 26.14
+  },
+  {
+   "word": "enough",
+   "start": 26.14,
+   "end": 26.34
+  },
+  {
+   "word": "for",
+   "start": 26.34,
+   "end": 26.56
+  },
+  {
+   "word": "24",
+   "start": 26.56,
+   "end": 27.22
+  },
+  {
+   "word": "towers.",
+   "start": 27.22,
+   "end": 27.76
+  },
+  {
+   "word": "So,",
+   "start": 27.76,
+   "end": 28.64
+  },
+  {
+   "word": "would",
+   "start": 28.92,
+   "end": 29.08
+  },
+  {
+   "word": "it",
+   "start": 29.08,
+   "end": 29.22
+  },
+  {
+   "word": "stand?",
+   "start": 29.22,
+   "end": 29.64
+  },
+  {
+   "word": "Pound",
+   "start": 30.34,
+   "end": 30.44
+  },
+  {
+   "word": "for",
+   "start": 30.44,
+   "end": 30.68
+  },
+  {
+   "word": "pound,",
+   "start": 30.68,
+   "end": 31.08
+  },
+  {
+   "word": "bone",
+   "start": 31.48,
+   "end": 31.58
+  },
+  {
+   "word": "is",
+   "start": 31.58,
+   "end": 31.76
+  },
+  {
+   "word": "nearly",
+   "start": 31.76,
+   "end": 32.04
+  },
+  {
+   "word": "as",
+   "start": 32.04,
+   "end": 32.3
+  },
+  {
+   "word": "strong",
+   "start": 32.3,
+   "end": 32.56
+  },
+  {
+   "word": "as",
+   "start": 32.56,
+   "end": 32.74
+  },
+  {
+   "word": "the",
+   "start": 32.74,
+   "end": 32.9
+  },
+  {
+   "word": "tower's",
+   "start": 32.9,
+   "end": 33.32
+  },
+  {
+   "word": "iron,",
+   "start": 33.32,
+   "end": 33.64
+  },
+  {
+   "word": "but",
+   "start": 34.0,
+   "end": 34.3
+  },
+  {
+   "word": "it's",
+   "start": 34.3,
+   "end": 34.5
+  },
+  {
+   "word": "much",
+   "start": 34.5,
+   "end": 34.72
+  },
+  {
+   "word": "bendier,",
+   "start": 34.72,
+   "end": 35.32
+  },
+  {
+   "word": "so",
+   "start": 35.62,
+   "end": 35.74
+  },
+  {
+   "word": "it",
+   "start": 35.74,
+   "end": 35.86
+  },
+  {
+   "word": "would",
+   "start": 35.86,
+   "end": 35.98
+  },
+  {
+   "word": "sway",
+   "start": 35.98,
+   "end": 36.32
+  },
+  {
+   "word": "in",
+   "start": 36.32,
+   "end": 36.54
+  },
+  {
+   "word": "the",
+   "start": 36.54,
+   "end": 36.66
+  },
+  {
+   "word": "wind,",
+   "start": 36.66,
+   "end": 36.92
+  },
+  {
+   "word": "and",
+   "start": 37.54,
+   "end": 37.66
+  },
+  {
+   "word": "the",
+   "start": 37.66,
+   "end": 37.8
+  },
+  {
+   "word": "rain",
+   "start": 37.8,
+   "end": 38.08
+  },
+  {
+   "word": "would",
+   "start": 38.08,
+   "end": 38.32
+  },
+  {
+   "word": "slowly",
+   "start": 38.32,
+   "end": 38.72
+  },
+  {
+   "word": "rot",
+   "start": 38.72,
+   "end": 39.0
+  },
+  {
+   "word": "it",
+   "start": 39.0,
+   "end": 39.18
+  },
+  {
+   "word": "away.",
+   "start": 39.18,
+   "end": 39.56
+  },
+  {
+   "word": "Subscribe",
+   "start": 40.26,
+   "end": 40.68
+  },
+  {
+   "word": "for",
+   "start": 40.68,
+   "end": 40.98
+  },
+  {
+   "word": "more",
+   "start": 40.98,
+   "end": 41.3
+  },
+  {
+   "word": "What",
+   "start": 41.3,
+   "end": 41.58
+  },
+  {
+   "word": "Ifs.",
+   "start": 41.58,
+   "end": 42.06
+  }
+ ]
+}
