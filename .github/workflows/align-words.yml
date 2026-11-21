@@ -25,7 +25,9 @@ jobs:
       - name: Install whisper
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
-          pip install -q openai-whisper==20240930
+          pip install -q "setuptools<80" wheel
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q --no-build-isolation openai-whisper==20240930
       - name: Align
         run: |
           set -euo pipefail
