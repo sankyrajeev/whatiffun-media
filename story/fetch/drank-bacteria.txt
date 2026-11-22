@@ -1,4 +1,0 @@
-story/drank-bacteria/art/raw/stomach-bugs.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/475f2703-9e95-42a3-a376-ef0a5850fad7.png
-story/drank-bacteria/art/raw/barry-sick.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/7428a2de-d7f2-4b37-a52c-049ad2aa34a9.png
-story/drank-bacteria/art/raw/barry-medal.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/d59c5c49-0419-4556-84b7-04e6f4ee3753.png
-story/drank-bacteria/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/e2bdaf47-2484-4e12-b6ad-4b3366fa2977.mp3
