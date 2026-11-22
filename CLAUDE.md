@@ -54,7 +54,7 @@ differences (a touch shorter / heavier / slower) that nobody can verify, so nobo
 2. **The odd one breaks a RULE you can see and verify, every 2–3 s**: turns the other way, exits the wrong side,
    goes up instead of down, stops when the others don't, skips a beat, bounces back, never lands, passes through a
    wall. CATEGORICAL, never "slightly longer / heavier / slower / shorter cord". Once seen = 100% sure → people comment.
-   (BREAKS PHYSICS every third puzzle still fits: the headline becomes "WHICH ONE / BREAKS PHYSICS?" + a clear law break.)
+   (BREAKS PHYSICS at most ONCE A DAY (review 2026-11-22; was every third puzzle): the headline names the object, "WHICH BALLOON / BREAKS PHYSICS?", + a clear law break shown as a big motion.)
 3. **Simple identical objects, one calm colour scheme** (cream/brass/amber on our warm black, or ONE accent colour);
    no rainbow across the grid, no ornate props. 45–80 objects (up to ~90 if very simple), each ≥ ~90 px.
 4. **Everything moves all the time with BIG motion** (whole turns, full-width glides), randomly phased so you must
@@ -78,9 +78,10 @@ differences (a touch shorter / heavier / slower) that nobody can verify, so nobo
    order-of-operations puzzle use 25–40%; go below 15% only with two or more traps stacked (e.g. order of operations
    + a hidden count change in the last line). The badge must be believable when people check the comments.
 
-**Data (weekly review 2026-11-15, full table at the bottom of HISTORY.md):** SPOT IT is the page —
-normal-size puzzles: No. 17 286k, No. 21 175k (319 comments, 138 shares), No. 20 168k, No. 25 76k, No. 29 40k
-(100 comments); everything else 0.4k–7.6k. Followers 10 → 97 in five days. See "What the numbers say".
+**Data (weekly review 2026-11-22, tables at the bottom of HISTORY.md):** SPOT IT is the page — No. 43 fans 2.79M
+plays (889 comments, 2,744 shares), No. 37 doors 158k, No. 45 pancakes 132k, No. 41 hammers 113k, No. 49 umbrellas
+86k; but most puzzles since 2026-11-20 sit at 3k–9k. Followers 97 → 1,002 this week. Read "What the numbers say"
+(the motion-contrast rule and the 13:00 slot) before making a puzzle.
 **Slot plan from 2026-11-18: ALL FOUR slots = SPOT IT puzzles (see 🧩 ALL PUZZLES).** (Before: 10:00, 13:00, 18:00 puzzles; 15:00 satisfying.) The 18:00 race/demo slot hit the switch rule (two under 5k: No. 22 1.9k, No. 27 337). Three
 puzzles a day must differ from each other in object family, kind of difference AND arrangement.
 
@@ -135,7 +136,7 @@ cheap to comment; (5) a fair audio clue. Flat 2D in our look was FINE here — t
   fields, so it is not a clean win). Decision: every SPOT IT now shows the slim 12 → 0 countdown ring above the
   grid (calm, a soft tick per second at most); (4) a shared visible CAUSE helps (wind, a wave, a
   push, a magnet field) with one element defying or lagging it.
-- **BREAKS PHYSICS puzzles (2026-11-12, owner reference):** every THIRD SPOT IT (whichever slot is next after
+- **BREAKS PHYSICS puzzles (2026-11-12, owner reference):** [REVISED 2026-11-22: now at most ONCE A DAY, see What the numbers say] every THIRD SPOT IT (whichever slot is next after
   two normal ones in HISTORY.md) hides one object that VIOLATES a law instead of a small parameter change.
   Two serif lines: "One of these / breaks physics." Our own violations (never the reference's cradle where 1
   ball in → 2 out): a pendulum that swings a little HIGHER each time (gains energy); a bouncing ball that
@@ -264,26 +265,40 @@ HISTORY.md rows and make something with a different object, material and action 
    Ladders of one setting, gliding, tactile materials (glass, brass, walnut, jelly-like gloss), rich
    lighting. The 2D kit look (flat dots on black) is no longer acceptable for this slot.
 
-**What the numbers say (weekly review 2026-11-15, Nos. 7–31; full table in HISTORY.md):**
-- **The ~1.7k Instagram ceiling is broken only by normal-size SPOT IT puzzles.** Every 2D/3D ASMR reel, the
-  equation draw, the famous demos (No. 22 1.9k, No. 31 1.9k) and the race (No. 27 0.4k) sat at 0.4k–2.1k with
-  ~0 comments/shares. Puzzles with 48–70 objects: 40k–286k, 118–177% watched (people loop them), 18–319
-  comments. The 15:00 satisfying slot is the only other format above the ceiling (No. 26 break-out 7.6k).
-- **Big fields flop** (No. 24 3.2k, No. 28 3.4k) even though watch % stayed ~100%: the first-second skip on
-  No. 24 was 45% — a wall of tiny objects doesn't read as a puzzle on the feed. Dropped (see SPOT IT upgrades).
-- **BREAKS PHYSICS brings comments**: No. 29 got 100 comments on 40k plays (2.5 per 1,000, ~4× the other
-  puzzles) because the caption invites "which law it breaks". Keep it every third puzzle.
-- **Puzzle reach is decaying** (286k → 168/175k → 76k → 40k): freshness matters. Each puzzle needs a family
-  the audience hasn't seen and a pretty pattern from frame 1. If the three daily puzzles average under ~10k IG
-  plays at 24 h next week, the next review cuts 18:00 back to a satisfying/demo reel (puzzle fatigue).
-- **YouTube is flat for everything (0.8k–3.5k)** — puzzles don't break out there (No. 17 2.1k); the best YT
-  Short is No. 26 break-out (3.5k). Keep cross-posting; don't plan around YouTube.
-- Title score didn't predict views (most titles scored 95–99 and the spread came entirely from the format).
-- Opening frame: first-second skip is ~26–32% on the hits and 38–46% on the flops (No. 14, 19, 22, 24) — a
-  full, colourful, already-moving frame 1 is the quality gate's rule 1 for a reason.
-**Changes for the week of 2026-11-16:** (1) all SPOT IT at 45–80 readable objects, no big fields; (2) the
-countdown ring on every SPOT IT; (3) new families to use first (none seen yet): Newton's cradles in a grid,
-double pendulums, clock faces, orbiting moons, wind chimes, folding fans, seesaws.
+**What the numbers say (weekly review 2026-11-22, Nos. 33–61; full table in HISTORY.md "Metrics (week of 2026-11-15 → 11-22)"):**
+- **The page broke out.** IG followers 97 → **1,002** in a week; ~3.5M IG plays on this week's reels. No. 43 fans
+  ("WHICH FAN / NEVER STOPS?", 68 objects, 18:00) did **2.79M plays, 200% watched, 10.5k likes, 889 comments,
+  2,744 shares, 1,833 saves**. Other hits: No. 37 doors 158k, No. 45 pancakes 132k, No. 41 hammers 113k, No. 49
+  umbrellas 86k, No. 36 tea glasses 72k. Last week's hits kept growing (No. 17 490k, No. 20 472k, No. 21 330k).
+- **The hits share one shape:** a familiar everyday object + ONE plain wrong MOTION you catch out of the corner of
+  your eye — keeps spinning while all stop, swings the other way, hits twice, never flips, turns inside out.
+  **The flops needed you to READ or LISTEN**: the dice face "7" (No. 57 3.0k), the backwards "R" stamp (No. 60
+  7.2k), the bell that never rings (sound-only, No. 59 3.7k), the missing toast slice (No. 53 6.3k), the yo-yo that
+  doesn't come back (No. 56 3.7k), the arrow through the target (small, No. 52 3.6k). Rule from now on: the odd
+  one's difference must be a BIG MOTION contrast visible without reading anything or hearing anything.
+- **13:00 IST is our best slot by far**: 4 of the 6 v3 13:00 reels went 86k–158k (median 99k) vs 10:00 median 5.8k,
+  15:00 18.8k, 18:00 7.0k (one 2.79M outlier). Metricool's "10:00 is peak" did not hold for our reels.
+- **Reach fell from 2026-11-20** (median 10.8k for Nos. 35–54 → 3.7k for Nos. 56–60) and the first-second **skip
+  rate jumped from ~36% to ~46%**. Things that changed at the same time: the 4th daily puzzle (from 11-19), the
+  red "ONLY X% CAN FIND IT" badge (from No. 56), SOLVE IT (No. 55: 3.7k, 67% skip), and story reels on IG. Not
+  separable yet; the weaker rule types above explain part of it.
+- **BREAKS PHYSICS no longer pulls ahead**: median 8.7k vs 7.0k for the rest, and the generic "WHICH ONE / BREAKS
+  PHYSICS?" headline never made a 100k+ hit except No. 36 (72k). Comments per 1,000 still higher (No. 51 3.6).
+- **Satisfying 15:00 is retired and the data agrees**: Nos. 34/38/42/46 did 2.7k–4.7k, 39–59% watched, 0–1 comments.
+- **YouTube is still flat** for Shorts (0.5k–2k each, puzzles and satisfying alike; subs 32 → 40). Two Shorts sat
+  near zero (No. 45 45 views, No. 57 30 views) — likely held/limited by YouTube, worth a look in Studio. Long-form
+  (10-min physics ASMR, 49 views) and story videos are too new to judge.
+- Title score still doesn't predict views; watch % is >100% on most puzzles, so the first-second skip is the signal.
+**Changes for the week of 2026-11-23:**
+1. **Motion-contrast rule for every SPOT IT**: the odd one must differ in a big, whole-object motion (moving vs
+   still, opposite direction, double vs single, flips vs doesn't, shape inverts). No differences you must read
+   (digits, letters, faces) or hear (sound-only) or that are small in the cell. Re-use the WINNING rule types
+   (never stops, wrong way, twice, never flips, inside out) on new everyday objects (e.g. windmills, washing
+   machines, rocking chairs, ferris wheels, garage doors, wipers, swing bins, toasters-that-flip-not-pop).
+2. **Put the week's strongest idea at 13:00**; use 10:00 for the riskier ones (BREAKS PHYSICS, new rule types).
+3. **BREAKS PHYSICS at most once a day (not every third)**, and its headline names the object
+   ("WHICH BALLOON / BREAKS PHYSICS?", not "WHICH ONE"). Keep the badge (owner's rule) but watch the skip rate:
+   if 4 puzzles/day keep a median under 5k at 24 h next week, the next review cuts to 3 puzzles a day (drop 10:00).
 - Track per-reel plays, watched %, skip rate, shares, saves and comments in HISTORY.md (the weekly review
   fills them in).
 
