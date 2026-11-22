@@ -72,6 +72,11 @@ differences (a touch shorter / heavier / slower) that nobody can verify, so nobo
    70+ objects; 6–15% = shows every 2–3 s among 55–70 objects; 16–30% = shows every ≤ 2 s among ≤ 55 objects;
    31–50% = the reviewer found it within ~3 s. Vary the number honestly; never the same X three puzzles running.
    Put the same line as the caption's first line under the title ("Only 4% can find it 👀").
+   **SOLVE IT (still equation puzzles) calibration, checked 2026-11-21 on No. 55 (gears, answer 52, badge "Only 3%"):**
+   of 18 answers in the comments, 8 said 52 (44%), 6 said 60 (the left-to-right trap) and 4 said 17 (misread the
+   operators). Commenters lean towards solvers, so the real rate is lower, but 3% was far too low. For a one-trap
+   order-of-operations puzzle use 25–40%; go below 15% only with two or more traps stacked (e.g. order of operations
+   + a hidden count change in the last line). The badge must be believable when people check the comments.
 
 **Data (weekly review 2026-11-15, full table at the bottom of HISTORY.md):** SPOT IT is the page —
 normal-size puzzles: No. 17 286k, No. 21 175k (319 comments, 138 shares), No. 20 168k, No. 25 76k, No. 29 40k
