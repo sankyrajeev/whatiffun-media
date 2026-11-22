@@ -122,5 +122,9 @@
   "60": {
     "answer": "F3",
     "what": "the rubber stamp that prints its R backwards (a mirrored Я) every time it comes down, while the other 63 print a normal R"
+  },
+  "61": {
+    "answer": "E5",
+    "what": "the windsock that streams INTO the wind (to the left, back toward where the wind comes from) every time a gust fills it, while all the other 55 stream downwind to the right"
   }
 }
