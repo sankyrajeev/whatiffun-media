@@ -1,0 +1,4 @@
+story/chile-33/art/raw/miner.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/73207221-acdd-44b8-bc11-fb2f6f6f93f4.png
+story/chile-33/art/raw/drill-note.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/cef344ca-8400-474f-b0c2-800f2e545944.png
+story/chile-33/art/raw/capsule.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/1ec73c16-d860-4835-be4a-d644ba5c7ef8.png
+story/chile-33/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/a9ba9ff9-ccec-407c-a3d2-803223b9af30.mp3
