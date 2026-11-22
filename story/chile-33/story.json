@@ -1,0 +1,30 @@
+{
+  "title": "What If You Were Trapped 700 Metres Underground for 69 Days?",
+  "voice": "narration.mp3", "words": "narration.words.json",
+  "end": ["Subscribe", "@whatiffun", "for more rescues"],
+  "thumb": {"l1": "TRAPPED 700 M DOWN", "l2": "FOR 69 DAYS", "img": "capsule.png"},
+  "shots": [
+    {"at": 0, "kicker": "TRAPPED", "l1": "33 men.", "l2": "Alive or dead?", "l2_at": 7, "num": "700 m deep", "num_at": 3,
+     "art": [{"img": "miner.png", "grid": {"n": 33, "cols": 11, "h": 0.27}, "in_at": 0}]},
+    {"at": 13, "kicker": "AUGUST 5, 2010", "l1": "A mine in Chile", "l2": "collapsed.", "l2_at": 26,
+     "art": [{"img": "miner.png", "h": 0.95, "move": "bob", "amp": 0.01, "per": 1.6}]},
+    {"at": 27, "kicker": "THE SHELTER", "l1": "Food for 2–3 days", "l2": "lasted two weeks.", "l2_at": 43, "num": "14 days", "num_at": 47,
+     "art": [{"img": "miner.png", "grid": {"n": 33, "cols": 11, "h": 0.22}, "in_at": 28}]},
+    {"at": 49, "kicker": "UP TOP", "l1": "Drilling blind,", "l2": "hole after hole.", "l2_at": 54, "num": "17 days", "num_at": 58,
+     "art": [{"img": "drill-note.png", "h": 0.98, "move": "sway", "amp": 0.01, "per": 2.4}]},
+    {"at": 61, "kicker": "THEN, A NOTE", "l1": "“We are fine", "l2": "in the refuge.”", "l2_at": 73, "num": "— the 33", "num_at": 79,
+     "art": [{"img": "drill-note.png", "h": 0.98, "move": "pulse", "amp": 0.02, "per": 1.2}]},
+    {"at": 81, "kicker": "A LIFELINE", "l1": "Water, food", "l2": "and letters.", "l2_at": 87,
+     "art": [{"img": "miner.png", "h": 0.95, "move": "bob", "amp": 0.015, "per": 1.2}]},
+    {"at": 95, "kicker": "THE WAY OUT", "l1": "A shaft wide", "l2": "enough for a person.", "l2_at": 105,
+     "art": [{"img": "miner.png", "h": 0.8, "x": -0.25, "move": "none", "dim_at": 111},
+             {"img": "capsule.png", "h": 0.98, "x": 0.25, "in_at": 112, "move": "bob", "amp": 0.02, "per": 1.4}]},
+    {"at": 123, "kicker": "EACH RIDE UP", "l1": "A capsule in", "l2": "Chile's colours.", "l2_at": 123, "num": "15 min", "num_at": 128,
+     "art": [{"img": "capsule.png", "h": 0.98, "move": "bob", "amp": 0.04, "per": 1.0}]},
+    {"at": 130, "kicker": "OCTOBER 13, 2010", "l1": "After 69 days,", "l2": "all 33 survived.", "l2_at": 146, "num": "33 / 33", "num_at": 147,
+     "art": [{"img": "capsule.png", "h": 0.98, "out_at": 146, "amp": 0.03, "per": 1.3},
+             {"img": "miner.png", "in_at": 147, "grid": {"n": 33, "cols": 11, "h": 0.27}}]},
+    {"at": 149, "kicker": "SUBSCRIBE", "l1": "for more", "l2": "rescues.",
+     "art": [{"img": "capsule.png", "h": 0.98, "amp": 0.03, "per": 1.0}]}
+  ]
+}
