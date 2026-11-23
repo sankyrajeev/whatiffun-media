@@ -1,4 +1,0 @@
-story/lightning-ranger/art/raw/ranger-zapped.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/bdd5877e-9ad5-4dc2-81bd-056259211978.png
-story/lightning-ranger/art/raw/tower-strike.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/142f4e05-ba6b-467b-8146-785bd7342af1.png
-story/lightning-ranger/art/raw/ranger-bear.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/58d213db-b1a6-4306-9d3f-1ad0a729d846.png
-story/lightning-ranger/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/2e90b922-fe6f-433b-8b4d-976af504a945.mp3
