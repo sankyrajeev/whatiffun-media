@@ -1,0 +1,295 @@
+{
+ "title": "What If You Survived 7 Lightning Strikes but Still Had to Fight a Bear?",
+ "voice": "narration.mp3",
+ "words": "narration.words.json",
+ "end": [
+  "Subscribe",
+  "@whatiffun",
+  "for more weird humans"
+ ],
+ "thumb": {
+  "l1": "STRUCK BY LIGHTNING",
+  "l2": "7 TIMES",
+  "img": "ranger-zapped.png"
+ },
+ "word_fix": {
+  "129": 47.85,
+  "130": 48.35,
+  "146": 53.85,
+  "147": 54.4
+ },
+ "shots": [
+  {
+   "at": 0,
+   "kicker": "ONE MAN",
+   "l1": "Struck by lightning",
+   "l2": "seven times.",
+   "l2_at": 6,
+   "num": "7",
+   "num_at": 6,
+   "art": [
+    {
+     "img": "ranger-zapped.png",
+     "h": 0.95,
+     "x": 0.12,
+     "move": "pulse",
+     "amp": 0.02,
+     "per": 0.5
+    },
+    {
+     "img": "bolt.png",
+     "h": 0.6,
+     "x": -0.42,
+     "y": -0.3,
+     "enter": "pop",
+     "in_at": 3,
+     "move": "pulse",
+     "amp": 0.05,
+     "per": 0.35
+    }
+   ]
+  },
+  {
+   "at": 8,
+   "kicker": "AND HE SURVIVED",
+   "l1": "Every single",
+   "l2": "one.",
+   "l2_at": 11,
+   "art": [
+    {
+     "img": "bolt.png",
+     "in_at": 10,
+     "grid": {
+      "n": 7,
+      "cols": 7,
+      "h": 0.42
+     }
+    }
+   ]
+  },
+  {
+   "at": 13,
+   "kicker": "ROY SULLIVAN",
+   "l1": "Park ranger,",
+   "l2": "Virginia mountains.",
+   "l2_at": 19,
+   "art": [
+    {
+     "img": "ranger-zapped.png",
+     "h": 0.95,
+     "move": "bob",
+     "amp": 0.01,
+     "per": 2.4
+    }
+   ]
+  },
+  {
+   "at": 23,
+   "kicker": "YOUR ODDS",
+   "l1": "Hit even once",
+   "l2": "in a lifetime:",
+   "l2_at": 30,
+   "num": "1 in 15,000",
+   "num_at": 35,
+   "art": [
+    {
+     "img": "bolt.png",
+     "h": 0.85,
+     "move": "pulse",
+     "amp": 0.03,
+     "per": 1.2
+    }
+   ]
+  },
+  {
+   "at": 39,
+   "kicker": "STRIKE 1 · 1942",
+   "l1": "His fire tower.",
+   "l2": "Leg and toe burned.",
+   "l2_at": 48,
+   "art": [
+    {
+     "img": "tower-strike.png",
+     "h": 0.98,
+     "amp": 0.01,
+     "per": 2.6
+    }
+   ]
+  },
+  {
+   "at": 56,
+   "kicker": "STRIKE 2 · 1969",
+   "l1": "In his truck.",
+   "l2": "Eyebrows gone.",
+   "l2_at": 66,
+   "art": [
+    {
+     "img": "bolt.png",
+     "h": 0.6,
+     "x": -0.42,
+     "y": -0.3,
+     "enter": "pop",
+     "move": "pulse",
+     "amp": 0.05,
+     "per": 0.4
+    },
+    {
+     "img": "ranger-zapped.png",
+     "h": 0.95,
+     "x": 0.12,
+     "amp": 0.03,
+     "per": 0.9
+    }
+   ]
+  },
+  {
+   "at": 70,
+   "kicker": "STRIKE 3 · 1970",
+   "l1": "In his garden.",
+   "l2": "Shoulder seared.",
+   "l2_at": 80,
+   "art": [
+    {
+     "img": "ranger-zapped.png",
+     "h": 0.95,
+     "x": -0.12,
+     "amp": 0.03,
+     "per": 0.8
+    },
+    {
+     "img": "bolt.png",
+     "h": 0.6,
+     "x": 0.42,
+     "y": -0.3,
+     "enter": "pop",
+     "in_at": 74,
+     "move": "pulse",
+     "amp": 0.05,
+     "per": 0.4
+    }
+   ]
+  },
+  {
+   "at": 83,
+   "kicker": "STRIKES 4 · 5 · 6",
+   "l1": "Hair on fire.",
+   "l2": "Three times.",
+   "l2_at": 90,
+   "num": "×3",
+   "num_at": 90,
+   "art": [
+    {
+     "img": "ranger-zapped.png",
+     "h": 0.98,
+     "amp": 0.05,
+     "per": 0.7
+    }
+   ]
+  },
+  {
+   "at": 93,
+   "kicker": "ONE STRIKE",
+   "l1": "Knocked his shoe",
+   "l2": "right off.",
+   "l2_at": 98,
+   "art": [
+    {
+     "img": "ranger-zapped.png",
+     "h": 0.95,
+     "x": 0.12,
+     "move": "bob",
+     "amp": 0.03,
+     "per": 0.5
+    },
+    {
+     "img": "bolt.png",
+     "h": 0.6,
+     "x": -0.42,
+     "y": -0.3,
+     "enter": "pop",
+     "in_at": 95,
+     "move": "pulse",
+     "amp": 0.05,
+     "per": 0.4
+    }
+   ]
+  },
+  {
+   "at": 102,
+   "kicker": "STRIKE 7 · 1977",
+   "l1": "Gone fishing.",
+   "l2": "Chest and stomach.",
+   "l2_at": 110,
+   "num": "No. 7",
+   "num_at": 109,
+   "art": [
+    {
+     "img": "bolt.png",
+     "in_at": 107,
+     "grid": {
+      "n": 7,
+      "cols": 7,
+      "h": 0.42
+     }
+    }
+   ]
+  },
+  {
+   "at": 115,
+   "kicker": "THEN",
+   "l1": "A bear wanted",
+   "l2": "his fish.",
+   "l2_at": 119,
+   "art": [
+    {
+     "img": "ranger-bear.png",
+     "h": 0.95,
+     "amp": 0.02,
+     "per": 1.1
+    }
+   ]
+  },
+  {
+   "at": 129,
+   "kicker": "GUINNESS RECORD",
+   "l1": "Most lightning",
+   "l2": "strikes survived.",
+   "l2_at": 136,
+   "num": "7",
+   "num_at": 136,
+   "art": [
+    {
+     "img": "ranger-zapped.png",
+     "h": 0.95,
+     "x": -0.12,
+     "amp": 0.015,
+     "per": 1.6
+    },
+    {
+     "img": "bolt.png",
+     "h": 0.6,
+     "x": 0.42,
+     "y": -0.3,
+     "enter": "pop",
+     "move": "pulse",
+     "amp": 0.05,
+     "per": 0.5
+    }
+   ]
+  },
+  {
+   "at": 146,
+   "kicker": "SUBSCRIBE",
+   "l1": "for more",
+   "l2": "weird humans.",
+   "art": [
+    {
+     "img": "ranger-bear.png",
+     "h": 0.95,
+     "amp": 0.02,
+     "per": 1.0
+    }
+   ]
+  }
+ ]
+}
