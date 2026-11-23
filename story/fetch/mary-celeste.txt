@@ -1,4 +1,0 @@
-story/mary-celeste/art/raw/ship.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/4a0c681a-1868-40f8-befc-77406532180c.png
-story/mary-celeste/art/raw/lifeboat.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/8abcdb2c-14f5-42c3-ad95-b9d5404d4614.png
-story/mary-celeste/art/raw/captain-rod.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/ae8f44dc-ba82-41dc-8aa7-00683f4e2323.png
-story/mary-celeste/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/02990844-2f71-4b9a-80e2-f1a833cc4b44.mp3
