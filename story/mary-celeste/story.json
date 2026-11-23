@@ -1,0 +1,302 @@
+{
+ "title": "What If You Found a Ship With 1,700 Barrels of Alcohol but No Crew?",
+ "voice": "narration.mp3",
+ "words": "narration.words.json",
+ "end": [
+  "Subscribe",
+  "@whatiffun",
+  "for more mysteries"
+ ],
+ "thumb": {
+  "l1": "1,700 BARRELS",
+  "l2": "BUT NO CREW?",
+  "img": "ship.png"
+ },
+ "word_fix": {
+  "67": 27.3,
+  "130": 50.85
+ },
+ "shots": [
+  {
+   "at": 0,
+   "kicker": "1872",
+   "l1": "A ship is found",
+   "l2": "with nobody aboard.",
+   "l2_at": 7,
+   "art": [
+    {
+     "img": "ship.png",
+     "h": 0.98,
+     "move": "sway",
+     "amp": 0.02,
+     "per": 3.0
+    }
+   ]
+  },
+  {
+   "at": 11,
+   "kicker": "NEAR THE AZORES",
+   "l1": "The Mary Celeste,",
+   "l2": "sails half set.",
+   "l2_at": 21,
+   "art": [
+    {
+     "img": "ship.png",
+     "h": 0.9,
+     "x": 0.05,
+     "move": "sway",
+     "amp": 0.035,
+     "per": 2.4
+    }
+   ]
+  },
+  {
+   "at": 25,
+   "kicker": "WHO SAILED",
+   "l1": "Captain, wife,",
+   "l2": "daughter, 7 crew.",
+   "l2_at": 37,
+   "num": "10 people",
+   "num_at": 25,
+   "art": [
+    {
+     "img": "lifeboat.png",
+     "h": 0.62,
+     "y": 0.05,
+     "move": "bob",
+     "amp": 0.012,
+     "per": 1.6
+    }
+   ]
+  },
+  {
+   "at": 45,
+   "kicker": "ALL GONE",
+   "l1": "The only lifeboat",
+   "l2": "was missing.",
+   "l2_at": 50,
+   "art": [
+    {
+     "img": "ship.png",
+     "h": 0.82,
+     "x": -0.3,
+     "move": "sway",
+     "amp": 0.02,
+     "per": 2.8
+    },
+    {
+     "img": "lifeboat.png",
+     "h": 0.36,
+     "x": 0.42,
+     "y": -0.06,
+     "out_at": 51,
+     "move": "bob",
+     "amp": 0.01,
+     "per": 1.4
+    }
+   ]
+  },
+  {
+   "at": 52,
+   "kicker": "LEFT BEHIND",
+   "l1": "Food and water",
+   "l2": "and their clothes.",
+   "l2_at": 63,
+   "num": "6 months",
+   "num_at": 53,
+   "art": [
+    {
+     "img": "ship.png",
+     "h": 0.95,
+     "move": "bob",
+     "amp": 0.01,
+     "per": 2.0
+    }
+   ]
+  },
+  {
+   "at": 67,
+   "kicker": "AND THE CARGO",
+   "l1": "Barrels",
+   "l2": "of alcohol.",
+   "l2_at": 70,
+   "num": "1,700",
+   "num_at": 68,
+   "art": [
+    {
+     "img": "barrel.png",
+     "in_at": 68,
+     "grid": {
+      "n": 40,
+      "cols": 10,
+      "h": 0.16
+     }
+    }
+   ]
+  },
+  {
+   "at": 72,
+   "kicker": "LAST LOG ENTRY",
+   "l1": "November 25th,",
+   "l2": "off the Azores.",
+   "l2_at": 79,
+   "art": [
+    {
+     "img": "ship.png",
+     "h": 0.85,
+     "x": -0.1,
+     "move": "sway",
+     "amp": 0.02,
+     "per": 3.2
+    }
+   ]
+  },
+  {
+   "at": 85,
+   "kicker": "FOUND",
+   "l1": "Hundreds of",
+   "l2": "miles away.",
+   "l2_at": 92,
+   "num": "9 days later",
+   "num_at": 86,
+   "art": [
+    {
+     "img": "ship.png",
+     "h": 0.85,
+     "x": 0.12,
+     "move": "sway",
+     "amp": 0.03,
+     "per": 2.6
+    }
+   ]
+  },
+  {
+   "at": 96,
+   "kicker": "SO WHY",
+   "l1": "leave a ship that",
+   "l2": "wasn't sinking?",
+   "l2_at": 102,
+   "art": [
+    {
+     "img": "ship.png",
+     "h": 0.82,
+     "x": -0.3,
+     "move": "sway",
+     "amp": 0.02,
+     "per": 2.6
+    },
+    {
+     "img": "lifeboat.png",
+     "h": 0.36,
+     "x": 0.42,
+     "y": -0.06,
+     "in_at": 98,
+     "move": "bob",
+     "amp": 0.012,
+     "per": 1.4
+    }
+   ]
+  },
+  {
+   "at": 104,
+   "kicker": "ONE CLUE",
+   "l1": "A pump in pieces.",
+   "l2": "A rod on deck.",
+   "l2_at": 112,
+   "art": [
+    {
+     "img": "captain-rod.png",
+     "h": 0.95,
+     "move": "sway",
+     "amp": 0.012,
+     "per": 2.2
+    }
+   ]
+  },
+  {
+   "at": 119,
+   "kicker": "IN THE HOLD",
+   "l1": "Sea water,",
+   "l2": "rising.",
+   "l2_at": 121,
+   "num": "3.5 feet",
+   "num_at": 125,
+   "art": [
+    {
+     "img": "captain-rod.png",
+     "h": 0.95,
+     "move": "pulse",
+     "amp": 0.02,
+     "per": 1.2
+    }
+   ]
+  },
+  {
+   "at": 130,
+   "kicker": "MAYBE",
+   "l1": "He thought",
+   "l2": "she was sinking.",
+   "l2_at": 133,
+   "art": [
+    {
+     "img": "captain-rod.png",
+     "h": 0.82,
+     "x": -0.3,
+     "move": "none",
+     "dim_at": 139
+    },
+    {
+     "img": "lifeboat.png",
+     "h": 0.36,
+     "x": 0.42,
+     "y": -0.06,
+     "in_at": 140,
+     "move": "bob",
+     "amp": 0.015,
+     "per": 1.3
+    }
+   ]
+  },
+  {
+   "at": 146,
+   "kicker": "STILL AFLOAT",
+   "l1": "The ten were",
+   "l2": "never seen again.",
+   "l2_at": 153,
+   "art": [
+    {
+     "img": "ship.png",
+     "h": 0.82,
+     "x": -0.3,
+     "move": "sway",
+     "amp": 0.02,
+     "per": 2.8
+    },
+    {
+     "img": "lifeboat.png",
+     "h": 0.36,
+     "x": 0.42,
+     "y": -0.06,
+     "out_at": 153,
+     "move": "bob",
+     "amp": 0.01,
+     "per": 1.4
+    }
+   ]
+  },
+  {
+   "at": 156,
+   "kicker": "SUBSCRIBE",
+   "l1": "for more",
+   "l2": "mysteries.",
+   "art": [
+    {
+     "img": "ship.png",
+     "h": 0.98,
+     "amp": 0.03,
+     "per": 1.2
+    }
+   ]
+  }
+ ]
+}
