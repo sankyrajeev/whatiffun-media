@@ -1,0 +1,805 @@
+{
+ "text": " In 1872, a ship was found sailing with nobody on board. December. Sailors spot the Mary Celeste drifting near the Azores, her sails half set. Ten people had left New York on her. The captain, his wife, their two-year-old daughter, and seven crew, all gone. The only lifeboat was missing. But six months of food and water were still on board. So were their clothes. And 1700 barrels of alcohol. The last log entry was November 25th, off an island in the Azores. Nine days later, the ship turned up hundreds of miles away. So why leave a ship that wasn't sinking? One clue. A pump lay in pieces, and a sounding rod was left on deck. There was water in the hold, three and a half feet. Maybe the captain thought she was going down and they all climbed into the little boat. The ship stayed afloat. The ten were never seen again. Subscribe for more mysteries.",
+ "words": [
+  {
+   "word": "In",
+   "start": 0.0,
+   "end": 0.22
+  },
+  {
+   "word": "1872,",
+   "start": 0.22,
+   "end": 1.34
+  },
+  {
+   "word": "a",
+   "start": 1.78,
+   "end": 1.88
+  },
+  {
+   "word": "ship",
+   "start": 1.88,
+   "end": 2.08
+  },
+  {
+   "word": "was",
+   "start": 2.08,
+   "end": 2.28
+  },
+  {
+   "word": "found",
+   "start": 2.28,
+   "end": 2.68
+  },
+  {
+   "word": "sailing",
+   "start": 2.68,
+   "end": 3.02
+  },
+  {
+   "word": "with",
+   "start": 3.02,
+   "end": 3.36
+  },
+  {
+   "word": "nobody",
+   "start": 3.36,
+   "end": 3.76
+  },
+  {
+   "word": "on",
+   "start": 3.76,
+   "end": 4.04
+  },
+  {
+   "word": "board.",
+   "start": 4.04,
+   "end": 4.38
+  },
+  {
+   "word": "December.",
+   "start": 5.3,
+   "end": 5.64
+  },
+  {
+   "word": "Sailors",
+   "start": 6.52,
+   "end": 6.76
+  },
+  {
+   "word": "spot",
+   "start": 6.76,
+   "end": 7.04
+  },
+  {
+   "word": "the",
+   "start": 7.04,
+   "end": 7.24
+  },
+  {
+   "word": "Mary",
+   "start": 7.24,
+   "end": 7.54
+  },
+  {
+   "word": "Celeste",
+   "start": 7.54,
+   "end": 8.02
+  },
+  {
+   "word": "drifting",
+   "start": 8.02,
+   "end": 8.42
+  },
+  {
+   "word": "near",
+   "start": 8.42,
+   "end": 8.8
+  },
+  {
+   "word": "the",
+   "start": 8.8,
+   "end": 9.04
+  },
+  {
+   "word": "Azores,",
+   "start": 9.04,
+   "end": 9.4
+  },
+  {
+   "word": "her",
+   "start": 9.92,
+   "end": 10.04
+  },
+  {
+   "word": "sails",
+   "start": 10.04,
+   "end": 10.4
+  },
+  {
+   "word": "half",
+   "start": 10.4,
+   "end": 10.76
+  },
+  {
+   "word": "set.",
+   "start": 10.76,
+   "end": 11.14
+  },
+  {
+   "word": "Ten",
+   "start": 11.94,
+   "end": 12.1
+  },
+  {
+   "word": "people",
+   "start": 12.1,
+   "end": 12.46
+  },
+  {
+   "word": "had",
+   "start": 12.46,
+   "end": 12.64
+  },
+  {
+   "word": "left",
+   "start": 12.64,
+   "end": 12.86
+  },
+  {
+   "word": "New",
+   "start": 12.86,
+   "end": 13.08
+  },
+  {
+   "word": "York",
+   "start": 13.08,
+   "end": 13.32
+  },
+  {
+   "word": "on",
+   "start": 13.32,
+   "end": 13.52
+  },
+  {
+   "word": "her.",
+   "start": 13.52,
+   "end": 13.78
+  },
+  {
+   "word": "The",
+   "start": 14.14,
+   "end": 14.32
+  },
+  {
+   "word": "captain,",
+   "start": 14.32,
+   "end": 14.6
+  },
+  {
+   "word": "his",
+   "start": 15.0,
+   "end": 15.16
+  },
+  {
+   "word": "wife,",
+   "start": 15.16,
+   "end": 15.48
+  },
+  {
+   "word": "their",
+   "start": 15.92,
+   "end": 16.04
+  },
+  {
+   "word": "two",
+   "start": 16.04,
+   "end": 16.28
+  },
+  {
+   "word": "-year",
+   "start": 16.28,
+   "end": 16.4
+  },
+  {
+   "word": "-old",
+   "start": 16.4,
+   "end": 16.62
+  },
+  {
+   "word": "daughter,",
+   "start": 16.62,
+   "end": 17.0
+  },
+  {
+   "word": "and",
+   "start": 17.34,
+   "end": 17.5
+  },
+  {
+   "word": "seven",
+   "start": 17.5,
+   "end": 17.8
+  },
+  {
+   "word": "crew,",
+   "start": 17.8,
+   "end": 18.2
+  },
+  {
+   "word": "all",
+   "start": 18.86,
+   "end": 19.12
+  },
+  {
+   "word": "gone.",
+   "start": 19.12,
+   "end": 19.5
+  },
+  {
+   "word": "The",
+   "start": 20.12,
+   "end": 20.32
+  },
+  {
+   "word": "only",
+   "start": 20.32,
+   "end": 20.62
+  },
+  {
+   "word": "lifeboat",
+   "start": 20.62,
+   "end": 21.16
+  },
+  {
+   "word": "was",
+   "start": 21.16,
+   "end": 21.36
+  },
+  {
+   "word": "missing.",
+   "start": 21.36,
+   "end": 21.8
+  },
+  {
+   "word": "But",
+   "start": 22.4,
+   "end": 22.66
+  },
+  {
+   "word": "six",
+   "start": 22.66,
+   "end": 22.92
+  },
+  {
+   "word": "months",
+   "start": 22.92,
+   "end": 23.18
+  },
+  {
+   "word": "of",
+   "start": 23.18,
+   "end": 23.42
+  },
+  {
+   "word": "food",
+   "start": 23.42,
+   "end": 23.7
+  },
+  {
+   "word": "and",
+   "start": 23.7,
+   "end": 23.92
+  },
+  {
+   "word": "water",
+   "start": 23.92,
+   "end": 24.24
+  },
+  {
+   "word": "were",
+   "start": 24.24,
+   "end": 24.48
+  },
+  {
+   "word": "still",
+   "start": 24.48,
+   "end": 24.72
+  },
+  {
+   "word": "on",
+   "start": 24.72,
+   "end": 24.88
+  },
+  {
+   "word": "board.",
+   "start": 24.88,
+   "end": 25.24
+  },
+  {
+   "word": "So",
+   "start": 25.24,
+   "end": 25.98
+  },
+  {
+   "word": "were",
+   "start": 25.98,
+   "end": 26.14
+  },
+  {
+   "word": "their",
+   "start": 26.14,
+   "end": 26.28
+  },
+  {
+   "word": "clothes.",
+   "start": 26.28,
+   "end": 26.78
+  },
+  {
+   "word": "And",
+   "start": 27.6,
+   "end": 27.6
+  },
+  {
+   "word": "1700",
+   "start": 27.6,
+   "end": 28.2
+  },
+  {
+   "word": "barrels",
+   "start": 28.2,
+   "end": 28.9
+  },
+  {
+   "word": "of",
+   "start": 28.9,
+   "end": 29.16
+  },
+  {
+   "word": "alcohol.",
+   "start": 29.16,
+   "end": 29.62
+  },
+  {
+   "word": "The",
+   "start": 30.42,
+   "end": 30.44
+  },
+  {
+   "word": "last",
+   "start": 30.44,
+   "end": 30.76
+  },
+  {
+   "word": "log",
+   "start": 30.76,
+   "end": 31.0
+  },
+  {
+   "word": "entry",
+   "start": 31.0,
+   "end": 31.38
+  },
+  {
+   "word": "was",
+   "start": 31.38,
+   "end": 31.64
+  },
+  {
+   "word": "November",
+   "start": 31.64,
+   "end": 32.0
+  },
+  {
+   "word": "25th,",
+   "start": 32.0,
+   "end": 33.12
+  },
+  {
+   "word": "off",
+   "start": 33.12,
+   "end": 33.28
+  },
+  {
+   "word": "an",
+   "start": 33.28,
+   "end": 33.42
+  },
+  {
+   "word": "island",
+   "start": 33.42,
+   "end": 33.72
+  },
+  {
+   "word": "in",
+   "start": 33.72,
+   "end": 33.96
+  },
+  {
+   "word": "the",
+   "start": 33.96,
+   "end": 34.12
+  },
+  {
+   "word": "Azores.",
+   "start": 34.12,
+   "end": 34.5
+  },
+  {
+   "word": "Nine",
+   "start": 35.34,
+   "end": 35.54
+  },
+  {
+   "word": "days",
+   "start": 35.54,
+   "end": 35.76
+  },
+  {
+   "word": "later,",
+   "start": 35.76,
+   "end": 36.22
+  },
+  {
+   "word": "the",
+   "start": 36.46,
+   "end": 36.58
+  },
+  {
+   "word": "ship",
+   "start": 36.58,
+   "end": 36.76
+  },
+  {
+   "word": "turned",
+   "start": 36.76,
+   "end": 37.02
+  },
+  {
+   "word": "up",
+   "start": 37.02,
+   "end": 37.28
+  },
+  {
+   "word": "hundreds",
+   "start": 37.28,
+   "end": 37.68
+  },
+  {
+   "word": "of",
+   "start": 37.68,
+   "end": 37.9
+  },
+  {
+   "word": "miles",
+   "start": 37.9,
+   "end": 38.16
+  },
+  {
+   "word": "away.",
+   "start": 38.16,
+   "end": 38.52
+  },
+  {
+   "word": "So",
+   "start": 39.2,
+   "end": 39.46
+  },
+  {
+   "word": "why",
+   "start": 39.46,
+   "end": 39.88
+  },
+  {
+   "word": "leave",
+   "start": 39.88,
+   "end": 40.06
+  },
+  {
+   "word": "a",
+   "start": 40.06,
+   "end": 40.28
+  },
+  {
+   "word": "ship",
+   "start": 40.28,
+   "end": 40.44
+  },
+  {
+   "word": "that",
+   "start": 40.44,
+   "end": 40.66
+  },
+  {
+   "word": "wasn't",
+   "start": 40.66,
+   "end": 41.04
+  },
+  {
+   "word": "sinking?",
+   "start": 41.04,
+   "end": 41.4
+  },
+  {
+   "word": "One",
+   "start": 42.24,
+   "end": 42.48
+  },
+  {
+   "word": "clue.",
+   "start": 42.48,
+   "end": 42.82
+  },
+  {
+   "word": "A",
+   "start": 43.34,
+   "end": 43.54
+  },
+  {
+   "word": "pump",
+   "start": 43.54,
+   "end": 43.82
+  },
+  {
+   "word": "lay",
+   "start": 43.82,
+   "end": 44.08
+  },
+  {
+   "word": "in",
+   "start": 44.08,
+   "end": 44.28
+  },
+  {
+   "word": "pieces,",
+   "start": 44.28,
+   "end": 44.6
+  },
+  {
+   "word": "and",
+   "start": 45.02,
+   "end": 45.2
+  },
+  {
+   "word": "a",
+   "start": 45.2,
+   "end": 45.34
+  },
+  {
+   "word": "sounding",
+   "start": 45.34,
+   "end": 45.64
+  },
+  {
+   "word": "rod",
+   "start": 45.64,
+   "end": 45.96
+  },
+  {
+   "word": "was",
+   "start": 45.96,
+   "end": 46.16
+  },
+  {
+   "word": "left",
+   "start": 46.16,
+   "end": 46.38
+  },
+  {
+   "word": "on",
+   "start": 46.38,
+   "end": 46.6
+  },
+  {
+   "word": "deck.",
+   "start": 46.6,
+   "end": 46.88
+  },
+  {
+   "word": "There",
+   "start": 47.48,
+   "end": 47.7
+  },
+  {
+   "word": "was",
+   "start": 47.7,
+   "end": 47.84
+  },
+  {
+   "word": "water",
+   "start": 47.84,
+   "end": 48.14
+  },
+  {
+   "word": "in",
+   "start": 48.14,
+   "end": 48.38
+  },
+  {
+   "word": "the",
+   "start": 48.38,
+   "end": 48.52
+  },
+  {
+   "word": "hold,",
+   "start": 48.52,
+   "end": 48.86
+  },
+  {
+   "word": "three",
+   "start": 49.38,
+   "end": 49.58
+  },
+  {
+   "word": "and",
+   "start": 49.58,
+   "end": 49.74
+  },
+  {
+   "word": "a",
+   "start": 49.74,
+   "end": 49.82
+  },
+  {
+   "word": "half",
+   "start": 49.82,
+   "end": 50.02
+  },
+  {
+   "word": "feet.",
+   "start": 50.02,
+   "end": 50.34
+  },
+  {
+   "word": "Maybe",
+   "start": 50.34,
+   "end": 51.3
+  },
+  {
+   "word": "the",
+   "start": 51.3,
+   "end": 51.56
+  },
+  {
+   "word": "captain",
+   "start": 51.56,
+   "end": 51.84
+  },
+  {
+   "word": "thought",
+   "start": 51.84,
+   "end": 52.18
+  },
+  {
+   "word": "she",
+   "start": 52.18,
+   "end": 52.4
+  },
+  {
+   "word": "was",
+   "start": 52.4,
+   "end": 52.52
+  },
+  {
+   "word": "going",
+   "start": 52.52,
+   "end": 52.76
+  },
+  {
+   "word": "down",
+   "start": 52.76,
+   "end": 53.12
+  },
+  {
+   "word": "and",
+   "start": 53.12,
+   "end": 53.5
+  },
+  {
+   "word": "they",
+   "start": 53.5,
+   "end": 53.62
+  },
+  {
+   "word": "all",
+   "start": 53.62,
+   "end": 53.88
+  },
+  {
+   "word": "climbed",
+   "start": 53.88,
+   "end": 54.24
+  },
+  {
+   "word": "into",
+   "start": 54.24,
+   "end": 54.52
+  },
+  {
+   "word": "the",
+   "start": 54.52,
+   "end": 54.68
+  },
+  {
+   "word": "little",
+   "start": 54.68,
+   "end": 54.9
+  },
+  {
+   "word": "boat.",
+   "start": 54.9,
+   "end": 55.22
+  },
+  {
+   "word": "The",
+   "start": 55.8,
+   "end": 55.94
+  },
+  {
+   "word": "ship",
+   "start": 55.94,
+   "end": 56.14
+  },
+  {
+   "word": "stayed",
+   "start": 56.14,
+   "end": 56.5
+  },
+  {
+   "word": "afloat.",
+   "start": 56.5,
+   "end": 56.86
+  },
+  {
+   "word": "The",
+   "start": 57.5,
+   "end": 57.6
+  },
+  {
+   "word": "ten",
+   "start": 57.6,
+   "end": 57.9
+  },
+  {
+   "word": "were",
+   "start": 57.9,
+   "end": 58.26
+  },
+  {
+   "word": "never",
+   "start": 58.26,
+   "end": 58.5
+  },
+  {
+   "word": "seen",
+   "start": 58.5,
+   "end": 58.78
+  },
+  {
+   "word": "again.",
+   "start": 58.78,
+   "end": 59.2
+  },
+  {
+   "word": "Subscribe",
+   "start": 59.84,
+   "end": 60.4
+  },
+  {
+   "word": "for",
+   "start": 60.4,
+   "end": 60.72
+  },
+  {
+   "word": "more",
+   "start": 60.72,
+   "end": 60.96
+  },
+  {
+   "word": "mysteries.",
+   "start": 60.96,
+   "end": 61.38
+  }
+ ]
+}
