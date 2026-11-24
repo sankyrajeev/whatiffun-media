@@ -1,0 +1,745 @@
+{
+ "text": " In 1932, Australia declared war on birds and lost. 20,000 emus were eating the wheat farms of Western Australia. So the army sent three soldiers, two machine guns, and 10,000 bullets. First, they set an ambush at a watering hole. A huge flock walked right in. Then the gun jammed. Next, they bolted a machine gun onto a truck. The emus just ran. On the rough ground, the truck couldn't keep up and the gunner couldn't aim. The bird split into small groups, each with a lookout. The major in charge said they faced machine guns like tanks. After one week, the army retreated. They came back and claimed 986 kills. That's ten bullets for every bird. It barely made a dent. So farmers went back to bounties and claimed 57,000 in six months. The emus had won the war. Subscribe for more Weird History.",
+ "words": [
+  {
+   "word": "In",
+   "start": 0.0,
+   "end": 0.18
+  },
+  {
+   "word": "1932,",
+   "start": 0.18,
+   "end": 1.1
+  },
+  {
+   "word": "Australia",
+   "start": 1.74,
+   "end": 2.14
+  },
+  {
+   "word": "declared",
+   "start": 2.14,
+   "end": 2.66
+  },
+  {
+   "word": "war",
+   "start": 2.66,
+   "end": 3.06
+  },
+  {
+   "word": "on",
+   "start": 3.06,
+   "end": 3.4
+  },
+  {
+   "word": "birds",
+   "start": 3.4,
+   "end": 3.88
+  },
+  {
+   "word": "and",
+   "start": 3.88,
+   "end": 4.64
+  },
+  {
+   "word": "lost.",
+   "start": 4.64,
+   "end": 5.04
+  },
+  {
+   "word": "20",
+   "start": 5.76,
+   "end": 6.12
+  },
+  {
+   "word": ",000",
+   "start": 6.12,
+   "end": 6.78
+  },
+  {
+   "word": "emus",
+   "start": 6.78,
+   "end": 7.22
+  },
+  {
+   "word": "were",
+   "start": 7.22,
+   "end": 7.44
+  },
+  {
+   "word": "eating",
+   "start": 7.44,
+   "end": 7.74
+  },
+  {
+   "word": "the",
+   "start": 7.74,
+   "end": 7.94
+  },
+  {
+   "word": "wheat",
+   "start": 7.94,
+   "end": 8.14
+  },
+  {
+   "word": "farms",
+   "start": 8.14,
+   "end": 8.46
+  },
+  {
+   "word": "of",
+   "start": 8.46,
+   "end": 8.72
+  },
+  {
+   "word": "Western",
+   "start": 8.72,
+   "end": 9.02
+  },
+  {
+   "word": "Australia.",
+   "start": 9.02,
+   "end": 9.68
+  },
+  {
+   "word": "So",
+   "start": 10.32,
+   "end": 10.56
+  },
+  {
+   "word": "the",
+   "start": 10.56,
+   "end": 10.76
+  },
+  {
+   "word": "army",
+   "start": 10.76,
+   "end": 11.04
+  },
+  {
+   "word": "sent",
+   "start": 11.04,
+   "end": 11.34
+  },
+  {
+   "word": "three",
+   "start": 11.34,
+   "end": 11.68
+  },
+  {
+   "word": "soldiers,",
+   "start": 11.68,
+   "end": 12.14
+  },
+  {
+   "word": "two",
+   "start": 12.56,
+   "end": 12.7
+  },
+  {
+   "word": "machine",
+   "start": 12.7,
+   "end": 13.04
+  },
+  {
+   "word": "guns,",
+   "start": 13.04,
+   "end": 13.3
+  },
+  {
+   "word": "and",
+   "start": 13.62,
+   "end": 13.82
+  },
+  {
+   "word": "10",
+   "start": 13.82,
+   "end": 14.14
+  },
+  {
+   "word": ",000",
+   "start": 14.14,
+   "end": 14.64
+  },
+  {
+   "word": "bullets.",
+   "start": 14.64,
+   "end": 15.0
+  },
+  {
+   "word": "First,",
+   "start": 15.78,
+   "end": 16.2
+  },
+  {
+   "word": "they",
+   "start": 16.44,
+   "end": 16.52
+  },
+  {
+   "word": "set",
+   "start": 16.52,
+   "end": 16.72
+  },
+  {
+   "word": "an",
+   "start": 16.72,
+   "end": 16.86
+  },
+  {
+   "word": "ambush",
+   "start": 16.86,
+   "end": 17.28
+  },
+  {
+   "word": "at",
+   "start": 17.28,
+   "end": 17.48
+  },
+  {
+   "word": "a",
+   "start": 17.48,
+   "end": 17.6
+  },
+  {
+   "word": "watering",
+   "start": 17.6,
+   "end": 17.92
+  },
+  {
+   "word": "hole.",
+   "start": 17.92,
+   "end": 18.28
+  },
+  {
+   "word": "A",
+   "start": 18.8,
+   "end": 18.96
+  },
+  {
+   "word": "huge",
+   "start": 18.96,
+   "end": 19.36
+  },
+  {
+   "word": "flock",
+   "start": 19.36,
+   "end": 19.76
+  },
+  {
+   "word": "walked",
+   "start": 19.76,
+   "end": 20.12
+  },
+  {
+   "word": "right",
+   "start": 20.12,
+   "end": 20.48
+  },
+  {
+   "word": "in.",
+   "start": 20.48,
+   "end": 20.84
+  },
+  {
+   "word": "Then",
+   "start": 21.4,
+   "end": 21.7
+  },
+  {
+   "word": "the",
+   "start": 21.7,
+   "end": 22.02
+  },
+  {
+   "word": "gun",
+   "start": 22.02,
+   "end": 22.3
+  },
+  {
+   "word": "jammed.",
+   "start": 22.3,
+   "end": 22.7
+  },
+  {
+   "word": "Next,",
+   "start": 23.44,
+   "end": 23.82
+  },
+  {
+   "word": "they",
+   "start": 24.04,
+   "end": 24.22
+  },
+  {
+   "word": "bolted",
+   "start": 24.22,
+   "end": 24.46
+  },
+  {
+   "word": "a",
+   "start": 24.46,
+   "end": 24.66
+  },
+  {
+   "word": "machine",
+   "start": 24.66,
+   "end": 25.0
+  },
+  {
+   "word": "gun",
+   "start": 25.0,
+   "end": 25.26
+  },
+  {
+   "word": "onto",
+   "start": 25.26,
+   "end": 25.56
+  },
+  {
+   "word": "a",
+   "start": 25.56,
+   "end": 25.76
+  },
+  {
+   "word": "truck.",
+   "start": 25.76,
+   "end": 26.1
+  },
+  {
+   "word": "The",
+   "start": 26.62,
+   "end": 26.84
+  },
+  {
+   "word": "emus",
+   "start": 26.84,
+   "end": 27.28
+  },
+  {
+   "word": "just",
+   "start": 27.28,
+   "end": 27.52
+  },
+  {
+   "word": "ran.",
+   "start": 27.52,
+   "end": 27.96
+  },
+  {
+   "word": "On",
+   "start": 27.96,
+   "end": 28.76
+  },
+  {
+   "word": "the",
+   "start": 28.76,
+   "end": 28.9
+  },
+  {
+   "word": "rough",
+   "start": 28.9,
+   "end": 29.1
+  },
+  {
+   "word": "ground,",
+   "start": 29.1,
+   "end": 29.52
+  },
+  {
+   "word": "the",
+   "start": 29.78,
+   "end": 29.82
+  },
+  {
+   "word": "truck",
+   "start": 29.82,
+   "end": 30.04
+  },
+  {
+   "word": "couldn't",
+   "start": 30.04,
+   "end": 30.4
+  },
+  {
+   "word": "keep",
+   "start": 30.4,
+   "end": 30.6
+  },
+  {
+   "word": "up",
+   "start": 30.6,
+   "end": 30.88
+  },
+  {
+   "word": "and",
+   "start": 30.88,
+   "end": 31.26
+  },
+  {
+   "word": "the",
+   "start": 31.26,
+   "end": 31.42
+  },
+  {
+   "word": "gunner",
+   "start": 31.42,
+   "end": 31.74
+  },
+  {
+   "word": "couldn't",
+   "start": 31.74,
+   "end": 32.04
+  },
+  {
+   "word": "aim.",
+   "start": 32.04,
+   "end": 32.36
+  },
+  {
+   "word": "The",
+   "start": 33.1,
+   "end": 33.1
+  },
+  {
+   "word": "bird",
+   "start": 33.1,
+   "end": 33.34
+  },
+  {
+   "word": "split",
+   "start": 33.34,
+   "end": 33.72
+  },
+  {
+   "word": "into",
+   "start": 33.72,
+   "end": 33.98
+  },
+  {
+   "word": "small",
+   "start": 33.98,
+   "end": 34.32
+  },
+  {
+   "word": "groups,",
+   "start": 34.32,
+   "end": 34.78
+  },
+  {
+   "word": "each",
+   "start": 34.98,
+   "end": 35.22
+  },
+  {
+   "word": "with",
+   "start": 35.22,
+   "end": 35.46
+  },
+  {
+   "word": "a",
+   "start": 35.46,
+   "end": 35.56
+  },
+  {
+   "word": "lookout.",
+   "start": 35.56,
+   "end": 35.86
+  },
+  {
+   "word": "The",
+   "start": 36.68,
+   "end": 36.76
+  },
+  {
+   "word": "major",
+   "start": 36.76,
+   "end": 37.0
+  },
+  {
+   "word": "in",
+   "start": 37.0,
+   "end": 37.26
+  },
+  {
+   "word": "charge",
+   "start": 37.26,
+   "end": 37.58
+  },
+  {
+   "word": "said",
+   "start": 37.58,
+   "end": 37.98
+  },
+  {
+   "word": "they",
+   "start": 37.98,
+   "end": 38.16
+  },
+  {
+   "word": "faced",
+   "start": 38.16,
+   "end": 38.52
+  },
+  {
+   "word": "machine",
+   "start": 38.52,
+   "end": 38.92
+  },
+  {
+   "word": "guns",
+   "start": 38.92,
+   "end": 39.2
+  },
+  {
+   "word": "like",
+   "start": 39.2,
+   "end": 39.5
+  },
+  {
+   "word": "tanks.",
+   "start": 39.5,
+   "end": 39.98
+  },
+  {
+   "word": "After",
+   "start": 40.74,
+   "end": 40.96
+  },
+  {
+   "word": "one",
+   "start": 40.96,
+   "end": 41.24
+  },
+  {
+   "word": "week,",
+   "start": 41.24,
+   "end": 41.54
+  },
+  {
+   "word": "the",
+   "start": 41.82,
+   "end": 41.9
+  },
+  {
+   "word": "army",
+   "start": 41.9,
+   "end": 42.22
+  },
+  {
+   "word": "retreated.",
+   "start": 42.22,
+   "end": 42.74
+  },
+  {
+   "word": "They",
+   "start": 43.44,
+   "end": 43.56
+  },
+  {
+   "word": "came",
+   "start": 43.56,
+   "end": 43.78
+  },
+  {
+   "word": "back",
+   "start": 43.78,
+   "end": 44.1
+  },
+  {
+   "word": "and",
+   "start": 44.1,
+   "end": 44.36
+  },
+  {
+   "word": "claimed",
+   "start": 44.36,
+   "end": 44.66
+  },
+  {
+   "word": "986",
+   "start": 44.66,
+   "end": 45.98
+  },
+  {
+   "word": "kills.",
+   "start": 45.98,
+   "end": 46.56
+  },
+  {
+   "word": "That's",
+   "start": 47.18,
+   "end": 47.48
+  },
+  {
+   "word": "ten",
+   "start": 47.48,
+   "end": 47.74
+  },
+  {
+   "word": "bullets",
+   "start": 47.74,
+   "end": 48.12
+  },
+  {
+   "word": "for",
+   "start": 48.12,
+   "end": 48.38
+  },
+  {
+   "word": "every",
+   "start": 48.38,
+   "end": 48.74
+  },
+  {
+   "word": "bird.",
+   "start": 48.74,
+   "end": 49.14
+  },
+  {
+   "word": "It",
+   "start": 49.64,
+   "end": 49.8
+  },
+  {
+   "word": "barely",
+   "start": 49.8,
+   "end": 50.08
+  },
+  {
+   "word": "made",
+   "start": 50.08,
+   "end": 50.34
+  },
+  {
+   "word": "a",
+   "start": 50.34,
+   "end": 50.5
+  },
+  {
+   "word": "dent.",
+   "start": 50.5,
+   "end": 50.74
+  },
+  {
+   "word": "So",
+   "start": 51.54,
+   "end": 51.76
+  },
+  {
+   "word": "farmers",
+   "start": 51.76,
+   "end": 52.18
+  },
+  {
+   "word": "went",
+   "start": 52.18,
+   "end": 52.44
+  },
+  {
+   "word": "back",
+   "start": 52.44,
+   "end": 52.68
+  },
+  {
+   "word": "to",
+   "start": 52.68,
+   "end": 52.88
+  },
+  {
+   "word": "bounties",
+   "start": 52.88,
+   "end": 53.36
+  },
+  {
+   "word": "and",
+   "start": 53.36,
+   "end": 53.78
+  },
+  {
+   "word": "claimed",
+   "start": 53.78,
+   "end": 54.08
+  },
+  {
+   "word": "57",
+   "start": 54.08,
+   "end": 54.74
+  },
+  {
+   "word": ",000",
+   "start": 54.74,
+   "end": 55.32
+  },
+  {
+   "word": "in",
+   "start": 55.32,
+   "end": 55.58
+  },
+  {
+   "word": "six",
+   "start": 55.58,
+   "end": 55.9
+  },
+  {
+   "word": "months.",
+   "start": 55.9,
+   "end": 56.26
+  },
+  {
+   "word": "The",
+   "start": 56.26,
+   "end": 57.04
+  },
+  {
+   "word": "emus",
+   "start": 57.04,
+   "end": 57.58
+  },
+  {
+   "word": "had",
+   "start": 57.58,
+   "end": 57.78
+  },
+  {
+   "word": "won",
+   "start": 57.78,
+   "end": 58.02
+  },
+  {
+   "word": "the",
+   "start": 58.02,
+   "end": 58.2
+  },
+  {
+   "word": "war.",
+   "start": 58.2,
+   "end": 58.58
+  },
+  {
+   "word": "Subscribe",
+   "start": 59.34,
+   "end": 59.74
+  },
+  {
+   "word": "for",
+   "start": 59.74,
+   "end": 60.04
+  },
+  {
+   "word": "more",
+   "start": 60.04,
+   "end": 60.3
+  },
+  {
+   "word": "Weird",
+   "start": 60.3,
+   "end": 60.64
+  },
+  {
+   "word": "History.",
+   "start": 60.64,
+   "end": 61.06
+  }
+ ]
+}
