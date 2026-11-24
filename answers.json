@@ -158,5 +158,9 @@
   "69": {
     "answer": "E5",
     "what": "the tap that breaks physics: every other tap drips down into its basin, while E5's drops jump out of the basin and fall UP into the spout"
+  },
+  "70": {
+    "answer": "D6",
+    "what": "the plunger that turns inside out: every other plunger pops off its drain and lands on its cup, while D6's rubber cup flips into an upside-down bowl every time it pops"
   }
 }
