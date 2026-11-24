@@ -4,3 +4,5 @@ Generic stick figures and props (prepped or raw PNGs with transparency) that any
 - zapped-hair-on-fire.png — stick-figure park ranger, hair on fire, sparks, shocked (raw, 2026-11-23).
 - falling-screaming.png — stick figure falling head-first, screaming, speed lines (raw, 2026-11-24).
 - pop-out-of-hole.png — happy stick figure popping out of a hole in grassy ground, arms up (raw, 2026-11-24).
+- emu-running.png — goofy cartoon emu running, smug grin (raw, 2026-11-24).
+- soldier-jammed-gun.png — stick-figure 1930s soldier, round helmet, shocked behind a smoking jammed machine gun on a tripod (raw, 2026-11-24).
