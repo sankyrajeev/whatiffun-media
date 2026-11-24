@@ -1,0 +1,4 @@
+story/emu-war/art/raw/emu-run.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/4f802b1b-00ac-409e-b4b5-e5497ceb2073.png
+story/emu-war/art/raw/truck-chase.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/2357cb3a-db51-4c75-beb4-0c9e6546bbe1.png
+story/emu-war/art/raw/soldier-jam.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/73758d9d-3764-42c1-8f7c-850a4cc0a044.png
+story/emu-war/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/d352bc51-5483-4913-8371-3fd79cca9f01.mp3
