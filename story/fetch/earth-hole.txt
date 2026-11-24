@@ -1,4 +1,0 @@
-story/earth-hole/art/raw/earth-tunnel.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/5cf5c40e-dfdb-4204-8d9f-5a06b8875588.png
-story/earth-hole/art/raw/falling.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/cbb71579-1d8a-4cb8-8925-b2c01c4daf70.png
-story/earth-hole/art/raw/pop-out.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/46e11a7a-7ece-4a5c-a72a-6c19cdb21e5e.png
-story/earth-hole/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/fa2a94d0-aedd-49e0-a356-1680c4381890.mp3
