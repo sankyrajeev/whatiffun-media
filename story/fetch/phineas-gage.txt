@@ -1,0 +1,4 @@
+story/phineas-gage/art/raw/tamping-rock.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/8c53cfb4-e054-4a22-8243-0c1493afbc54.png
+story/phineas-gage/art/raw/rod-head-wave.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/a03894f1-59c6-4b97-8cc5-7fbbd5cab220.png
+story/phineas-gage/art/raw/skull-case.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/8753cdf8-4223-43e8-baf5-c48598833346.png
+story/phineas-gage/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/97e50a17-6175-4c73-85ff-cdcdf243a402.mp3
