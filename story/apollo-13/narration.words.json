@@ -1,0 +1,785 @@
+{
+ "text": " What if your spaceship blew up on the way to the moon? April 1970. Apollo 13 is 300,000 kilometers from Earth when an oxygen tank explodes. Power and oxygen start leaking into space. The three astronauts climb into their little moon lander. It was built for two people for two days. Now it has to keep three alive for four. They switch almost everything off and the cabin drops to three degrees. Then the air starts turning poisonous. Their own breath is filling it with carbon dioxide. The spare filters are square and the holes are round. So engineers on the ground build a fix out of plastic bags, cardboard and tape and read it up to them step by step. It works. They swing around the far side of the moon, 400,000 kilometers from home, the farthest humans had ever been. On April 17th they splashed down in the Pacific, all three alive.",
+ "words": [
+  {
+   "word": "What",
+   "start": 0.0,
+   "end": 0.24
+  },
+  {
+   "word": "if",
+   "start": 0.24,
+   "end": 0.4
+  },
+  {
+   "word": "your",
+   "start": 0.4,
+   "end": 0.6
+  },
+  {
+   "word": "spaceship",
+   "start": 0.6,
+   "end": 1.12
+  },
+  {
+   "word": "blew",
+   "start": 1.12,
+   "end": 1.48
+  },
+  {
+   "word": "up",
+   "start": 1.48,
+   "end": 1.76
+  },
+  {
+   "word": "on",
+   "start": 1.76,
+   "end": 1.94
+  },
+  {
+   "word": "the",
+   "start": 1.94,
+   "end": 2.06
+  },
+  {
+   "word": "way",
+   "start": 2.06,
+   "end": 2.2
+  },
+  {
+   "word": "to",
+   "start": 2.2,
+   "end": 2.36
+  },
+  {
+   "word": "the",
+   "start": 2.36,
+   "end": 2.48
+  },
+  {
+   "word": "moon?",
+   "start": 2.48,
+   "end": 2.72
+  },
+  {
+   "word": "April",
+   "start": 4.16,
+   "end": 4.16
+  },
+  {
+   "word": "1970.",
+   "start": 4.16,
+   "end": 5.24
+  },
+  {
+   "word": "Apollo",
+   "start": 6.26,
+   "end": 6.26
+  },
+  {
+   "word": "13",
+   "start": 6.26,
+   "end": 6.88
+  },
+  {
+   "word": "is",
+   "start": 6.88,
+   "end": 7.22
+  },
+  {
+   "word": "300",
+   "start": 7.22,
+   "end": 7.82
+  },
+  {
+   "word": ",000",
+   "start": 7.82,
+   "end": 8.52
+  },
+  {
+   "word": "kilometers",
+   "start": 8.52,
+   "end": 8.8
+  },
+  {
+   "word": "from",
+   "start": 8.8,
+   "end": 9.24
+  },
+  {
+   "word": "Earth",
+   "start": 9.24,
+   "end": 9.58
+  },
+  {
+   "word": "when",
+   "start": 9.58,
+   "end": 10.02
+  },
+  {
+   "word": "an",
+   "start": 10.02,
+   "end": 10.18
+  },
+  {
+   "word": "oxygen",
+   "start": 10.18,
+   "end": 10.58
+  },
+  {
+   "word": "tank",
+   "start": 10.58,
+   "end": 10.98
+  },
+  {
+   "word": "explodes.",
+   "start": 10.98,
+   "end": 11.6
+  },
+  {
+   "word": "Power",
+   "start": 12.48,
+   "end": 12.62
+  },
+  {
+   "word": "and",
+   "start": 12.62,
+   "end": 12.9
+  },
+  {
+   "word": "oxygen",
+   "start": 12.9,
+   "end": 13.38
+  },
+  {
+   "word": "start",
+   "start": 13.38,
+   "end": 13.74
+  },
+  {
+   "word": "leaking",
+   "start": 13.74,
+   "end": 14.06
+  },
+  {
+   "word": "into",
+   "start": 14.06,
+   "end": 14.42
+  },
+  {
+   "word": "space.",
+   "start": 14.42,
+   "end": 14.78
+  },
+  {
+   "word": "The",
+   "start": 15.58,
+   "end": 15.72
+  },
+  {
+   "word": "three",
+   "start": 15.72,
+   "end": 15.98
+  },
+  {
+   "word": "astronauts",
+   "start": 15.98,
+   "end": 16.44
+  },
+  {
+   "word": "climb",
+   "start": 16.44,
+   "end": 16.94
+  },
+  {
+   "word": "into",
+   "start": 16.94,
+   "end": 17.2
+  },
+  {
+   "word": "their",
+   "start": 17.2,
+   "end": 17.38
+  },
+  {
+   "word": "little",
+   "start": 17.38,
+   "end": 17.66
+  },
+  {
+   "word": "moon",
+   "start": 17.66,
+   "end": 17.9
+  },
+  {
+   "word": "lander.",
+   "start": 17.9,
+   "end": 18.56
+  },
+  {
+   "word": "It",
+   "start": 18.86,
+   "end": 19.04
+  },
+  {
+   "word": "was",
+   "start": 19.04,
+   "end": 19.2
+  },
+  {
+   "word": "built",
+   "start": 19.2,
+   "end": 19.4
+  },
+  {
+   "word": "for",
+   "start": 19.4,
+   "end": 19.64
+  },
+  {
+   "word": "two",
+   "start": 19.64,
+   "end": 19.86
+  },
+  {
+   "word": "people",
+   "start": 19.86,
+   "end": 20.22
+  },
+  {
+   "word": "for",
+   "start": 20.22,
+   "end": 20.48
+  },
+  {
+   "word": "two",
+   "start": 20.48,
+   "end": 20.72
+  },
+  {
+   "word": "days.",
+   "start": 20.72,
+   "end": 21.14
+  },
+  {
+   "word": "Now",
+   "start": 21.7,
+   "end": 22.04
+  },
+  {
+   "word": "it",
+   "start": 22.04,
+   "end": 22.26
+  },
+  {
+   "word": "has",
+   "start": 22.26,
+   "end": 22.44
+  },
+  {
+   "word": "to",
+   "start": 22.44,
+   "end": 22.6
+  },
+  {
+   "word": "keep",
+   "start": 22.6,
+   "end": 22.78
+  },
+  {
+   "word": "three",
+   "start": 22.78,
+   "end": 23.12
+  },
+  {
+   "word": "alive",
+   "start": 23.12,
+   "end": 23.48
+  },
+  {
+   "word": "for",
+   "start": 23.48,
+   "end": 23.82
+  },
+  {
+   "word": "four.",
+   "start": 23.82,
+   "end": 24.18
+  },
+  {
+   "word": "They",
+   "start": 24.86,
+   "end": 25.12
+  },
+  {
+   "word": "switch",
+   "start": 25.12,
+   "end": 25.38
+  },
+  {
+   "word": "almost",
+   "start": 25.38,
+   "end": 25.74
+  },
+  {
+   "word": "everything",
+   "start": 25.74,
+   "end": 26.3
+  },
+  {
+   "word": "off",
+   "start": 26.3,
+   "end": 26.62
+  },
+  {
+   "word": "and",
+   "start": 26.62,
+   "end": 27.02
+  },
+  {
+   "word": "the",
+   "start": 27.02,
+   "end": 27.16
+  },
+  {
+   "word": "cabin",
+   "start": 27.16,
+   "end": 27.46
+  },
+  {
+   "word": "drops",
+   "start": 27.46,
+   "end": 27.78
+  },
+  {
+   "word": "to",
+   "start": 27.78,
+   "end": 28.04
+  },
+  {
+   "word": "three",
+   "start": 28.04,
+   "end": 28.3
+  },
+  {
+   "word": "degrees.",
+   "start": 28.3,
+   "end": 28.68
+  },
+  {
+   "word": "Then",
+   "start": 28.68,
+   "end": 29.74
+  },
+  {
+   "word": "the",
+   "start": 29.74,
+   "end": 30.08
+  },
+  {
+   "word": "air",
+   "start": 30.08,
+   "end": 30.38
+  },
+  {
+   "word": "starts",
+   "start": 30.38,
+   "end": 30.68
+  },
+  {
+   "word": "turning",
+   "start": 30.68,
+   "end": 31.18
+  },
+  {
+   "word": "poisonous.",
+   "start": 31.18,
+   "end": 31.7
+  },
+  {
+   "word": "Their",
+   "start": 32.4,
+   "end": 32.52
+  },
+  {
+   "word": "own",
+   "start": 32.52,
+   "end": 32.84
+  },
+  {
+   "word": "breath",
+   "start": 32.84,
+   "end": 33.16
+  },
+  {
+   "word": "is",
+   "start": 33.16,
+   "end": 33.38
+  },
+  {
+   "word": "filling",
+   "start": 33.38,
+   "end": 33.62
+  },
+  {
+   "word": "it",
+   "start": 33.62,
+   "end": 33.84
+  },
+  {
+   "word": "with",
+   "start": 33.84,
+   "end": 34.02
+  },
+  {
+   "word": "carbon",
+   "start": 34.02,
+   "end": 34.32
+  },
+  {
+   "word": "dioxide.",
+   "start": 34.32,
+   "end": 34.88
+  },
+  {
+   "word": "The",
+   "start": 35.68,
+   "end": 35.8
+  },
+  {
+   "word": "spare",
+   "start": 35.8,
+   "end": 36.14
+  },
+  {
+   "word": "filters",
+   "start": 36.14,
+   "end": 36.58
+  },
+  {
+   "word": "are",
+   "start": 36.58,
+   "end": 36.74
+  },
+  {
+   "word": "square",
+   "start": 36.74,
+   "end": 37.14
+  },
+  {
+   "word": "and",
+   "start": 37.14,
+   "end": 37.58
+  },
+  {
+   "word": "the",
+   "start": 37.58,
+   "end": 37.7
+  },
+  {
+   "word": "holes",
+   "start": 37.7,
+   "end": 38.0
+  },
+  {
+   "word": "are",
+   "start": 38.0,
+   "end": 38.22
+  },
+  {
+   "word": "round.",
+   "start": 38.22,
+   "end": 38.64
+  },
+  {
+   "word": "So",
+   "start": 39.22,
+   "end": 39.36
+  },
+  {
+   "word": "engineers",
+   "start": 39.36,
+   "end": 39.76
+  },
+  {
+   "word": "on",
+   "start": 39.76,
+   "end": 40.06
+  },
+  {
+   "word": "the",
+   "start": 40.06,
+   "end": 40.22
+  },
+  {
+   "word": "ground",
+   "start": 40.22,
+   "end": 40.56
+  },
+  {
+   "word": "build",
+   "start": 40.56,
+   "end": 40.88
+  },
+  {
+   "word": "a",
+   "start": 40.88,
+   "end": 41.08
+  },
+  {
+   "word": "fix",
+   "start": 41.08,
+   "end": 41.34
+  },
+  {
+   "word": "out",
+   "start": 41.34,
+   "end": 41.64
+  },
+  {
+   "word": "of",
+   "start": 41.64,
+   "end": 41.88
+  },
+  {
+   "word": "plastic",
+   "start": 41.88,
+   "end": 42.18
+  },
+  {
+   "word": "bags,",
+   "start": 42.18,
+   "end": 42.68
+  },
+  {
+   "word": "cardboard",
+   "start": 43.16,
+   "end": 43.32
+  },
+  {
+   "word": "and",
+   "start": 43.32,
+   "end": 43.76
+  },
+  {
+   "word": "tape",
+   "start": 43.76,
+   "end": 44.08
+  },
+  {
+   "word": "and",
+   "start": 44.08,
+   "end": 44.7
+  },
+  {
+   "word": "read",
+   "start": 44.7,
+   "end": 44.92
+  },
+  {
+   "word": "it",
+   "start": 44.92,
+   "end": 45.08
+  },
+  {
+   "word": "up",
+   "start": 45.08,
+   "end": 45.22
+  },
+  {
+   "word": "to",
+   "start": 45.22,
+   "end": 45.36
+  },
+  {
+   "word": "them",
+   "start": 45.36,
+   "end": 45.58
+  },
+  {
+   "word": "step",
+   "start": 45.58,
+   "end": 45.92
+  },
+  {
+   "word": "by",
+   "start": 45.92,
+   "end": 46.16
+  },
+  {
+   "word": "step.",
+   "start": 46.16,
+   "end": 46.56
+  },
+  {
+   "word": "It",
+   "start": 47.1,
+   "end": 47.32
+  },
+  {
+   "word": "works.",
+   "start": 47.32,
+   "end": 47.7
+  },
+  {
+   "word": "They",
+   "start": 48.36,
+   "end": 48.5
+  },
+  {
+   "word": "swing",
+   "start": 48.5,
+   "end": 48.8
+  },
+  {
+   "word": "around",
+   "start": 48.8,
+   "end": 49.1
+  },
+  {
+   "word": "the",
+   "start": 49.1,
+   "end": 49.34
+  },
+  {
+   "word": "far",
+   "start": 49.34,
+   "end": 49.6
+  },
+  {
+   "word": "side",
+   "start": 49.6,
+   "end": 49.86
+  },
+  {
+   "word": "of",
+   "start": 49.86,
+   "end": 50.02
+  },
+  {
+   "word": "the",
+   "start": 50.02,
+   "end": 50.14
+  },
+  {
+   "word": "moon,",
+   "start": 50.14,
+   "end": 50.42
+  },
+  {
+   "word": "400",
+   "start": 50.94,
+   "end": 51.3
+  },
+  {
+   "word": ",000",
+   "start": 51.3,
+   "end": 52.02
+  },
+  {
+   "word": "kilometers",
+   "start": 52.02,
+   "end": 52.36
+  },
+  {
+   "word": "from",
+   "start": 52.36,
+   "end": 52.72
+  },
+  {
+   "word": "home,",
+   "start": 52.72,
+   "end": 53.06
+  },
+  {
+   "word": "the",
+   "start": 53.4,
+   "end": 53.58
+  },
+  {
+   "word": "farthest",
+   "start": 53.58,
+   "end": 54.1
+  },
+  {
+   "word": "humans",
+   "start": 54.1,
+   "end": 54.44
+  },
+  {
+   "word": "had",
+   "start": 54.44,
+   "end": 54.7
+  },
+  {
+   "word": "ever",
+   "start": 54.7,
+   "end": 55.04
+  },
+  {
+   "word": "been.",
+   "start": 55.04,
+   "end": 55.4
+  },
+  {
+   "word": "On",
+   "start": 55.4,
+   "end": 56.26
+  },
+  {
+   "word": "April",
+   "start": 56.26,
+   "end": 56.58
+  },
+  {
+   "word": "17th",
+   "start": 56.58,
+   "end": 57.7
+  },
+  {
+   "word": "they",
+   "start": 57.7,
+   "end": 57.78
+  },
+  {
+   "word": "splashed",
+   "start": 57.78,
+   "end": 58.22
+  },
+  {
+   "word": "down",
+   "start": 58.22,
+   "end": 58.48
+  },
+  {
+   "word": "in",
+   "start": 58.48,
+   "end": 58.64
+  },
+  {
+   "word": "the",
+   "start": 58.64,
+   "end": 58.72
+  },
+  {
+   "word": "Pacific,",
+   "start": 58.72,
+   "end": 59.08
+  },
+  {
+   "word": "all",
+   "start": 59.76,
+   "end": 60.0
+  },
+  {
+   "word": "three",
+   "start": 60.0,
+   "end": 60.4
+  },
+  {
+   "word": "alive.",
+   "start": 60.4,
+   "end": 61.1
+  }
+ ]
+}
