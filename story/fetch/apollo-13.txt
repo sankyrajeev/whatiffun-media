@@ -1,4 +1,0 @@
-story/apollo-13/art/raw/ship-explode.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/cab8e3a9-2bbe-4e3d-8dc6-78923f660972.png
-story/apollo-13/art/raw/lander-cold.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/a7ad29bf-ce02-44e3-818e-c12f9e922eed.png
-story/apollo-13/art/raw/mailbox-tape.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/27aca346-4918-482f-8f41-02154f14e703.png
-story/apollo-13/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/965b512a-3291-4009-99c6-7dc5cd0b3bc1.mp3
