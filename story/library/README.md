@@ -6,3 +6,6 @@ Generic stick figures and props (prepped or raw PNGs with transparency) that any
 - pop-out-of-hole.png — happy stick figure popping out of a hole in grassy ground, arms up (raw, 2026-11-24).
 - emu-running.png — goofy cartoon emu running, smug grin (raw, 2026-11-24).
 - soldier-jammed-gun.png — stick-figure 1930s soldier, round helmet, shocked behind a smoking jammed machine gun on a tripod (raw, 2026-11-24).
+- astronauts-freezing-lander.png — three stick-figure astronauts shivering in a frosty gold lunar lander (raw, 2026-11-25).
+- moon.png — cartoon cratered Moon (drawn in code, 2026-11-25; story/apollo-13/draw_code_art.py).
+- earth.png — cartoon Earth (drawn in code, 2026-11-25).
