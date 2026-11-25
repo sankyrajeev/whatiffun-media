@@ -1,0 +1,248 @@
+{
+ "title": "What If You Lost Part of Your Brain but Still Managed to Survive?",
+ "voice": "narration.mp3",
+ "words": "narration.words.json",
+ "end": [
+  "Subscribe",
+  "@whatiffun",
+  "for more weird humans"
+ ],
+ "thumb": {
+  "l1": "IRON BAR",
+  "l2": "THROUGH HIS HEAD",
+  "img": "rod-head-wave.png"
+ },
+ "word_fix": {
+  "10": 4.0,
+  "11": 5.0,
+  "126": 53.35
+ },
+ "shots": [
+  {
+   "at": 0,
+   "kicker": "WHAT IF",
+   "l1": "An iron bar shot",
+   "l2": "through your head?",
+   "l2_at": 5,
+   "art": [
+    {
+     "img": "rod-head-wave.png",
+     "h": 0.96,
+     "move": "sway",
+     "amp": 0.02,
+     "per": 1.6
+    }
+   ]
+  },
+  {
+   "at": 10,
+   "kicker": "VERMONT, 1848",
+   "l1": "Phineas Gage,",
+   "l2": "railroad worker.",
+   "l2_at": 17,
+   "num": "age 25",
+   "num_at": 15,
+   "art": [
+    {
+     "img": "tamping-rock.png",
+     "h": 0.9,
+     "x": 0.1,
+     "move": "bob",
+     "amp": 0.01,
+     "per": 1.2
+    }
+   ]
+  },
+  {
+   "at": 23,
+   "kicker": "THE ROD",
+   "l1": "Packing gunpowder",
+   "l2": "with an iron rod.",
+   "l2_at": 29,
+   "num": "1 m · 6 kg",
+   "num_at": 37,
+   "art": [
+    {
+     "img": "iron-rod.png",
+     "h": 0.17,
+     "y": -0.3,
+     "move": "sway",
+     "amp": 0.02,
+     "per": 1.6,
+     "enter": "rise"
+    }
+   ]
+  },
+  {
+   "at": 39,
+   "kicker": "A SPARK",
+   "l1": "The rod rockets",
+   "l2": "through his skull.",
+   "l2_at": 48,
+   "art": [
+    {
+     "img": "rod-head-wave.png",
+     "h": 0.95,
+     "move": "pulse",
+     "amp": 0.025,
+     "per": 0.6,
+     "enter": "rise"
+    }
+   ]
+  },
+  {
+   "at": 62,
+   "kicker": "IT FLIES",
+   "l1": "and lands",
+   "l2": "far away.",
+   "l2_at": 65,
+   "num": "25 m",
+   "num_at": 64,
+   "art": [
+    {
+     "img": "iron-rod.png",
+     "h": 0.17,
+     "y": -0.3,
+     "move": "bob",
+     "amp": 0.04,
+     "per": 0.8,
+     "enter": "rise"
+    }
+   ]
+  },
+  {
+   "at": 67,
+   "kicker": "AND PHINEAS?",
+   "l1": "He's awake.",
+   "l2": "He's talking.",
+   "l2_at": 73,
+   "art": [
+    {
+     "img": "rod-head-wave-flip.png",
+     "h": 0.98,
+     "move": "bob",
+     "amp": 0.02,
+     "per": 0.9
+    }
+   ]
+  },
+  {
+   "at": 77,
+   "kicker": "BUT",
+   "l1": "Rude, restless,",
+   "l2": "swearing.",
+   "l2_at": 86,
+   "art": [
+    {
+     "img": "tamping-rock-flip.png",
+     "h": 0.9,
+     "move": "sway",
+     "amp": 0.03,
+     "per": 0.5
+    }
+   ]
+  },
+  {
+   "at": 87,
+   "kicker": "HIS FRIENDS",
+   "l1": "“No longer",
+   "l2": "Gage.”",
+   "l2_at": 91,
+   "art": [
+    {
+     "img": "rod-head-wave.png",
+     "h": 0.9,
+     "dim_at": 90,
+     "move": "sway",
+     "amp": 0.01,
+     "per": 2.4
+    }
+   ]
+  },
+  {
+   "at": 93,
+   "kicker": "THE BRAIN",
+   "l1": "The front of it",
+   "l2": "shapes who we are.",
+   "l2_at": 103,
+   "art": [
+    {
+     "img": "rod-head-wave-flip.png",
+     "h": 0.92,
+     "move": "pulse",
+     "amp": 0.015,
+     "per": 1.4
+    }
+   ]
+  },
+  {
+   "at": 107,
+   "kicker": "CHILE",
+   "l1": "Stagecoach",
+   "l2": "driver.",
+   "l2_at": 112,
+   "num": "7 years",
+   "num_at": 116,
+   "art": [
+    {
+     "img": "rod-head-wave.png",
+     "h": 0.88,
+     "x": 0.1,
+     "move": "bob",
+     "amp": 0.02,
+     "per": 0.7
+    }
+   ]
+  },
+  {
+   "at": 118,
+   "kicker": "SURVIVED",
+   "l1": "Twelve more",
+   "l2": "years.",
+   "l2_at": 122,
+   "num": "12 years",
+   "num_at": 120,
+   "art": [
+    {
+     "img": "rod-head-wave-flip.png",
+     "h": 0.92,
+     "move": "sway",
+     "amp": 0.012,
+     "per": 2.2
+    }
+   ]
+  },
+  {
+   "at": 126,
+   "kicker": "TODAY",
+   "l1": "Skull and rod,",
+   "l2": "side by side.",
+   "l2_at": 133,
+   "art": [
+    {
+     "img": "skull-case.png",
+     "h": 0.92,
+     "move": "bob",
+     "amp": 0.008,
+     "per": 3.0,
+     "enter": "rise"
+    }
+   ]
+  },
+  {
+   "at_s": 58.4,
+   "kicker": "SUBSCRIBE",
+   "l1": "for more",
+   "l2": "weird humans.",
+   "art": [
+    {
+     "img": "rod-head-wave.png",
+     "h": 0.95,
+     "move": "bob",
+     "amp": 0.02,
+     "per": 1.2
+    }
+   ]
+  }
+ ]
+}
