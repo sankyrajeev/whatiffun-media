@@ -170,5 +170,9 @@
   "72": {
     "answer": "E5",
     "what": "the cuckoo clock that pops out twice: every other cuckoo pops out once per cycle, while E5's bird pops out, ducks back in and pops out again every 2.4 s"
+  },
+  "73": {
+    "answer": "F3",
+    "what": "the rocking chair that never stops: every other chair gets a push, rocks two big swings and then stands still, while F3 rocks at full swing the whole time"
   }
 }
