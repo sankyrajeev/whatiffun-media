@@ -166,5 +166,9 @@
   "71": {
     "answer": "E6",
     "what": "the Ferris wheel that turns the other way: all 47 other wheels turn clockwise, while E6 turns anti-clockwise the whole time"
+  },
+  "72": {
+    "answer": "E5",
+    "what": "the cuckoo clock that pops out twice: every other cuckoo pops out once per cycle, while E5's bird pops out, ducks back in and pops out again every 2.4 s"
   }
 }
