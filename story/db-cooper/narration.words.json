@@ -1,0 +1,745 @@
+{
+ "text": " What if a man hijacked a plane and simply vanished? November 24th, 1971. The night before Thanksgiving. A quiet man in a dark suit pays $20 cash for a flight from Portland to Seattle. He calls himself, Damn Cooper. Soon after takeoff, he hands a flight attendant a note. He has a bomb in his briefcase. In Seattle, he lets all 36 passengers go in exchange for $200,000 and four parachutes. Then the plane takes off again, heading for Mexico. Just after eight, in rain and darkness, he lowers the back stairs and jumps. At 10,000 feet, in loafers, he was never seen again. The FBI checked more than 800 suspects. Eight years later, an eight-year-old boy digging by the Columbia River found $5,800 in rotting $20 The serial numbers matched. The rest of the money has never turned up. Neither has he.",
+ "words": [
+  {
+   "word": "What",
+   "start": 0.0,
+   "end": 0.24
+  },
+  {
+   "word": "if",
+   "start": 0.24,
+   "end": 0.4
+  },
+  {
+   "word": "a",
+   "start": 0.4,
+   "end": 0.56
+  },
+  {
+   "word": "man",
+   "start": 0.56,
+   "end": 0.8
+  },
+  {
+   "word": "hijacked",
+   "start": 0.8,
+   "end": 1.32
+  },
+  {
+   "word": "a",
+   "start": 1.32,
+   "end": 1.58
+  },
+  {
+   "word": "plane",
+   "start": 1.58,
+   "end": 1.9
+  },
+  {
+   "word": "and",
+   "start": 1.9,
+   "end": 2.42
+  },
+  {
+   "word": "simply",
+   "start": 2.42,
+   "end": 2.82
+  },
+  {
+   "word": "vanished?",
+   "start": 2.82,
+   "end": 3.38
+  },
+  {
+   "word": "November",
+   "start": 4.64,
+   "end": 4.64
+  },
+  {
+   "word": "24th,",
+   "start": 4.64,
+   "end": 5.78
+  },
+  {
+   "word": "1971.",
+   "start": 5.86,
+   "end": 6.6
+  },
+  {
+   "word": "The",
+   "start": 7.44,
+   "end": 7.44
+  },
+  {
+   "word": "night",
+   "start": 7.44,
+   "end": 7.64
+  },
+  {
+   "word": "before",
+   "start": 7.64,
+   "end": 8.1
+  },
+  {
+   "word": "Thanksgiving.",
+   "start": 8.1,
+   "end": 8.58
+  },
+  {
+   "word": "A",
+   "start": 9.56,
+   "end": 9.58
+  },
+  {
+   "word": "quiet",
+   "start": 9.58,
+   "end": 9.9
+  },
+  {
+   "word": "man",
+   "start": 9.9,
+   "end": 10.22
+  },
+  {
+   "word": "in",
+   "start": 10.22,
+   "end": 10.44
+  },
+  {
+   "word": "a",
+   "start": 10.44,
+   "end": 10.58
+  },
+  {
+   "word": "dark",
+   "start": 10.58,
+   "end": 10.82
+  },
+  {
+   "word": "suit",
+   "start": 10.82,
+   "end": 11.24
+  },
+  {
+   "word": "pays",
+   "start": 11.24,
+   "end": 11.62
+  },
+  {
+   "word": "$20",
+   "start": 11.62,
+   "end": 12.12
+  },
+  {
+   "word": "cash",
+   "start": 12.12,
+   "end": 12.7
+  },
+  {
+   "word": "for",
+   "start": 12.7,
+   "end": 13.04
+  },
+  {
+   "word": "a",
+   "start": 13.04,
+   "end": 13.16
+  },
+  {
+   "word": "flight",
+   "start": 13.16,
+   "end": 13.38
+  },
+  {
+   "word": "from",
+   "start": 13.38,
+   "end": 13.68
+  },
+  {
+   "word": "Portland",
+   "start": 13.68,
+   "end": 14.06
+  },
+  {
+   "word": "to",
+   "start": 14.06,
+   "end": 14.44
+  },
+  {
+   "word": "Seattle.",
+   "start": 14.44,
+   "end": 14.84
+  },
+  {
+   "word": "He",
+   "start": 15.58,
+   "end": 15.68
+  },
+  {
+   "word": "calls",
+   "start": 15.68,
+   "end": 15.92
+  },
+  {
+   "word": "himself,",
+   "start": 15.92,
+   "end": 16.44
+  },
+  {
+   "word": "Damn",
+   "start": 16.76,
+   "end": 16.88
+  },
+  {
+   "word": "Cooper.",
+   "start": 16.88,
+   "end": 17.22
+  },
+  {
+   "word": "Soon",
+   "start": 18.18,
+   "end": 18.28
+  },
+  {
+   "word": "after",
+   "start": 18.28,
+   "end": 18.58
+  },
+  {
+   "word": "takeoff,",
+   "start": 18.58,
+   "end": 18.94
+  },
+  {
+   "word": "he",
+   "start": 19.36,
+   "end": 19.44
+  },
+  {
+   "word": "hands",
+   "start": 19.44,
+   "end": 19.72
+  },
+  {
+   "word": "a",
+   "start": 19.72,
+   "end": 19.86
+  },
+  {
+   "word": "flight",
+   "start": 19.86,
+   "end": 20.1
+  },
+  {
+   "word": "attendant",
+   "start": 20.1,
+   "end": 20.46
+  },
+  {
+   "word": "a",
+   "start": 20.46,
+   "end": 20.76
+  },
+  {
+   "word": "note.",
+   "start": 20.76,
+   "end": 21.04
+  },
+  {
+   "word": "He",
+   "start": 21.58,
+   "end": 21.8
+  },
+  {
+   "word": "has",
+   "start": 21.8,
+   "end": 21.94
+  },
+  {
+   "word": "a",
+   "start": 21.94,
+   "end": 22.12
+  },
+  {
+   "word": "bomb",
+   "start": 22.12,
+   "end": 22.34
+  },
+  {
+   "word": "in",
+   "start": 22.34,
+   "end": 22.54
+  },
+  {
+   "word": "his",
+   "start": 22.54,
+   "end": 22.68
+  },
+  {
+   "word": "briefcase.",
+   "start": 22.68,
+   "end": 23.24
+  },
+  {
+   "word": "In",
+   "start": 23.96,
+   "end": 24.14
+  },
+  {
+   "word": "Seattle,",
+   "start": 24.14,
+   "end": 24.46
+  },
+  {
+   "word": "he",
+   "start": 24.88,
+   "end": 25.02
+  },
+  {
+   "word": "lets",
+   "start": 25.02,
+   "end": 25.18
+  },
+  {
+   "word": "all",
+   "start": 25.18,
+   "end": 25.54
+  },
+  {
+   "word": "36",
+   "start": 25.54,
+   "end": 26.06
+  },
+  {
+   "word": "passengers",
+   "start": 26.06,
+   "end": 26.6
+  },
+  {
+   "word": "go",
+   "start": 26.6,
+   "end": 27.02
+  },
+  {
+   "word": "in",
+   "start": 27.02,
+   "end": 27.44
+  },
+  {
+   "word": "exchange",
+   "start": 27.44,
+   "end": 27.86
+  },
+  {
+   "word": "for",
+   "start": 27.86,
+   "end": 28.16
+  },
+  {
+   "word": "$200",
+   "start": 28.16,
+   "end": 28.64
+  },
+  {
+   "word": ",000",
+   "start": 28.64,
+   "end": 29.5
+  },
+  {
+   "word": "and",
+   "start": 29.5,
+   "end": 29.92
+  },
+  {
+   "word": "four",
+   "start": 29.92,
+   "end": 30.22
+  },
+  {
+   "word": "parachutes.",
+   "start": 30.22,
+   "end": 30.92
+  },
+  {
+   "word": "Then",
+   "start": 31.82,
+   "end": 31.9
+  },
+  {
+   "word": "the",
+   "start": 31.9,
+   "end": 32.14
+  },
+  {
+   "word": "plane",
+   "start": 32.14,
+   "end": 32.36
+  },
+  {
+   "word": "takes",
+   "start": 32.36,
+   "end": 32.62
+  },
+  {
+   "word": "off",
+   "start": 32.62,
+   "end": 32.88
+  },
+  {
+   "word": "again,",
+   "start": 32.88,
+   "end": 33.24
+  },
+  {
+   "word": "heading",
+   "start": 33.54,
+   "end": 33.7
+  },
+  {
+   "word": "for",
+   "start": 33.7,
+   "end": 33.94
+  },
+  {
+   "word": "Mexico.",
+   "start": 33.94,
+   "end": 34.3
+  },
+  {
+   "word": "Just",
+   "start": 35.22,
+   "end": 35.42
+  },
+  {
+   "word": "after",
+   "start": 35.42,
+   "end": 35.7
+  },
+  {
+   "word": "eight,",
+   "start": 35.7,
+   "end": 36.02
+  },
+  {
+   "word": "in",
+   "start": 36.34,
+   "end": 36.48
+  },
+  {
+   "word": "rain",
+   "start": 36.48,
+   "end": 36.78
+  },
+  {
+   "word": "and",
+   "start": 36.78,
+   "end": 37.08
+  },
+  {
+   "word": "darkness,",
+   "start": 37.08,
+   "end": 37.54
+  },
+  {
+   "word": "he",
+   "start": 37.92,
+   "end": 38.08
+  },
+  {
+   "word": "lowers",
+   "start": 38.08,
+   "end": 38.4
+  },
+  {
+   "word": "the",
+   "start": 38.4,
+   "end": 38.58
+  },
+  {
+   "word": "back",
+   "start": 38.58,
+   "end": 38.8
+  },
+  {
+   "word": "stairs",
+   "start": 38.8,
+   "end": 39.12
+  },
+  {
+   "word": "and",
+   "start": 39.12,
+   "end": 39.6
+  },
+  {
+   "word": "jumps.",
+   "start": 39.6,
+   "end": 40.0
+  },
+  {
+   "word": "At",
+   "start": 40.74,
+   "end": 40.86
+  },
+  {
+   "word": "10",
+   "start": 40.86,
+   "end": 41.2
+  },
+  {
+   "word": ",000",
+   "start": 41.2,
+   "end": 41.66
+  },
+  {
+   "word": "feet,",
+   "start": 41.66,
+   "end": 41.92
+  },
+  {
+   "word": "in",
+   "start": 42.54,
+   "end": 42.7
+  },
+  {
+   "word": "loafers,",
+   "start": 42.7,
+   "end": 43.24
+  },
+  {
+   "word": "he",
+   "start": 43.76,
+   "end": 44.02
+  },
+  {
+   "word": "was",
+   "start": 44.02,
+   "end": 44.14
+  },
+  {
+   "word": "never",
+   "start": 44.14,
+   "end": 44.42
+  },
+  {
+   "word": "seen",
+   "start": 44.42,
+   "end": 44.7
+  },
+  {
+   "word": "again.",
+   "start": 44.7,
+   "end": 45.1
+  },
+  {
+   "word": "The",
+   "start": 45.9,
+   "end": 46.02
+  },
+  {
+   "word": "FBI",
+   "start": 46.02,
+   "end": 46.38
+  },
+  {
+   "word": "checked",
+   "start": 46.38,
+   "end": 46.88
+  },
+  {
+   "word": "more",
+   "start": 46.88,
+   "end": 47.12
+  },
+  {
+   "word": "than",
+   "start": 47.12,
+   "end": 47.32
+  },
+  {
+   "word": "800",
+   "start": 47.32,
+   "end": 47.66
+  },
+  {
+   "word": "suspects.",
+   "start": 47.66,
+   "end": 48.48
+  },
+  {
+   "word": "Eight",
+   "start": 49.32,
+   "end": 49.52
+  },
+  {
+   "word": "years",
+   "start": 49.52,
+   "end": 49.76
+  },
+  {
+   "word": "later,",
+   "start": 49.76,
+   "end": 50.16
+  },
+  {
+   "word": "an",
+   "start": 50.44,
+   "end": 50.56
+  },
+  {
+   "word": "eight",
+   "start": 50.56,
+   "end": 50.78
+  },
+  {
+   "word": "-year",
+   "start": 50.78,
+   "end": 50.94
+  },
+  {
+   "word": "-old",
+   "start": 50.94,
+   "end": 51.14
+  },
+  {
+   "word": "boy",
+   "start": 51.14,
+   "end": 51.46
+  },
+  {
+   "word": "digging",
+   "start": 51.46,
+   "end": 51.82
+  },
+  {
+   "word": "by",
+   "start": 51.82,
+   "end": 52.14
+  },
+  {
+   "word": "the",
+   "start": 52.14,
+   "end": 52.3
+  },
+  {
+   "word": "Columbia",
+   "start": 52.3,
+   "end": 52.68
+  },
+  {
+   "word": "River",
+   "start": 52.68,
+   "end": 53.04
+  },
+  {
+   "word": "found",
+   "start": 53.04,
+   "end": 53.64
+  },
+  {
+   "word": "$5",
+   "start": 53.64,
+   "end": 54.1
+  },
+  {
+   "word": ",800",
+   "start": 54.1,
+   "end": 55.0
+  },
+  {
+   "word": "in",
+   "start": 55.0,
+   "end": 55.84
+  },
+  {
+   "word": "rotting",
+   "start": 55.84,
+   "end": 56.22
+  },
+  {
+   "word": "$20",
+   "start": 56.22,
+   "end": 56.76
+  },
+  {
+   "word": "The",
+   "start": 57.48,
+   "end": 58.08
+  },
+  {
+   "word": "serial",
+   "start": 58.08,
+   "end": 58.44
+  },
+  {
+   "word": "numbers",
+   "start": 58.44,
+   "end": 58.78
+  },
+  {
+   "word": "matched.",
+   "start": 58.78,
+   "end": 59.28
+  },
+  {
+   "word": "The",
+   "start": 60.0,
+   "end": 60.08
+  },
+  {
+   "word": "rest",
+   "start": 60.08,
+   "end": 60.26
+  },
+  {
+   "word": "of",
+   "start": 60.26,
+   "end": 60.44
+  },
+  {
+   "word": "the",
+   "start": 60.44,
+   "end": 60.56
+  },
+  {
+   "word": "money",
+   "start": 60.56,
+   "end": 60.78
+  },
+  {
+   "word": "has",
+   "start": 60.78,
+   "end": 61.06
+  },
+  {
+   "word": "never",
+   "start": 61.06,
+   "end": 61.3
+  },
+  {
+   "word": "turned",
+   "start": 61.3,
+   "end": 61.58
+  },
+  {
+   "word": "up.",
+   "start": 61.58,
+   "end": 62.08
+  },
+  {
+   "word": "Neither",
+   "start": 62.62,
+   "end": 62.72
+  },
+  {
+   "word": "has",
+   "start": 62.72,
+   "end": 63.06
+  },
+  {
+   "word": "he.",
+   "start": 63.06,
+   "end": 63.36
+  }
+ ]
+}
