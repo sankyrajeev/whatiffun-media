@@ -43,7 +43,13 @@ LINES_ASK = [
     "It drops right here in the comments tomorrow 👀 Take a guess first!",
     "Answer goes up here tomorrow 🎯 Guess first: letter + number",
 ]
+LINES_SONG = [
+    "Locked in 🎵 The song gets revealed right here tomorrow 👀",
+    "Noted ✍️ We name the song in these comments tomorrow 🎯",
+    "Good ear? We'll see 👀 Answer drops here tomorrow",
+]
 ANSWER_FMT = "Answer: {answer} 🎯 It's {what}. Did you get it? New puzzle tomorrow 👀"
+ANSWER_FMT_SONG = "Answer: {answer} 🎵 {what}. Did you get it? New one tomorrow 👀"
 
 
 # grid address: a column letter A–L and a row number 1–12, e.g. "E7", "e 7", "E-7", "7E"
@@ -111,10 +117,11 @@ def main():
     todo = []
     for m in media:
         cap = (m.get("caption") or "").lower()
-        if "letter + number" not in cap:          # only SPOT IT puzzles
+        song = "comment the song" in cap              # MARBLE MUSIC "guess the song" reels
+        if "letter + number" not in cap and not song:   # only puzzles
             continue
         stats["media"] += 1
-        pool = LINES_BREAKS if "breaks physics" in cap else LINES
+        pool = LINES_SONG if song else (LINES_BREAKS if "breaks physics" in cap else LINES)
         comments = paged(f"{m['id']}/comments",
                          {"fields": "id,text,timestamp,username,replies{username}", "limit": 50}, cap=3000)
         # 1) reveal the answer on the puzzle itself, once, ANSWER_AFTER_H after it went up
@@ -128,7 +135,7 @@ def main():
                     stats["answers_posted"] += 1
                 else:
                     try:
-                        api(f"{m['id']}/comments", {"message": ANSWER_FMT.format(**a)}, method="POST")
+                        api(f"{m['id']}/comments", {"message": (ANSWER_FMT_SONG if song else ANSWER_FMT).format(**a)}, method="POST")
                         stats["answers_posted"] += 1
                     except RuntimeError as e:
                         stats["failed"] += 1; print("answer failed", m["id"], str(e)[:200])
@@ -142,9 +149,11 @@ def main():
             if any((r.get("username") or "").lower() == my_name for r in c.get("replies", {}).get("data", [])):
                 stats["already"] += 1; continue
             kind = classify(c.get("text"))
+            if song and kind is None and 2 <= len((c.get("text") or "").strip()) <= 60:
+                kind = "guess"                        # any short comment on a song reel is a guess
             if kind is None:
                 stats["skipped"] += 1; continue
-            todo.append((ts, c["id"], LINES_ASK if kind == "ask" else pool))
+            todo.append((ts, c["id"], LINES_ASK if (kind == "ask" and not song) else pool))
     todo.sort()                                     # oldest first
     for _, cid, pool in todo[:MAX_REPLIES]:
         msg = rng.choice(pool)

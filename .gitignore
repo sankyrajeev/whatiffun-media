@@ -1,3 +1,6 @@
 __pycache__/
 story/*/out/
 story/*/stills/
+src/marble-music/render/
+src/marble-music/out/
+src/marble-music/stills/
