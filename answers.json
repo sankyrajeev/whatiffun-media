@@ -178,5 +178,9 @@
   "74": {
     "answer": "C5",
     "what": "the bottle that lands on its cap: every other bottle flips a full turn and lands upright, while C5 only turns half way, so every other flip it lands upside down on its cap"
+  },
+  "75": {
+    "answer": "E4",
+    "what": "the chimney whose smoke falls: every other chimney's smoke rises into the sky, while E4's smoke slides down its roof and pools on the ground"
   }
 }
