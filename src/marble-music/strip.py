@@ -84,15 +84,16 @@ nt = wm.node_tree
 tc = nt.nodes.new("ShaderNodeTexCoord")
 grain = nt.nodes.new("ShaderNodeTexWave"); grain.wave_type = "BANDS"; grain.bands_direction = "Y"
 grain.inputs["Scale"].default_value = 0.9; grain.inputs["Distortion"].default_value = 7.0; grain.inputs["Detail"].default_value = 3.0
-gmap = nt.nodes.new("ShaderNodeMapping"); gmap.inputs["Scale"].default_value = (0.35, 0.05, 1)
+gmap = nt.nodes.new("ShaderNodeMapping"); gmap.inputs["Scale"].default_value = (2.2, 0.25, 1)
+geo = nt.nodes.new("ShaderNodeNewGeometry")
 gr = nt.nodes.new("ShaderNodeValToRGB")
-gr.color_ramp.elements[0].color = (0.022, 0.013, 0.008, 1); gr.color_ramp.elements[1].color = (0.060, 0.034, 0.018, 1)
-nt.links.new(tc.outputs["Object"], gmap.inputs["Vector"]); nt.links.new(gmap.outputs["Vector"], grain.inputs["Vector"])
+gr.color_ramp.elements[0].color = (0.018, 0.010, 0.006, 1); gr.color_ramp.elements[1].color = (0.075, 0.042, 0.022, 1)
+nt.links.new(geo.outputs["Position"], gmap.inputs["Vector"]); nt.links.new(gmap.outputs["Vector"], grain.inputs["Vector"])
 nt.links.new(grain.outputs["Fac"], gr.inputs["Fac"]); nt.links.new(gr.outputs["Color"], wb.inputs["Base Color"])
 noise = nt.nodes.new("ShaderNodeTexNoise")
 noise.inputs["Scale"].default_value = 90.0; noise.inputs["Detail"].default_value = 6.0
 bump = nt.nodes.new("ShaderNodeBump"); bump.inputs["Strength"].default_value = 0.12; bump.inputs["Distance"].default_value = .02
-nt.links.new(tc.outputs["Object"], noise.inputs["Vector"]); nt.links.new(noise.outputs["Fac"], bump.inputs["Height"])
+nt.links.new(geo.outputs["Position"], noise.inputs["Vector"]); nt.links.new(noise.outputs["Fac"], bump.inputs["Height"])
 nt.links.new(bump.outputs["Normal"], wb.inputs["Normal"])
 wall.data.materials.append(wm)
 
@@ -105,6 +106,13 @@ MATS = {
 LIT = {"tube": ((1.0, .78, .42), 2.2), "wood": ((1.0, .66, .32), 1.4), "glass": ((1.0, .62, .2), 7.0),
        "saucer": ((1.0, .55, .32), 2.6)}
 chrome, _ = principled("chrome", (0.86, 0.86, 0.88), rough=.12, metal=1.0)
+wmat, wbs = MATS["wood"]; wt = wmat.node_tree
+wgeo = wt.nodes.new("ShaderNodeTexCoord"); wwave = wt.nodes.new("ShaderNodeTexWave")
+wwave.wave_type = "RINGS"; wwave.inputs["Scale"].default_value = 3.0; wwave.inputs["Distortion"].default_value = 6.0
+wramp = wt.nodes.new("ShaderNodeValToRGB")
+wramp.color_ramp.elements[0].color = (0.30, 0.14, 0.05, 1); wramp.color_ramp.elements[1].color = (0.62, 0.36, 0.16, 1)
+wt.links.new(wgeo.outputs["Object"], wwave.inputs["Vector"]); wt.links.new(wwave.outputs["Fac"], wramp.inputs["Fac"])
+wt.links.new(wramp.outputs["Color"], wbs.inputs["Base Color"])
 
 def add_pad(pd):
     f, L, h = pd["fam"], pd["len"] * S, pd["half"] * S
