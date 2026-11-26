@@ -13,7 +13,7 @@ OUT = os.path.join(os.path.dirname(os.path.abspath(sys.argv[1])), "..", "render"
 S = 0.01                                     # design px -> blender units
 PAD_Z = 0.30                                 # pads (and the marble) sit 30 px off the wall
 TILT = math.radians(14)                      # camera looks slightly down the wall: we see the pads' top faces
-VIEW_W = 8.0                                 # the frame shows 800 design px across (1.35x zoom)
+VIEW_W = 6.4                                 # the frame shows 640 design px across (1.69x zoom)
 ORTHO = VIEW_W * 1920 / 1080
 
 bpy.ops.wm.read_factory_settings(use_empty=True)
@@ -27,8 +27,8 @@ sc.view_settings.view_transform = "AgX"; sc.view_settings.look = "AgX - Medium H
 sc.render.image_settings.file_format = "PNG"
 
 w = bpy.data.worlds.new("W"); sc.world = w; w.use_nodes = True
-w.node_tree.nodes["Background"].inputs["Color"].default_value = (0.030, 0.024, 0.019, 1)
-w.node_tree.nodes["Background"].inputs["Strength"].default_value = 0.6
+w.node_tree.nodes["Background"].inputs["Color"].default_value = (0.11, 0.085, 0.06, 1)
+w.node_tree.nodes["Background"].inputs["Strength"].default_value = 1.0
 
 def principled(name, base, rough=.3, metal=0.0, coat=0.0, trans=0.0, ior=1.45):
     m = bpy.data.materials.new(name); m.use_nodes = True
@@ -43,7 +43,7 @@ def sun(rot, strength, col, angle=6):
     L = bpy.context.object.data; L.energy = strength; L.color = col; L.angle = math.radians(angle)
 
 # key from the upper left (screen), a warm rim from the right
-sun((math.radians(-30), math.radians(-24), 0), 3.4, (1.0, .92, .82), 10)
+sun((math.radians(-30), math.radians(-24), 0), 4.6, (1.0, .92, .82), 10)
 sun((math.radians(-20), math.radians(55), 0), 0.9, (1.0, .66, .38), 12); bpy.context.object.data.use_shadow = False
 
 if MODE == "ball":
@@ -79,9 +79,17 @@ y_lo = min(p["y"] for p in pads) - 1200; y_hi = max(p["y"] for p in pads) + 2400
 wall_h = (y_hi - y_lo) * S
 bpy.ops.mesh.primitive_plane_add(size=1, location=(0, -(y_lo + y_hi) / 2 * S, 0))
 wall = bpy.context.object; wall.scale = (14, wall_h, 1)
-wm, wb = principled("wall", (0.020, 0.016, 0.013), rough=.5)
+wm, wb = principled("wall", (0.020, 0.016, 0.013), rough=.42, coat=.25)
 nt = wm.node_tree
-tc = nt.nodes.new("ShaderNodeTexCoord"); noise = nt.nodes.new("ShaderNodeTexNoise")
+tc = nt.nodes.new("ShaderNodeTexCoord")
+grain = nt.nodes.new("ShaderNodeTexWave"); grain.wave_type = "BANDS"; grain.bands_direction = "Y"
+grain.inputs["Scale"].default_value = 0.9; grain.inputs["Distortion"].default_value = 7.0; grain.inputs["Detail"].default_value = 3.0
+gmap = nt.nodes.new("ShaderNodeMapping"); gmap.inputs["Scale"].default_value = (0.35, 0.05, 1)
+gr = nt.nodes.new("ShaderNodeValToRGB")
+gr.color_ramp.elements[0].color = (0.022, 0.013, 0.008, 1); gr.color_ramp.elements[1].color = (0.060, 0.034, 0.018, 1)
+nt.links.new(tc.outputs["Object"], gmap.inputs["Vector"]); nt.links.new(gmap.outputs["Vector"], grain.inputs["Vector"])
+nt.links.new(grain.outputs["Fac"], gr.inputs["Fac"]); nt.links.new(gr.outputs["Color"], wb.inputs["Base Color"])
+noise = nt.nodes.new("ShaderNodeTexNoise")
 noise.inputs["Scale"].default_value = 90.0; noise.inputs["Detail"].default_value = 6.0
 bump = nt.nodes.new("ShaderNodeBump"); bump.inputs["Strength"].default_value = 0.12; bump.inputs["Distance"].default_value = .02
 nt.links.new(tc.outputs["Object"], noise.inputs["Vector"]); nt.links.new(noise.outputs["Fac"], bump.inputs["Height"])
@@ -89,10 +97,10 @@ nt.links.new(bump.outputs["Normal"], wb.inputs["Normal"])
 wall.data.materials.append(wm)
 
 MATS = {
-    "tube":   principled("brass", (0.93, 0.66, 0.34), rough=.16, metal=1.0),
-    "wood":   principled("walnut", (0.20, 0.10, 0.05), rough=.32, coat=.8),
+    "tube":   principled("brass", (0.95, 0.70, 0.38), rough=.24, metal=1.0),
+    "wood":   principled("maple", (0.55, 0.32, 0.15), rough=.3, coat=.8),
     "glass":  principled("amberglass", (1.0, 0.62, 0.22), rough=.04, trans=1.0, ior=1.5),
-    "saucer": principled("copper", (0.95, 0.52, 0.36), rough=.2, metal=1.0),
+    "saucer": principled("copper", (0.96, 0.58, 0.40), rough=.26, metal=1.0),
 }
 LIT = {"tube": ((1.0, .78, .42), 2.2), "wood": ((1.0, .66, .32), 1.4), "glass": ((1.0, .62, .2), 7.0),
        "saucer": ((1.0, .55, .32), 2.6)}
