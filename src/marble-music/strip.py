@@ -82,12 +82,12 @@ wall = bpy.context.object; wall.scale = (14, wall_h, 1)
 wm, wb = principled("wall", (0.020, 0.016, 0.013), rough=.42, coat=.25)
 nt = wm.node_tree
 tc = nt.nodes.new("ShaderNodeTexCoord")
-grain = nt.nodes.new("ShaderNodeTexWave"); grain.wave_type = "BANDS"; grain.bands_direction = "Y"
-grain.inputs["Scale"].default_value = 0.9; grain.inputs["Distortion"].default_value = 7.0; grain.inputs["Detail"].default_value = 3.0
-gmap = nt.nodes.new("ShaderNodeMapping"); gmap.inputs["Scale"].default_value = (2.2, 0.25, 1)
+grain = nt.nodes.new("ShaderNodeTexWave"); grain.wave_type = "BANDS"; grain.bands_direction = "X"
+grain.inputs["Scale"].default_value = 2.2; grain.inputs["Distortion"].default_value = 9.0; grain.inputs["Detail"].default_value = 6.0; grain.inputs["Detail Scale"].default_value = 2.0
+gmap = nt.nodes.new("ShaderNodeMapping"); gmap.inputs["Scale"].default_value = (1.0, 0.12, 1)
 geo = nt.nodes.new("ShaderNodeNewGeometry")
 gr = nt.nodes.new("ShaderNodeValToRGB")
-gr.color_ramp.elements[0].color = (0.018, 0.010, 0.006, 1); gr.color_ramp.elements[1].color = (0.075, 0.042, 0.022, 1)
+gr.color_ramp.elements[0].color = (0.019, 0.012, 0.007, 1); gr.color_ramp.elements[1].color = (0.036, 0.021, 0.012, 1)
 nt.links.new(geo.outputs["Position"], gmap.inputs["Vector"]); nt.links.new(gmap.outputs["Vector"], grain.inputs["Vector"])
 nt.links.new(grain.outputs["Fac"], gr.inputs["Fac"]); nt.links.new(gr.outputs["Color"], wb.inputs["Base Color"])
 noise = nt.nodes.new("ShaderNodeTexNoise")
@@ -160,6 +160,8 @@ ay = (ya1 - ya0) / 1000.0; by = ya0 - ay * (y_lo + 300)
 json.dump({"tiles": n_tiles, "tile_h": 1920, "pct": PCT, "ax": ax, "bx": bx, "ay": ay, "by": by,
            "ball_px": 2 * P["ball_r"] * ax}, open(os.path.join(OUT, "tiles.json"), "w"))
 print("mapping", ax, bx, ay, by, "tiles", n_tiles, flush=True)
+if MODE == "test":
+    place_cam(1); sc.render.filepath = os.path.join(OUT, "test.png"); bpy.ops.render.render(write_still=True); sys.exit()
 for state in ("idle", "lit"):
     for f, (m, b) in MATS.items():
         col, st = LIT[f]
