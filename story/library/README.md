@@ -12,3 +12,5 @@ Generic stick figures and props (prepped or raw PNGs with transparency) that any
 - worker-tamping-rock.png — stick-figure 1840s railroad worker (flat cap, suspenders) ramming a long iron rod into a rock, spark (raw, 2026-11-25).
 - rod-through-head-waving.png — same worker grinning and waving with an iron rod through his head, no blood (raw, 2026-11-25).
 - hijacker-suit-briefcase.png, bill-20.png ($20 bill, code-drawn), parachute.png (code-drawn): from db-cooper (2026-11-26).
+- woman-sofa-hit-by-rock.png — 1950s woman on a sofa under a quilt, jolted awake as a smoking rock bounces off a console radio into her (meteorite-nap).
+- tug-of-war-two-women.png — two angry women pulling one black rock between them (meteorite-nap).

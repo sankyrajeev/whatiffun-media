@@ -1,0 +1,274 @@
+{
+ "title": "What if a rock from space hit you during a nap?",
+ "voice": "narration.mp3",
+ "words": "narration.words.json",
+ "end": [
+  "Subscribe",
+  "@whatiffun",
+  "for more weird facts"
+ ],
+ "thumb": {
+  "l1": "HIT BY A ROCK",
+  "l2": "FROM SPACE",
+  "img": "nap-hit.png"
+ },
+ "shots": [
+  {
+   "at": 0,
+   "kicker": "WHAT IF",
+   "l1": "A rock from space",
+   "l2": "hit you mid-nap?",
+   "l2_at": 6,
+   "art": [
+    {
+     "img": "nap-hit.png",
+     "h": 0.92,
+     "amp": 0.012,
+     "per": 2.4
+    }
+   ]
+  },
+  {
+   "at": 11,
+   "kicker": "NOV 30, 1954",
+   "l1": "Sylacauga,",
+   "l2": "Alabama.",
+   "l2_at": 14,
+   "art": [
+    {
+     "img": "house-fireball.png",
+     "h": 0.95,
+     "amp": 0.008,
+     "per": 3.0
+    }
+   ]
+  },
+  {
+   "at": 16,
+   "kicker": "ANN HODGES",
+   "l1": "Asleep on her sofa",
+   "l2": "under a quilt.",
+   "l2_at": 23,
+   "art": [
+    {
+     "img": "nap-hit.png",
+     "h": 0.9,
+     "move": "bob",
+     "amp": 0.01,
+     "per": 3.4
+    }
+   ]
+  },
+  {
+   "at": 26,
+   "kicker": "A FIREBALL",
+   "l1": "streaks across",
+   "num": "3 states",
+   "num_at": 30,
+   "art": [
+    {
+     "img": "house-fireball.png",
+     "h": 0.95,
+     "amp": 0.02,
+     "per": 1.6
+    }
+   ]
+  },
+  {
+   "at": 32,
+   "kicker": "STRAIGHT DOWN",
+   "l1": "A black rock",
+   "num": "4 kilos",
+   "num_at": 35,
+   "art": [
+    {
+     "img": "rock.png",
+     "h": 0.62,
+     "move": "pulse",
+     "amp": 0.03,
+     "per": 1.2
+    }
+   ],
+   "l2": "through her roof.",
+   "l2_at": 37
+  },
+  {
+   "at": 42,
+   "kicker": "BOUNCE, THEN SLAM",
+   "l1": "Off the radio,",
+   "l2": "into her side.",
+   "l2_at": 48,
+   "num": "huge bruise",
+   "num_at": 57,
+   "art": [
+    {
+     "img": "nap-hit.png",
+     "h": 0.92,
+     "move": "pulse",
+     "amp": 0.03,
+     "per": 0.9
+    }
+   ]
+  },
+  {
+   "at": 59,
+   "kicker": "BY NIGHTFALL",
+   "l1": "reporters at",
+   "l2": "her front door.",
+   "l2_at": 63,
+   "num": "200",
+   "num_at": 61,
+   "art": [
+    {
+     "img": "house-fireball.png",
+     "h": 0.9,
+     "amp": 0.01,
+     "per": 2.2
+    }
+   ]
+  },
+  {
+   "at": 67,
+   "kicker": "TAKEN AWAY",
+   "l1": "First the police.",
+   "l2": "Then the Air Force.",
+   "l2_at": 72,
+   "art": [
+    {
+     "img": "rock.png",
+     "h": 0.55,
+     "move": "bob",
+     "amp": 0.04,
+     "per": 1.4
+    }
+   ]
+  },
+  {
+   "at": 78,
+   "kicker": "THEN THE LANDLADY",
+   "l1": "sues.",
+   "l2": "“It’s on my roof!”",
+   "l2_at": 82,
+   "art": [
+    {
+     "img": "tug-of-war.png",
+     "h": 0.85,
+     "amp": 0.025,
+     "per": 1.1
+    }
+   ]
+  },
+  {
+   "at": 92,
+   "kicker": "SETTLED",
+   "l1": "Ann pays",
+   "l2": "and keeps it.",
+   "l2_at": 96,
+   "num": "$500",
+   "num_at": 95,
+   "art": [
+    {
+     "img": "tug-of-war.png",
+     "h": 0.85,
+     "enter": "none",
+     "out_at": 95,
+     "amp": 0.02,
+     "per": 1.1
+    },
+    {
+     "img": "bill-20.png",
+     "in_at": 95,
+     "grid": {
+      "n": 25,
+      "cols": 5,
+      "h": 0.14
+     }
+    }
+   ]
+  },
+  {
+   "at": 101,
+   "kicker": "THE NEXT DAY",
+   "l1": "A farmer finds",
+   "l2": "a second piece.",
+   "l2_at": 108,
+   "art": [
+    {
+     "img": "farmer.png",
+     "h": 0.92,
+     "amp": 0.012,
+     "per": 1.8
+    }
+   ]
+  },
+  {
+   "at": 115,
+   "kicker": "HE SELLS IT",
+   "l1": "and buys a car",
+   "l2": "and a house.",
+   "l2_at": 122,
+   "art": [
+    {
+     "img": "farmer.png",
+     "h": 0.85,
+     "x": -0.32,
+     "move": "none",
+     "dim_at": 116
+    },
+    {
+     "img": "bill-20.png",
+     "h": 0.4,
+     "x": 0.35,
+     "in_at": 116,
+     "move": "pulse",
+     "amp": 0.04,
+     "per": 0.8
+    }
+   ]
+  },
+  {
+   "at": 125,
+   "kicker": "ANN’S ROCK",
+   "l1": "goes to",
+   "l2": "a museum.",
+   "l2_at": 130,
+   "art": [
+    {
+     "img": "museum.png",
+     "h": 0.95,
+     "amp": 0.006,
+     "per": 3.0
+    }
+   ]
+  },
+  {
+   "at": 131,
+   "kicker": "TO THIS DAY",
+   "l1": "The only person",
+   "l2": "hurt by a meteorite.",
+   "l2_at": 142,
+   "art": [
+    {
+     "img": "nap-hit.png",
+     "h": 0.92,
+     "amp": 0.012,
+     "per": 2.0
+    }
+   ]
+  },
+  {
+   "at": 146,
+   "kicker": "SUBSCRIBE",
+   "l1": "for more",
+   "l2": "weird facts.",
+   "art": [
+    {
+     "img": "house-fireball.png",
+     "h": 0.95,
+     "amp": 0.03,
+     "per": 1.0
+    }
+   ]
+  }
+ ]
+}
