@@ -1,5 +1,5 @@
 {
- "text": " What if a man hijacked a plane and simply vanished? November 24th, 1971. The night before Thanksgiving. A quiet man in a dark suit pays $20 cash for a flight from Portland to Seattle. He calls himself, Damn Cooper. Soon after takeoff, he hands a flight attendant a note. He has a bomb in his briefcase. In Seattle, he lets all 36 passengers go in exchange for $200,000 and four parachutes. Then the plane takes off again, heading for Mexico. Just after eight, in rain and darkness, he lowers the back stairs and jumps. At 10,000 feet, in loafers, he was never seen again. The FBI checked more than 800 suspects. Eight years later, an eight-year-old boy digging by the Columbia River found $5,800 in rotting $20 The serial numbers matched. The rest of the money has never turned up. Neither has he.",
+ "text": "What if a man hijacked a plane and simply vanished? November twenty-fourth, nineteen seventy-one, the night before Thanksgiving. A quiet man in a dark suit pays twenty dollars cash for a flight from Portland to Seattle. He calls himself Dan Cooper. Soon after take-off, he hands a flight attendant a note. He has a bomb in his briefcase. In Seattle, he lets all thirty-six passengers go in exchange for two hundred thousand dollars and four parachutes. Then the plane takes off again, heading for Mexico. Just after eight, in rain and darkness, he lowers the back stairs and jumps. At ten thousand feet. In loafers. He was never seen again. The FBI checked more than eight hundred suspects. Eight years later, an eight-year-old boy digging by the Columbia River found five thousand eight hundred dollars in rotting twenty-dollar bills. The serial numbers matched. The rest of the money has never turned up. Neither has he. Subscribe for more mysteries.",
  "words": [
   {
    "word": "What",
@@ -187,7 +187,7 @@
    "end": 16.44
   },
   {
-   "word": "Damn",
+   "word": "Dan",
    "start": 16.76,
    "end": 16.88
   },
@@ -502,12 +502,12 @@
    "end": 42.7
   },
   {
-   "word": "loafers,",
+   "word": "loafers.",
    "start": 42.7,
    "end": 43.24
   },
   {
-   "word": "he",
+   "word": "He",
    "start": 43.76,
    "end": 44.02
   },
@@ -587,18 +587,8 @@
    "end": 50.56
   },
   {
-   "word": "eight",
+   "word": "eight-year-old",
    "start": 50.56,
-   "end": 50.78
-  },
-  {
-   "word": "-year",
-   "start": 50.78,
-   "end": 50.94
-  },
-  {
-   "word": "-old",
-   "start": 50.94,
    "end": 51.14
   },
   {
@@ -657,7 +647,7 @@
    "end": 56.22
   },
   {
-   "word": "$20",
+   "word": "$20 bills.",
    "start": 56.22,
    "end": 56.76
   },
@@ -740,6 +730,26 @@
    "word": "he.",
    "start": 63.06,
    "end": 63.36
+  },
+  {
+   "word": "Subscribe",
+   "start": 64.2,
+   "end": 64.8
+  },
+  {
+   "word": "for",
+   "start": 64.8,
+   "end": 65.0
+  },
+  {
+   "word": "more",
+   "start": 65.0,
+   "end": 65.25
+  },
+  {
+   "word": "mysteries.",
+   "start": 65.25,
+   "end": 65.95
   }
  ]
 }

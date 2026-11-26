@@ -1,0 +1,350 @@
+{
+ "title": "What if a man hijacked a plane and simply vanished?",
+ "voice": "narration.mp3",
+ "words": "narration.words.json",
+ "end": [
+  "Subscribe",
+  "@whatiffun",
+  "for more mysteries"
+ ],
+ "thumb": {
+  "l1": "HE JUMPED",
+  "l2": "AND VANISHED",
+  "img": "jet-stairs.png"
+ },
+ "word_fix": {
+  "11": 5.3,
+  "14": 7.6
+ },
+ "shots": [
+  {
+   "at": 0,
+   "kicker": "WHAT IF",
+   "l1": "A man hijacks a plane",
+   "l2": "and just vanishes?",
+   "l2_at": 7,
+   "art": [
+    {
+     "img": "jet-stairs.png",
+     "h": 0.62,
+     "move": "bob",
+     "amp": 0.02,
+     "per": 2.6
+    }
+   ]
+  },
+  {
+   "at": 10,
+   "kicker": "NOVEMBER 24, 1971",
+   "l1": "The night before",
+   "l2": "Thanksgiving.",
+   "l2_at": 14,
+   "art": [
+    {
+     "img": "hijacker-briefcase.png",
+     "h": 0.98,
+     "move": "sway",
+     "amp": 0.012,
+     "per": 3.0
+    }
+   ]
+  },
+  {
+   "at": 17,
+   "kicker": "PORTLAND TO SEATTLE",
+   "l1": "A quiet man",
+   "l2": "in a dark suit.",
+   "l2_at": 20,
+   "num": "$20 cash",
+   "num_at": 25,
+   "art": [
+    {
+     "img": "hijacker-briefcase.png",
+     "h": 0.95,
+     "x": 0.1,
+     "move": "sway",
+     "amp": 0.015,
+     "per": 2.6
+    }
+   ]
+  },
+  {
+   "at": 34,
+   "kicker": "HIS NAME",
+   "l1": "He calls himself",
+   "l2": "Dan Cooper.",
+   "l2_at": 37,
+   "art": [
+    {
+     "img": "hijacker-briefcase.png",
+     "h": 0.98,
+     "move": "pulse",
+     "amp": 0.015,
+     "per": 2.0
+    }
+   ]
+  },
+  {
+   "at": 39,
+   "kicker": "AFTER TAKE-OFF",
+   "l1": "He hands a",
+   "l2": "note to the crew.",
+   "l2_at": 45,
+   "art": [
+    {
+     "img": "jet-stairs.png",
+     "h": 0.6,
+     "move": "bob",
+     "amp": 0.02,
+     "per": 2.4
+    }
+   ]
+  },
+  {
+   "at": 49,
+   "kicker": "THE NOTE",
+   "l1": "A bomb in",
+   "l2": "his briefcase.",
+   "l2_at": 53,
+   "art": [
+    {
+     "img": "hijacker-briefcase.png",
+     "h": 0.98,
+     "move": "pulse",
+     "amp": 0.025,
+     "per": 1.2
+    }
+   ]
+  },
+  {
+   "at": 56,
+   "kicker": "IN SEATTLE",
+   "l1": "All passengers",
+   "l2": "walk free.",
+   "l2_at": 62,
+   "num": "36",
+   "num_at": 61,
+   "art": [
+    {
+     "img": "jet-stairs.png",
+     "h": 0.58,
+     "move": "bob",
+     "amp": 0.015,
+     "per": 2.8
+    }
+   ]
+  },
+  {
+   "at": 64,
+   "kicker": "THE RANSOM",
+   "l1": "$200,000 cash",
+   "l2": "and four parachutes.",
+   "l2_at": 69,
+   "art": [
+    {
+     "img": "bill-20.png",
+     "in_at": 67,
+     "out_at": 70,
+     "grid": {
+      "n": 18,
+      "cols": 6,
+      "h": 0.2
+     }
+    },
+    {
+     "img": "parachute.png",
+     "in_at": 70,
+     "grid": {
+      "n": 4,
+      "cols": 4,
+      "h": 0.32
+     }
+    }
+   ]
+  },
+  {
+   "at": 72,
+   "kicker": "TAKE-OFF AGAIN",
+   "l1": "The plane heads",
+   "l2": "for Mexico.",
+   "l2_at": 78,
+   "art": [
+    {
+     "img": "jet-stairs.png",
+     "h": 0.62,
+     "move": "bob",
+     "amp": 0.025,
+     "per": 2.2
+    }
+   ]
+  },
+  {
+   "at": 81,
+   "kicker": "JUST AFTER 8 PM",
+   "l1": "In rain and dark,",
+   "l2": "he lowers the stairs.",
+   "l2_at": 88,
+   "art": [
+    {
+     "img": "jet-stairs.png",
+     "h": 0.7,
+     "move": "sway",
+     "amp": 0.02,
+     "per": 1.8
+    }
+   ]
+  },
+  {
+   "at": 93,
+   "kicker": "AND JUMPS",
+   "l1": "Into the night.",
+   "l2": "In loafers.",
+   "l2_at": 99,
+   "num": "10,000 ft",
+   "num_at": 96,
+   "art": [
+    {
+     "img": "falling-screaming.png",
+     "h": 0.95,
+     "move": "bob",
+     "amp": 0.03,
+     "per": 1.0
+    }
+   ]
+  },
+  {
+   "at": 101,
+   "kicker": "NEVER FOUND",
+   "l1": "He was never",
+   "l2": "seen again.",
+   "l2_at": 103,
+   "art": [
+    {
+     "img": "hijacker-briefcase.png",
+     "h": 0.95,
+     "move": "none",
+     "dim_at": 104
+    }
+   ]
+  },
+  {
+   "at": 106,
+   "kicker": "THE FBI",
+   "l1": "checked suspect",
+   "l2": "after suspect.",
+   "l2_at": 109,
+   "num": "800+",
+   "num_at": 111,
+   "art": [
+    {
+     "img": "hijacker-briefcase.png",
+     "in_at": 108,
+     "grid": {
+      "n": 24,
+      "cols": 8,
+      "h": 0.3
+     }
+    }
+   ]
+  },
+  {
+   "at": 113,
+   "kicker": "FEBRUARY 1980",
+   "l1": "An eight-year-old",
+   "l2": "digs by a river.",
+   "l2_at": 119,
+   "art": [
+    {
+     "img": "boy-money.png",
+     "h": 0.95,
+     "move": "bob",
+     "amp": 0.012,
+     "per": 1.8
+    }
+   ]
+  },
+  {
+   "at": 124,
+   "kicker": "COLUMBIA RIVER",
+   "l1": "He finds rotting",
+   "l2": "$20 bills.",
+   "l2_at": 128,
+   "num": "$5,800",
+   "num_at": 125,
+   "art": [
+    {
+     "img": "bill-20.png",
+     "in_at": 125,
+     "grid": {
+      "n": 29,
+      "cols": 10,
+      "h": 0.12
+     }
+    }
+   ]
+  },
+  {
+   "at": 130,
+   "kicker": "THE SERIAL NUMBERS",
+   "l1": "They matched",
+   "l2": "the ransom.",
+   "l2_at": 133,
+   "art": [
+    {
+     "img": "bill-20.png",
+     "h": 0.42,
+     "move": "pulse",
+     "amp": 0.03,
+     "per": 1.1
+    }
+   ]
+  },
+  {
+   "at": 134,
+   "kicker": "THE REST",
+   "l1": "The rest of the cash",
+   "l2": "never turned up.",
+   "l2_at": 140,
+   "art": [
+    {
+     "img": "bill-20.png",
+     "h": 0.36,
+     "move": "sway",
+     "amp": 0.03,
+     "per": 2.0,
+     "out_at": 141
+    }
+   ]
+  },
+  {
+   "at": 143,
+   "kicker": "STILL UNSOLVED",
+   "l1": "Neither",
+   "l2": "has he.",
+   "l2_at": 144,
+   "art": [
+    {
+     "img": "hijacker-briefcase.png",
+     "h": 0.98,
+     "move": "sway",
+     "amp": 0.012,
+     "per": 3.0
+    }
+   ]
+  },
+  {
+   "at": 146,
+   "kicker": "SUBSCRIBE",
+   "l1": "for more",
+   "l2": "mysteries.",
+   "art": [
+    {
+     "img": "hijacker-briefcase.png",
+     "h": 0.98,
+     "amp": 0.03,
+     "per": 1.2
+    }
+   ]
+  }
+ ]
+}
