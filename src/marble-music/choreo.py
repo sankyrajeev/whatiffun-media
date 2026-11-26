@@ -10,7 +10,7 @@ G = 2600.0            # px/s^2
 BALL_R = 24.0
 PAD_HALF = {"tube": 15, "wood": 20, "glass": 11, "saucer": 16}   # half-thickness along the normal (px)
 PAD_LEN = {"tube": 92, "wood": 86, "glass": 98, "saucer": 88}
-X_MIN, X_MAX = 170, 910
+X_MIN, X_MAX = 200, 880          # the camera shows design x 140..940
 CLEAR = 30.0           # free space between the arc and any other pad (px)
 
 def arc(p, v, T, n=24):
@@ -79,7 +79,7 @@ def plan(song_key, budget=60000):
                             if len(near_pts) and _box_hits(near_pts[np.abs(near_pts[:, 1] - c[1]) < 160], pad, BALL_R + 2):
                                 continue
                             pts = arc(p, v_out, T)
-                            if pts[:, 0].min() < 120 or pts[:, 0].max() > 960: continue
+                            if pts[:, 0].min() < 165 or pts[:, 0].max() > 915: continue
                             ylo, yhi = pts[:, 1].min() - 160, pts[:, 1].max() + 160
                             if any(_box_hits(pts[3:], o, BALL_R + 6) for o in pads if ylo < o[1] < yhi): continue
                             # preference: no flip unless wanted, no kick, gentle pads, roomy landing

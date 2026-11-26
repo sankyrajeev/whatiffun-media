@@ -11,7 +11,10 @@ PCT = int(sys.argv[3]) if len(sys.argv) > 3 else 100
 SAMPLES = int(sys.argv[4]) if len(sys.argv) > 4 else 24
 OUT = os.path.join(os.path.dirname(os.path.abspath(sys.argv[1])), "..", "render", P["song"]); os.makedirs(OUT, exist_ok=True)
 S = 0.01                                     # design px -> blender units
-PAD_Z = 0.55                                 # pads stand 55 px off the wall
+PAD_Z = 0.30                                 # pads (and the marble) sit 30 px off the wall
+TILT = math.radians(14)                      # camera looks slightly down the wall: we see the pads' top faces
+VIEW_W = 8.0                                 # the frame shows 800 design px across (1.35x zoom)
+ORTHO = VIEW_W * 1920 / 1080
 
 bpy.ops.wm.read_factory_settings(use_empty=True)
 sc = bpy.context.scene
@@ -40,8 +43,8 @@ def sun(rot, strength, col, angle=6):
     L = bpy.context.object.data; L.energy = strength; L.color = col; L.angle = math.radians(angle)
 
 # key from the upper left (screen), a warm rim from the right
-sun((math.radians(-38), math.radians(-30), 0), 3.2, (1.0, .92, .82), 7)
-sun((math.radians(-20), math.radians(55), 0), 0.9, (1.0, .66, .38), 12)
+sun((math.radians(-30), math.radians(-24), 0), 3.4, (1.0, .92, .82), 10)
+sun((math.radians(-20), math.radians(55), 0), 0.9, (1.0, .66, .38), 12); bpy.context.object.data.use_shadow = False
 
 if MODE == "ball":
     sc.render.film_transparent = True
@@ -61,7 +64,8 @@ if MODE == "ball":
     nt.links.new(tc.outputs["Object"], wave.inputs["Vector"]); nt.links.new(wave.outputs["Fac"], ramp.inputs["Fac"])
     nt.links.new(ramp.outputs["Color"], b.inputs["Base Color"])
     ball.data.materials.append(m)
-    bpy.ops.object.camera_add(location=(0, 0, 20)); cam = bpy.context.object; sc.camera = cam
+    bpy.ops.object.camera_add(location=(0, 20 * math.sin(TILT), PAD_Z + 20 * math.cos(TILT)), rotation=(-TILT, 0, 0))
+    cam = bpy.context.object; sc.camera = cam
     cam.data.type = "ORTHO"; cam.data.ortho_scale = 2.6 * r
     for k in range(36):
         ball.rotation_euler = (math.radians(18), 0, -math.radians(10 * k))
@@ -75,7 +79,7 @@ y_lo = min(p["y"] for p in pads) - 1200; y_hi = max(p["y"] for p in pads) + 2400
 wall_h = (y_hi - y_lo) * S
 bpy.ops.mesh.primitive_plane_add(size=1, location=(0, -(y_lo + y_hi) / 2 * S, 0))
 wall = bpy.context.object; wall.scale = (14, wall_h, 1)
-wm, wb = principled("wall", (0.040, 0.031, 0.024), rough=.62)
+wm, wb = principled("wall", (0.020, 0.016, 0.013), rough=.5)
 nt = wm.node_tree
 tc = nt.nodes.new("ShaderNodeTexCoord"); noise = nt.nodes.new("ShaderNodeTexNoise")
 noise.inputs["Scale"].default_value = 90.0; noise.inputs["Detail"].default_value = 6.0
@@ -103,36 +107,52 @@ def add_pad(pd):
         ob.rotation_euler = (0, math.radians(90), -a)      # Rz(-a)·Ry(90): lay it along X, then tilt in the wall plane
     elif f == "saucer":
         bpy.ops.mesh.primitive_uv_sphere_add(segments=48, ring_count=24, radius=1, location=(x, y, PAD_Z))
-        ob = bpy.context.object; bpy.ops.object.shade_smooth(); ob.scale = (L / 2, h, 0.28)
+        ob = bpy.context.object; bpy.ops.object.shade_smooth(); ob.scale = (L / 2, h, 0.2)
         ob.rotation_euler = (0, 0, -a)
     else:
-        depth = 0.22 if f == "wood" else 0.15
+        depth = 0.26 if f == "wood" else 0.18
         bpy.ops.mesh.primitive_cube_add(size=1, location=(x, y, PAD_Z))
         ob = bpy.context.object; ob.scale = (L, 2 * h, depth); ob.rotation_euler = (0, 0, -a)
         bv = ob.modifiers.new("bevel", "BEVEL"); bv.width = 0.025; bv.segments = 4
         bpy.ops.object.shade_smooth()
     ob.data.materials.append(MATS[f][0])
     # a short chrome pin into the wall
-    bpy.ops.mesh.primitive_cylinder_add(vertices=16, radius=.03, depth=PAD_Z, location=(x, y, PAD_Z / 2))
+    bpy.ops.mesh.primitive_cylinder_add(vertices=16, radius=.035, depth=PAD_Z, location=(x, y, PAD_Z / 2))
     bpy.context.object.data.materials.append(chrome)
 for pd in pads: add_pad(pd)
 
-bpy.ops.object.camera_add(location=(0, 0, 30)); cam = bpy.context.object; sc.camera = cam
-cam.data.type = "ORTHO"; cam.data.ortho_scale = 19.2; cam.data.clip_end = 100
+from bpy_extras.object_utils import world_to_camera_view
+bpy.ops.object.camera_add(rotation=(-TILT, 0, 0)); cam = bpy.context.object; sc.camera = cam
+cam.data.type = "ORTHO"; cam.data.ortho_scale = ORTHO; cam.data.clip_end = 200
 sc.render.resolution_x, sc.render.resolution_y, sc.render.resolution_percentage = 1080, 1920, PCT
-
-tiles = list(range(int(math.ceil((y_hi - y_lo) / 1920.0))))
-json.dump({"y_lo": y_lo, "tile_h": 1920, "tiles": len(tiles), "pct": PCT}, open(os.path.join(OUT, "tiles.json"), "w"))
+STEP = ORTHO / math.cos(TILT)                       # wall length (BU) one tile covers
+def place_cam(k):
+    # aim at the wall point (x=0, y=-(y_lo/100) - (k+0.5)*STEP); camera 60 BU away along the tilted view axis
+    cy = -y_lo * S - (k + 0.5) * STEP
+    cam.location = (0, cy + 60 * math.sin(TILT), PAD_Z + 60 * math.cos(TILT))
+    bpy.context.view_layer.update()
+n_tiles = int(math.ceil((y_hi - y_lo) * S / STEP))
+# design (x, y) on the pad/marble plane -> strip pixels (tile 0 top = 0): fit from the camera itself
+place_cam(0)
+from mathutils import Vector
+def px(xd, yd):
+    v = world_to_camera_view(sc, cam, Vector(((xd - 540) * S, -yd * S, PAD_Z)))
+    return v.x * 1080, (1 - v.y) * 1920
+(xa0, ya0), (xa1, ya1) = px(140, y_lo + 300), px(940, y_lo + 1300)
+ax = (xa1 - xa0) / 800.0; bx = xa0 - ax * 140
+ay = (ya1 - ya0) / 1000.0; by = ya0 - ay * (y_lo + 300)
+json.dump({"tiles": n_tiles, "tile_h": 1920, "pct": PCT, "ax": ax, "bx": bx, "ay": ay, "by": by,
+           "ball_px": 2 * P["ball_r"] * ax}, open(os.path.join(OUT, "tiles.json"), "w"))
+print("mapping", ax, bx, ay, by, "tiles", n_tiles, flush=True)
 for state in ("idle", "lit"):
     for f, (m, b) in MATS.items():
         col, st = LIT[f]
         b.inputs["Emission Color"].default_value = (*col, 1)
         b.inputs["Emission Strength"].default_value = st if state == "lit" else 0.0
-    for k in tiles:
+    for k in range(n_tiles):
         out = os.path.join(OUT, f"{state}_{k:02d}.png")
         if os.path.exists(out): continue
-        top = y_lo + k * 1920
-        cam.location = (0, -(top + 960) * S, 30)
+        place_cam(k)
         sc.render.filepath = out
         t0 = time.time(); bpy.ops.render.render(write_still=True)
-        print(f"{state} tile {k + 1}/{len(tiles)} {time.time() - t0:.0f}s", flush=True)
+        print(f"{state} tile {k + 1}/{n_tiles} {time.time() - t0:.0f}s", flush=True)
