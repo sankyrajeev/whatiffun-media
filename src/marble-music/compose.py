@@ -187,7 +187,7 @@ if __name__ == "__main__":
     wav = base + "_a.wav"; soundtrack(wav)
     out = base + ".tmp.mp4"
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", tmp, "-i", wav, "-map", "0:v", "-map", "1:a", "-c:v", "copy",
-                    "-af", "loudnorm=I=-14:TP=-1.5:LRA=11,volume=1.5dB", "-c:a", "aac", "-b:a", "192k", "-ar", "48000",
+                    "-af", "loudnorm=I=-14:TP=-2:LRA=11", "-c:a", "aac", "-b:a", "192k", "-ar", "48000",
                     "-shortest", "-movflags", "+faststart", out], check=True)
     os.replace(out, base + ".mp4"); os.remove(tmp); os.remove(wav)
     print("wrote", base + ".mp4", f"{T_END:.1f}s")
