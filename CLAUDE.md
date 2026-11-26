@@ -34,6 +34,28 @@ empty black jar, then balls appeared from nowhere into a perfect fake lattice. R
    - Avoid the common fails up front (2026-11-15 lessons): puzzle motion must be BIG — at least half the
      object spacing, across the row, every object visibly moving every second (No. 32 pinwheels and No. 33
      lanterns read as stills); keep satisfying-slot cameras close through the payoff (No. 34).
+**🔥 HARDER (owner, 2026-11-26: "You are making the puzzles too easy. I mean come on. Only the tougher ones are getting
+people to stay on for it longer.") — OVERRIDES every "hard for ~3 s, findable by ~5–8 s" line in this file and in the
+slot tasks.** The data agrees (Nos. 57–75, grouped by the badge we gave): badge ≤ 9% → 133% avg watched, median 14k IG
+plays (Nos. 58, 61, 64, 68, 69, 74); 11–15% → 118%, 7.6k; ≥ 18% → 102%, 4.4k (Nos. 62, 65, 70, 71, 73, 75). And the
+puzzles had drifted easy: badges for Nos. 70–77 were mostly 18–24%.
+1. **Target:** nobody finds it in the first ~5 s; a careful viewer finds it around 10–12 s (end of the first loop); most
+   need the second loop. Still 100% sure once seen: a categorical rule break you can verify, never a parameter tweak.
+2. **Make it hard with timing and decoys, not tiny objects** (motion stays BIG, objects ≥ ~85 px). Use at least three:
+   - The odd one breaks the rule only once or twice per 12 s loop, for ≤ 0.6 s, at a moment when most others are
+     mid-motion (not every 2–3 s).
+   - 3–6 DECOYS do something that looks similar at the same moment but is legal (a few wheels slow down and restart
+     the right way; some bottles wobble before landing upright; a couple of lids bounce before closing).
+   - Heavy random phase and ±25% speed jitter, so no wave or pattern makes the odd one pop out.
+   - 60–80 objects. The odd one is never in row 1, column A, the last column or the centre 3×3 cells.
+   - The sound clue is subtle (a slightly different tick, not a different instrument).
+3. **Review adds a find test:** the fresh reviewer (QUALITY GATE rule 4) is also asked, without the answer, to find the
+   odd one in the motion filmstrip and the whole-video sheet and say how many frames it needed. If it names the right
+   cell from the first 4 frames of either sheet, the puzzle is too easy: make it harder once (step 2) and re-review.
+   Still score against the anchor; a hard puzzle must still be beautiful and moving every second.
+4. **Badge X is now 2–12% only** (rule 7's 16–50% bands are retired): BREAKS PHYSICS or found only after ≥ 8 s → 2–6%;
+   found in 5–8 s → 7–12%. Never raise the badge to excuse an easy puzzle; make the puzzle harder instead. Don't repeat
+   the same X three puzzles running.
 **🧩 ALL PUZZLES (owner, 2026-11-18: "stop with the balls videos they are getting horrible by the day. Stick to the
 puzzles. It's getting us amazing reach").** ALL FOUR daily slots — 10:00, 13:00, 15:00 and 18:00 — are SPOT IT v3
 puzzles. The 15:00 "satisfying chain reaction" format is RETIRED (its last reel was No. 46 wrecking-ball), and
@@ -58,7 +80,7 @@ differences (a touch shorter / heavier / slower) that nobody can verify, so nobo
 3. **Simple identical objects, one calm colour scheme** (cream/brass/amber on our warm black, or ONE accent colour);
    no rainbow across the grid, no ornate props. 45–80 objects (up to ~90 if very simple), each ≥ ~90 px.
 4. **Everything moves all the time with BIG motion** (whole turns, full-width glides), randomly phased so you must
-   check each one: hard for ~3 s, findable by ~5–8 s. A pretty underlying pattern is a bonus but must not make the odd one
+   check each one (difficulty: see 🔥 HARDER — nobody finds it in the first ~5 s, found around 10–12 s). A pretty underlying pattern is a bonus but must not make the odd one
    pop out instantly.
 5. Bottom CTA under the grid: "Comment its letter + number" (Inter SemiBold ~42, cream) + "Like it if you found it 👍"
    (serif italic, 60%), `@whatiffun` at ~1636. 12 s seamless loop, soft ticks, the odd one's sound slightly different.
@@ -71,6 +93,7 @@ differences (a touch shorter / heavier / slower) that nobody can verify, so nobo
    reviewer's find time and this scale: 2–5% = BREAKS PHYSICS, or the odd one shows itself less than once per 4 s, or
    70+ objects; 6–15% = shows every 2–3 s among 55–70 objects; 16–30% = shows every ≤ 2 s among ≤ 55 objects;
    31–50% = the reviewer found it within ~3 s. Vary the number honestly; never the same X three puzzles running.
+   (SUPERSEDED 2026-11-26 by 🔥 HARDER: SPOT IT badges are 2–12% only.)
    Put the same line as the caption's first line under the title ("Only 4% can find it 👀").
    **SOLVE IT (still equation puzzles) calibration, checked 2026-11-21 on No. 55 (gears, answer 52, badge "Only 3%"):**
    of 18 answers in the comments, 8 said 52 (44%), 6 said 60 (the left-to-right trap) and 4 said 17 (misread the
