@@ -1,0 +1,4 @@
+story/meteorite-nap/art/raw/nap-hit.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/e018113f-2bcf-4151-b8fd-2b4477bf8859.png
+story/meteorite-nap/art/raw/house-fireball.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/f3d9a5cb-98d2-4ae8-a017-9a6213c0314d.png
+story/meteorite-nap/art/raw/tug-of-war.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/1f503f52-3dc0-4ec4-af96-31ff4621cb6d.png
+story/meteorite-nap/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/672bfc2f-b3b5-4f85-a0b7-7105d322eda6.mp3
