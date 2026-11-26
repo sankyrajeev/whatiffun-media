@@ -1,4 +1,0 @@
-story/db-cooper/art/raw/hijacker-briefcase.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/336d9619-283f-4cad-9b2c-46d0acaa5938.png
-story/db-cooper/art/raw/jet-stairs.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/a8ffbafb-0ce8-45d5-be4a-f3b53a0dc52b.png
-story/db-cooper/art/raw/boy-money.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/cf6f53e4-6436-40a0-9067-073337b258b9.png
-story/db-cooper/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/73cffc24-2d2c-4a4a-a585-4caef6441b12.mp3
