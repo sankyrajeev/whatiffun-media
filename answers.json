@@ -206,5 +206,9 @@
   "81": {
     "answer": "F7",
     "what": "the drinking bird that stops mid-air: every other bird rocks non-stop and only rests with its beak in the water, while F7 freezes tilted halfway down with its beak in empty air for half a second, twice every loop"
+  },
+  "82": {
+    "answer": "B8",
+    "what": "the sprinkler that breaks physics: every other sprinkler's water arcs up and falls back onto its lawn, while B8's water reaches the top of its arc and keeps rising, curling up into the sky twice every loop"
   }
 }
