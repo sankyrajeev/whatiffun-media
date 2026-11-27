@@ -1,0 +1,785 @@
+{
+ "text": " What if you melted all the gold ever mined into one cube? In all of history, we've dug up about 222,000 tonnes of gold, two thirds of it since 1950. Melt it down, pour it into one block, and the cube is only 22.5 metres on each side, about as tall as a seven-storey building. Small, but heavy. It weighs as much as 22 Eiffel Towers. At today's price, it's worth about 25 trillion dollars. Now share it out. Every person on Earth gets 27 grams. A little lump worth about 3,000 dollars. Want more? There's gold in the sea. In the 1920s, the chemist Fritz Haber tried to pull it out of seawater to pay Germany's war debts. Then he measured. There was about a thousand times less gold than he'd hoped, he gave up. So all the gold we have still fits in one cube. Subscribe for more What Ifs.",
+ "words": [
+  {
+   "word": "What",
+   "start": 0.0,
+   "end": 0.26
+  },
+  {
+   "word": "if",
+   "start": 0.26,
+   "end": 0.44
+  },
+  {
+   "word": "you",
+   "start": 0.44,
+   "end": 0.6
+  },
+  {
+   "word": "melted",
+   "start": 0.6,
+   "end": 0.96
+  },
+  {
+   "word": "all",
+   "start": 0.96,
+   "end": 1.38
+  },
+  {
+   "word": "the",
+   "start": 1.38,
+   "end": 1.6
+  },
+  {
+   "word": "gold",
+   "start": 1.6,
+   "end": 1.88
+  },
+  {
+   "word": "ever",
+   "start": 1.88,
+   "end": 2.34
+  },
+  {
+   "word": "mined",
+   "start": 2.34,
+   "end": 2.68
+  },
+  {
+   "word": "into",
+   "start": 2.68,
+   "end": 3.08
+  },
+  {
+   "word": "one",
+   "start": 3.08,
+   "end": 3.44
+  },
+  {
+   "word": "cube?",
+   "start": 3.44,
+   "end": 3.9
+  },
+  {
+   "word": "In",
+   "start": 4.58,
+   "end": 4.84
+  },
+  {
+   "word": "all",
+   "start": 4.84,
+   "end": 5.08
+  },
+  {
+   "word": "of",
+   "start": 5.08,
+   "end": 5.26
+  },
+  {
+   "word": "history,",
+   "start": 5.26,
+   "end": 5.62
+  },
+  {
+   "word": "we've",
+   "start": 5.92,
+   "end": 6.1
+  },
+  {
+   "word": "dug",
+   "start": 6.1,
+   "end": 6.26
+  },
+  {
+   "word": "up",
+   "start": 6.26,
+   "end": 6.48
+  },
+  {
+   "word": "about",
+   "start": 6.48,
+   "end": 6.8
+  },
+  {
+   "word": "222",
+   "start": 6.8,
+   "end": 7.68
+  },
+  {
+   "word": ",000",
+   "start": 7.68,
+   "end": 8.76
+  },
+  {
+   "word": "tonnes",
+   "start": 8.76,
+   "end": 9.0
+  },
+  {
+   "word": "of",
+   "start": 9.0,
+   "end": 9.32
+  },
+  {
+   "word": "gold,",
+   "start": 9.32,
+   "end": 9.7
+  },
+  {
+   "word": "two",
+   "start": 10.16,
+   "end": 10.44
+  },
+  {
+   "word": "thirds",
+   "start": 10.44,
+   "end": 10.7
+  },
+  {
+   "word": "of",
+   "start": 10.7,
+   "end": 10.92
+  },
+  {
+   "word": "it",
+   "start": 10.92,
+   "end": 11.06
+  },
+  {
+   "word": "since",
+   "start": 11.06,
+   "end": 11.24
+  },
+  {
+   "word": "1950.",
+   "start": 11.24,
+   "end": 11.94
+  },
+  {
+   "word": "Melt",
+   "start": 12.92,
+   "end": 12.98
+  },
+  {
+   "word": "it",
+   "start": 12.98,
+   "end": 13.16
+  },
+  {
+   "word": "down,",
+   "start": 13.16,
+   "end": 13.5
+  },
+  {
+   "word": "pour",
+   "start": 13.78,
+   "end": 13.98
+  },
+  {
+   "word": "it",
+   "start": 13.98,
+   "end": 14.14
+  },
+  {
+   "word": "into",
+   "start": 14.14,
+   "end": 14.36
+  },
+  {
+   "word": "one",
+   "start": 14.36,
+   "end": 14.64
+  },
+  {
+   "word": "block,",
+   "start": 14.64,
+   "end": 14.94
+  },
+  {
+   "word": "and",
+   "start": 15.2,
+   "end": 15.36
+  },
+  {
+   "word": "the",
+   "start": 15.36,
+   "end": 15.5
+  },
+  {
+   "word": "cube",
+   "start": 15.5,
+   "end": 15.78
+  },
+  {
+   "word": "is",
+   "start": 15.78,
+   "end": 15.98
+  },
+  {
+   "word": "only",
+   "start": 15.98,
+   "end": 16.3
+  },
+  {
+   "word": "22",
+   "start": 16.3,
+   "end": 16.92
+  },
+  {
+   "word": ".5",
+   "start": 16.92,
+   "end": 17.38
+  },
+  {
+   "word": "metres",
+   "start": 17.38,
+   "end": 17.7
+  },
+  {
+   "word": "on",
+   "start": 17.7,
+   "end": 18.04
+  },
+  {
+   "word": "each",
+   "start": 18.04,
+   "end": 18.26
+  },
+  {
+   "word": "side,",
+   "start": 18.26,
+   "end": 18.78
+  },
+  {
+   "word": "about",
+   "start": 19.22,
+   "end": 19.48
+  },
+  {
+   "word": "as",
+   "start": 19.48,
+   "end": 19.68
+  },
+  {
+   "word": "tall",
+   "start": 19.68,
+   "end": 19.98
+  },
+  {
+   "word": "as",
+   "start": 19.98,
+   "end": 20.2
+  },
+  {
+   "word": "a",
+   "start": 20.2,
+   "end": 20.34
+  },
+  {
+   "word": "seven",
+   "start": 20.34,
+   "end": 20.66
+  },
+  {
+   "word": "-storey",
+   "start": 20.66,
+   "end": 21.08
+  },
+  {
+   "word": "building.",
+   "start": 21.08,
+   "end": 21.42
+  },
+  {
+   "word": "Small,",
+   "start": 22.04,
+   "end": 22.36
+  },
+  {
+   "word": "but",
+   "start": 22.8,
+   "end": 22.9
+  },
+  {
+   "word": "heavy.",
+   "start": 22.9,
+   "end": 23.18
+  },
+  {
+   "word": "It",
+   "start": 23.72,
+   "end": 23.9
+  },
+  {
+   "word": "weighs",
+   "start": 23.9,
+   "end": 24.14
+  },
+  {
+   "word": "as",
+   "start": 24.14,
+   "end": 24.36
+  },
+  {
+   "word": "much",
+   "start": 24.36,
+   "end": 24.6
+  },
+  {
+   "word": "as",
+   "start": 24.6,
+   "end": 25.52
+  },
+  {
+   "word": "22",
+   "start": 25.52,
+   "end": 25.52
+  },
+  {
+   "word": "Eiffel",
+   "start": 25.52,
+   "end": 25.98
+  },
+  {
+   "word": "Towers.",
+   "start": 25.98,
+   "end": 26.46
+  },
+  {
+   "word": "At",
+   "start": 27.04,
+   "end": 27.2
+  },
+  {
+   "word": "today's",
+   "start": 27.2,
+   "end": 27.64
+  },
+  {
+   "word": "price,",
+   "start": 27.64,
+   "end": 27.94
+  },
+  {
+   "word": "it's",
+   "start": 28.28,
+   "end": 28.46
+  },
+  {
+   "word": "worth",
+   "start": 28.46,
+   "end": 28.62
+  },
+  {
+   "word": "about",
+   "start": 28.62,
+   "end": 28.92
+  },
+  {
+   "word": "25",
+   "start": 28.92,
+   "end": 29.6
+  },
+  {
+   "word": "trillion",
+   "start": 29.6,
+   "end": 30.14
+  },
+  {
+   "word": "dollars.",
+   "start": 30.14,
+   "end": 30.68
+  },
+  {
+   "word": "Now",
+   "start": 31.36,
+   "end": 31.56
+  },
+  {
+   "word": "share",
+   "start": 31.56,
+   "end": 31.92
+  },
+  {
+   "word": "it",
+   "start": 31.92,
+   "end": 32.12
+  },
+  {
+   "word": "out.",
+   "start": 32.12,
+   "end": 32.48
+  },
+  {
+   "word": "Every",
+   "start": 32.92,
+   "end": 33.16
+  },
+  {
+   "word": "person",
+   "start": 33.16,
+   "end": 33.48
+  },
+  {
+   "word": "on",
+   "start": 33.48,
+   "end": 33.74
+  },
+  {
+   "word": "Earth",
+   "start": 33.74,
+   "end": 33.96
+  },
+  {
+   "word": "gets",
+   "start": 33.96,
+   "end": 34.28
+  },
+  {
+   "word": "27",
+   "start": 34.28,
+   "end": 35.04
+  },
+  {
+   "word": "grams.",
+   "start": 35.04,
+   "end": 35.38
+  },
+  {
+   "word": "A",
+   "start": 36.0,
+   "end": 36.12
+  },
+  {
+   "word": "little",
+   "start": 36.12,
+   "end": 36.34
+  },
+  {
+   "word": "lump",
+   "start": 36.34,
+   "end": 36.62
+  },
+  {
+   "word": "worth",
+   "start": 36.62,
+   "end": 36.94
+  },
+  {
+   "word": "about",
+   "start": 36.94,
+   "end": 37.28
+  },
+  {
+   "word": "3",
+   "start": 37.28,
+   "end": 37.58
+  },
+  {
+   "word": ",000",
+   "start": 37.58,
+   "end": 38.02
+  },
+  {
+   "word": "dollars.",
+   "start": 38.02,
+   "end": 38.4
+  },
+  {
+   "word": "Want",
+   "start": 39.06,
+   "end": 39.2
+  },
+  {
+   "word": "more?",
+   "start": 39.2,
+   "end": 39.5
+  },
+  {
+   "word": "There's",
+   "start": 40.04,
+   "end": 40.3
+  },
+  {
+   "word": "gold",
+   "start": 40.3,
+   "end": 40.52
+  },
+  {
+   "word": "in",
+   "start": 40.52,
+   "end": 40.74
+  },
+  {
+   "word": "the",
+   "start": 40.74,
+   "end": 40.88
+  },
+  {
+   "word": "sea.",
+   "start": 40.88,
+   "end": 41.16
+  },
+  {
+   "word": "In",
+   "start": 41.88,
+   "end": 41.98
+  },
+  {
+   "word": "the",
+   "start": 41.98,
+   "end": 42.1
+  },
+  {
+   "word": "1920s,",
+   "start": 42.1,
+   "end": 43.08
+  },
+  {
+   "word": "the",
+   "start": 43.22,
+   "end": 43.34
+  },
+  {
+   "word": "chemist",
+   "start": 43.34,
+   "end": 43.64
+  },
+  {
+   "word": "Fritz",
+   "start": 43.64,
+   "end": 44.02
+  },
+  {
+   "word": "Haber",
+   "start": 44.02,
+   "end": 44.52
+  },
+  {
+   "word": "tried",
+   "start": 44.52,
+   "end": 44.86
+  },
+  {
+   "word": "to",
+   "start": 44.86,
+   "end": 45.04
+  },
+  {
+   "word": "pull",
+   "start": 45.04,
+   "end": 45.22
+  },
+  {
+   "word": "it",
+   "start": 45.22,
+   "end": 45.34
+  },
+  {
+   "word": "out",
+   "start": 45.34,
+   "end": 45.52
+  },
+  {
+   "word": "of",
+   "start": 45.52,
+   "end": 45.7
+  },
+  {
+   "word": "seawater",
+   "start": 45.7,
+   "end": 46.16
+  },
+  {
+   "word": "to",
+   "start": 46.16,
+   "end": 46.48
+  },
+  {
+   "word": "pay",
+   "start": 46.48,
+   "end": 46.68
+  },
+  {
+   "word": "Germany's",
+   "start": 46.68,
+   "end": 47.26
+  },
+  {
+   "word": "war",
+   "start": 47.26,
+   "end": 47.46
+  },
+  {
+   "word": "debts.",
+   "start": 47.46,
+   "end": 47.78
+  },
+  {
+   "word": "Then",
+   "start": 48.36,
+   "end": 48.68
+  },
+  {
+   "word": "he",
+   "start": 48.68,
+   "end": 48.92
+  },
+  {
+   "word": "measured.",
+   "start": 48.92,
+   "end": 49.28
+  },
+  {
+   "word": "There",
+   "start": 49.82,
+   "end": 49.94
+  },
+  {
+   "word": "was",
+   "start": 49.94,
+   "end": 50.04
+  },
+  {
+   "word": "about",
+   "start": 50.04,
+   "end": 50.32
+  },
+  {
+   "word": "a",
+   "start": 50.32,
+   "end": 50.5
+  },
+  {
+   "word": "thousand",
+   "start": 50.5,
+   "end": 50.88
+  },
+  {
+   "word": "times",
+   "start": 50.88,
+   "end": 51.34
+  },
+  {
+   "word": "less",
+   "start": 51.34,
+   "end": 51.64
+  },
+  {
+   "word": "gold",
+   "start": 51.64,
+   "end": 52.04
+  },
+  {
+   "word": "than",
+   "start": 52.04,
+   "end": 52.24
+  },
+  {
+   "word": "he'd",
+   "start": 52.24,
+   "end": 52.44
+  },
+  {
+   "word": "hoped,",
+   "start": 52.44,
+   "end": 52.72
+  },
+  {
+   "word": "he",
+   "start": 53.24,
+   "end": 53.36
+  },
+  {
+   "word": "gave",
+   "start": 53.36,
+   "end": 53.54
+  },
+  {
+   "word": "up.",
+   "start": 53.54,
+   "end": 53.88
+  },
+  {
+   "word": "So",
+   "start": 54.36,
+   "end": 54.58
+  },
+  {
+   "word": "all",
+   "start": 54.58,
+   "end": 54.84
+  },
+  {
+   "word": "the",
+   "start": 54.84,
+   "end": 55.0
+  },
+  {
+   "word": "gold",
+   "start": 55.0,
+   "end": 55.2
+  },
+  {
+   "word": "we",
+   "start": 55.2,
+   "end": 55.4
+  },
+  {
+   "word": "have",
+   "start": 55.4,
+   "end": 55.72
+  },
+  {
+   "word": "still",
+   "start": 55.72,
+   "end": 56.12
+  },
+  {
+   "word": "fits",
+   "start": 56.12,
+   "end": 56.44
+  },
+  {
+   "word": "in",
+   "start": 56.44,
+   "end": 56.78
+  },
+  {
+   "word": "one",
+   "start": 56.78,
+   "end": 57.02
+  },
+  {
+   "word": "cube.",
+   "start": 57.02,
+   "end": 57.44
+  },
+  {
+   "word": "Subscribe",
+   "start": 58.14,
+   "end": 58.6
+  },
+  {
+   "word": "for",
+   "start": 58.6,
+   "end": 58.92
+  },
+  {
+   "word": "more",
+   "start": 58.92,
+   "end": 59.2
+  },
+  {
+   "word": "What",
+   "start": 59.2,
+   "end": 59.44
+  },
+  {
+   "word": "Ifs.",
+   "start": 59.44,
+   "end": 59.9
+  }
+ ]
+}
