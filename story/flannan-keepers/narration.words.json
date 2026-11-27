@@ -58,7 +58,7 @@
   },
   {
    "word": "1900.",
-   "start": 4.94,
+   "start": 5.62,
    "end": 5.96
   },
   {
@@ -402,13 +402,8 @@
    "end": 34.04
   },
   {
-   "word": "oil",
+   "word": " oilskins",
    "start": 34.04,
-   "end": 34.28
-  },
-  {
-   "word": "skins",
-   "start": 34.28,
    "end": 34.6
   },
   {
@@ -567,7 +562,7 @@
    "end": 45.04
   },
   {
-   "word": "inspectors",
+   "word": " inspector's",
    "start": 45.04,
    "end": 45.5
   },

@@ -16,3 +16,7 @@ Generic stick figures and props (prepped or raw PNGs with transparency) that any
 - tug-of-war-two-women.png — two angry women pulling one black rock between them (meteorite-nap).
 - gold-bar.png — cartoon gold ingot (drawn in code, 2026-11-27; story/gold-cube/draw_code_art.py).
 - stickman-gold-nugget.png — smug stick figure holding a small sparkling gold nugget in an open palm (raw, gold-cube).
+- lighthouse-dark.png — white stone lighthouse with a small cottage on a rocky islet, lamp dark (flannan-keepers, 2026-11-27).
+- keeper-lantern-worried.png — worried stick figure in a navy peaked cap and wool jumper holding a lit lantern (flannan-keepers).
+- oilskin-coat-peg.png — yellow oilskin coat and sou'wester on a wooden peg rail (flannan-keepers).
+- wave-big.png — big curling cartoon sea wave with foam (drawn in code; story/flannan-keepers/tools/draw_art.py).

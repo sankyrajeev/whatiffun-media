@@ -1,0 +1,287 @@
+{
+ "title": "What If You Vanished From a Remote Lighthouse and Became a Century-Old Mystery?",
+ "voice": "narration.mp3",
+ "words": "narration.words.json",
+ "end": [
+  "Subscribe",
+  "@whatiffun",
+  "for more mysteries"
+ ],
+ "thumb": {
+  "l1": "3 KEEPERS",
+  "l2": "VANISHED",
+  "img": "lighthouse.png"
+ },
+ "shots": [
+  {
+   "at": 0,
+   "kicker": "MYSTERY",
+   "l1": "Three men vanished",
+   "l2": "from a lighthouse.",
+   "l2_at": 3,
+   "num": "3 keepers",
+   "num_at": 1,
+   "art": [
+    {
+     "img": "lighthouse.png",
+     "h": 0.95,
+     "x": -0.28,
+     "move": "sway",
+     "amp": 0.008,
+     "per": 3.4
+    },
+    {
+     "img": "keeper-lantern.png",
+     "h": 0.55,
+     "x": 0.3,
+     "y": 0.0,
+     "move": "bob",
+     "amp": 0.012,
+     "per": 2.0
+    }
+   ]
+  },
+  {
+   "at": 10,
+   "kicker": "DECEMBER 1900",
+   "l1": "A tiny rock",
+   "l2": "off Scotland.",
+   "l2_at": 17,
+   "art": [
+    {
+     "img": "lighthouse.png",
+     "h": 0.98,
+     "move": "sway",
+     "amp": 0.01,
+     "per": 3.0
+    }
+   ]
+  },
+  {
+   "at": 21,
+   "kicker": "15 DECEMBER",
+   "l1": "A passing ship:",
+   "l2": "the light is dark.",
+   "l2_at": 28,
+   "art": [
+    {
+     "img": "ship.png",
+     "h": 0.55,
+     "x": -0.3,
+     "y": -0.02,
+     "move": "bob",
+     "amp": 0.015,
+     "per": 1.8
+    },
+    {
+     "img": "lighthouse.png",
+     "h": 0.95,
+     "x": 0.32,
+     "move": "sway",
+     "amp": 0.008,
+     "per": 3.0,
+     "dim_at": 30
+    }
+   ]
+  },
+  {
+   "at": 32,
+   "kicker": "STORMS",
+   "l1": "The relief boat",
+   "l2": "lands on Boxing Day.",
+   "l2_at": 44,
+   "num": "11 days later",
+   "num_at": 41,
+   "art": [
+    {
+     "img": "ship.png",
+     "h": 0.82,
+     "move": "sway",
+     "amp": 0.04,
+     "per": 1.6
+    }
+   ]
+  },
+  {
+   "at": 47,
+   "kicker": "26 DECEMBER",
+   "l1": "Nobody waves.",
+   "l2": "No flag flies.",
+   "l2_at": 49,
+   "art": [
+    {
+     "img": "lighthouse.png",
+     "h": 0.98,
+     "move": "sway",
+     "amp": 0.006,
+     "per": 3.6
+    }
+   ]
+  },
+  {
+   "at": 52,
+   "kicker": "JOSEPH MOORE",
+   "l1": "He climbs up alone.",
+   "l2": "Gate shut. Door shut.",
+   "l2_at": 57,
+   "art": [
+    {
+     "img": "keeper-lantern.png",
+     "h": 0.9,
+     "move": "bob",
+     "amp": 0.012,
+     "per": 1.8
+    }
+   ]
+  },
+  {
+   "at": 65,
+   "kicker": "INSIDE",
+   "l1": "Beds unmade.",
+   "l2": "The clock stopped.",
+   "l2_at": 70,
+   "art": [
+    {
+     "img": "keeper-lantern.png",
+     "h": 0.62,
+     "x": -0.3,
+     "y": -0.02,
+     "move": "bob",
+     "amp": 0.01,
+     "per": 2.2
+    },
+    {
+     "img": "clock-stopped.png",
+     "h": 0.55,
+     "x": 0.33,
+     "y": -0.12,
+     "move": "none",
+     "in_at": 70
+    }
+   ]
+  },
+  {
+   "at": 74,
+   "kicker": "THE CLUE",
+   "l1": "One set of oilskins",
+   "l2": "left behind.",
+   "l2_at": 80,
+   "art": [
+    {
+     "img": "oilskin-peg.png",
+     "h": 0.92,
+     "move": "sway",
+     "amp": 0.015,
+     "per": 2.6
+    }
+   ]
+  },
+  {
+   "at": 84,
+   "kicker": "THE CLUE",
+   "l1": "One man ran out",
+   "l2": "in his shirt sleeves.",
+   "l2_at": 89,
+   "art": [
+    {
+     "img": "oilskin-peg.png",
+     "h": 0.72,
+     "x": -0.3,
+     "move": "sway",
+     "amp": 0.012,
+     "per": 2.6
+    },
+    {
+     "img": "keeper-lantern.png",
+     "h": 0.72,
+     "x": 0.3,
+     "move": "bob",
+     "amp": 0.014,
+     "per": 1.4
+    }
+   ]
+  },
+  {
+   "at": 94,
+   "kicker": "WEST LANDING",
+   "l1": "Supplies smashed,",
+   "l2": "turf torn up.",
+   "l2_at": 105,
+   "art": [
+    {
+     "img": "crate-smashed.png",
+     "h": 0.58,
+     "y": 0.05,
+     "move": "pulse",
+     "amp": 0.02,
+     "per": 1.3
+    }
+   ]
+  },
+  {
+   "at": 111,
+   "kicker": "THE VERDICT",
+   "l1": "A huge wave",
+   "l2": "swept them away.",
+   "l2_at": 117,
+   "art": [
+    {
+     "img": "wave.png",
+     "h": 0.95,
+     "move": "sway",
+     "amp": 0.03,
+     "per": 1.8
+    }
+   ]
+  },
+  {
+   "at": 124,
+   "kicker": "NEVER FOUND",
+   "l1": "Their bodies were",
+   "l2": "never found.",
+   "l2_at": 127,
+   "art": [
+    {
+     "img": "wave.png",
+     "h": 0.9,
+     "move": "sway",
+     "amp": 0.01,
+     "per": 3.0,
+     "dim_at": 127
+    }
+   ]
+  },
+  {
+   "at": 129,
+   "kicker": "THE LOGBOOK",
+   "l1": "Storms? Praying?",
+   "l2": "No evidence at all.",
+   "l2_at": 139,
+   "art": [
+    {
+     "img": "keeper-lantern.png",
+     "h": 0.88,
+     "move": "pulse",
+     "amp": 0.02,
+     "per": 1.6
+    }
+   ]
+  },
+  {
+   "at": 144,
+   "kicker": "THE TWIST",
+   "l1": "Someone added them",
+   "l2": "years later.",
+   "l2_at": 147,
+   "art": [
+    {
+     "img": "lighthouse.png",
+     "h": 0.98,
+     "move": "sway",
+     "amp": 0.008,
+     "per": 3.0
+    }
+   ]
+  }
+ ]
+}
