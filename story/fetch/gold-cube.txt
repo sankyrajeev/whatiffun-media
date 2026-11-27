@@ -1,0 +1,4 @@
+story/gold-cube/art/raw/cube-building.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/b7cbeabd-7f7c-4ef9-b131-65045dad43a0.png
+story/gold-cube/art/raw/nugget-hand.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/718e81f2-f018-4a3e-a2a9-dc43b2326101.png
+story/gold-cube/art/raw/haber-boat.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/078a9baa-0188-49d4-8ff5-13f4c7632432.png
+story/gold-cube/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/cd9e4e6f-f227-417c-9635-4fe43ed47963.mp3
