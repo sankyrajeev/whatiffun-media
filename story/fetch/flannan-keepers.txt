@@ -1,4 +1,0 @@
-story/flannan-keepers/art/raw/lighthouse.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/392eb050-8e5e-4c6e-803f-c9dbb3a7f148.png
-story/flannan-keepers/art/raw/keeper-lantern.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/37d80aea-1c5c-4edb-a785-9daba680d7e5.png
-story/flannan-keepers/art/raw/oilskin-peg.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/1f36bfe7-bb2b-4bd3-aab0-0631c9994e4d.png
-story/flannan-keepers/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/38f4ddcb-cb20-48e7-aced-d270ca98bd9c.mp3
