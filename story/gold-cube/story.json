@@ -1,0 +1,248 @@
+{
+ "title": "What if all the gold ever mined was melted into one cube?",
+ "voice": "narration.mp3",
+ "words": "narration.words.json",
+ "end": [
+  "Subscribe",
+  "@whatiffun",
+  "for more what-ifs"
+ ],
+ "thumb": {
+  "l1": "ALL THE GOLD",
+  "l2": "IN ONE CUBE?",
+  "img": "cube-building.png"
+ },
+ "shots": [
+  {
+   "at": 0,
+   "kicker": "WHAT IF",
+   "l1": "All the gold ever mined",
+   "l2": "was one cube?",
+   "l2_at": 9,
+   "art": [
+    {
+     "img": "cube-building.png",
+     "h": 0.95,
+     "amp": 0.01,
+     "per": 2.8
+    }
+   ]
+  },
+  {
+   "at": 12,
+   "kicker": "ALL OF HISTORY",
+   "l1": "We've dug up",
+   "l2": "2/3 of it since 1950.",
+   "l2_at": 25,
+   "num": "222,000 t",
+   "num_at": 20,
+   "art": [
+    {
+     "img": "gold-bar.png",
+     "h": 0.42,
+     "move": "pulse",
+     "amp": 0.03,
+     "per": 1.4,
+     "out_at": 20
+    },
+    {
+     "img": "gold-bar.png",
+     "in_at": 20,
+     "grid": {
+      "n": 24,
+      "cols": 6,
+      "h": 0.15
+     }
+    }
+   ]
+  },
+  {
+   "at": 31,
+   "kicker": "MELT IT DOWN",
+   "l1": "Pour it all into",
+   "l2": "one solid block.",
+   "l2_at": 37,
+   "num": "22.5 m a side",
+   "num_at": 44,
+   "art": [
+    {
+     "img": "gold-bar.png",
+     "h": 0.5,
+     "move": "pulse",
+     "amp": 0.04,
+     "per": 1.1
+    }
+   ]
+  },
+  {
+   "at": 50,
+   "kicker": "SEVEN STOREYS",
+   "l1": "As tall as",
+   "l2": "a 7-storey building.",
+   "l2_at": 54,
+   "art": [
+    {
+     "img": "cube-building.png",
+     "h": 0.95,
+     "move": "sway",
+     "amp": 0.01,
+     "per": 3.0
+    }
+   ]
+  },
+  {
+   "at": 58,
+   "kicker": "SMALL, BUT HEAVY",
+   "l1": "As heavy as",
+   "l2": "22 Eiffel Towers.",
+   "l2_at": 66,
+   "art": [
+    {
+     "img": "tower-iron.png",
+     "h": 0.9,
+     "amp": 0.01,
+     "per": 2.6,
+     "out_at": 66
+    },
+    {
+     "img": "tower-iron.png",
+     "in_at": 66,
+     "grid": {
+      "n": 22,
+      "cols": 11,
+      "h": 0.3
+     }
+    }
+   ]
+  },
+  {
+   "at": 69,
+   "kicker": "TODAY'S PRICE",
+   "l1": "Worth about",
+   "l2": "in cash.",
+   "l2_at": 77,
+   "num": "$25 trillion",
+   "num_at": 75,
+   "art": [
+    {
+     "img": "bill-20.png",
+     "h": 0.42,
+     "move": "pulse",
+     "amp": 0.03,
+     "per": 1.2,
+     "out_at": 75
+    },
+    {
+     "img": "bill-20.png",
+     "in_at": 75,
+     "grid": {
+      "n": 30,
+      "cols": 6,
+      "h": 0.12
+     }
+    }
+   ]
+  },
+  {
+   "at": 78,
+   "kicker": "SHARE IT OUT",
+   "l1": "Every person",
+   "l2": "on Earth gets",
+   "l2_at": 83,
+   "num": "27 grams",
+   "num_at": 87,
+   "art": [
+    {
+     "img": "earth.png",
+     "h": 0.78,
+     "move": "sway",
+     "amp": 0.02,
+     "per": 3.0
+    }
+   ]
+  },
+  {
+   "at": 89,
+   "kicker": "A LITTLE LUMP",
+   "l1": "Your share is",
+   "l2": "worth about",
+   "l2_at": 92,
+   "num": "$3,000",
+   "num_at": 94,
+   "art": [
+    {
+     "img": "nugget-hand.png",
+     "h": 0.92,
+     "move": "bob",
+     "amp": 0.012,
+     "per": 2.2
+    }
+   ]
+  },
+  {
+   "at": 97,
+   "kicker": "WANT MORE?",
+   "l1": "There's gold",
+   "l2": "in the sea.",
+   "l2_at": 101,
+   "art": [
+    {
+     "img": "earth.png",
+     "h": 0.8,
+     "move": "pulse",
+     "amp": 0.02,
+     "per": 1.6
+    }
+   ]
+  },
+  {
+   "at": 104,
+   "kicker": "THE 1920s",
+   "l1": "Fritz Haber's plan:",
+   "l2": "pay Germany's debts.",
+   "l2_at": 118,
+   "art": [
+    {
+     "img": "haber-boat.png",
+     "h": 0.92,
+     "move": "bob",
+     "amp": 0.015,
+     "per": 2.0
+    }
+   ]
+  },
+  {
+   "at": 123,
+   "kicker": "THEN HE MEASURED",
+   "l1": "Gold in the sea:",
+   "l2": "he gave up.",
+   "l2_at": 137,
+   "num": "1,000× less",
+   "num_at": 130,
+   "art": [
+    {
+     "img": "haber-boat.png",
+     "h": 0.92,
+     "move": "sway",
+     "amp": 0.02,
+     "per": 1.4
+    }
+   ]
+  },
+  {
+   "at": 140,
+   "kicker": "SO",
+   "l1": "All our gold still",
+   "l2": "fits in one cube.",
+   "l2_at": 147,
+   "art": [
+    {
+     "img": "cube-building.png",
+     "h": 0.95,
+     "amp": 0.01,
+     "per": 2.8
+    }
+   ]
+  }
+ ]
+}

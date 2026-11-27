@@ -14,3 +14,5 @@ Generic stick figures and props (prepped or raw PNGs with transparency) that any
 - hijacker-suit-briefcase.png, bill-20.png ($20 bill, code-drawn), parachute.png (code-drawn): from db-cooper (2026-11-26).
 - woman-sofa-hit-by-rock.png — 1950s woman on a sofa under a quilt, jolted awake as a smoking rock bounces off a console radio into her (meteorite-nap).
 - tug-of-war-two-women.png — two angry women pulling one black rock between them (meteorite-nap).
+- gold-bar.png — cartoon gold ingot (drawn in code, 2026-11-27; story/gold-cube/draw_code_art.py).
+- stickman-gold-nugget.png — smug stick figure holding a small sparkling gold nugget in an open palm (raw, gold-cube).
