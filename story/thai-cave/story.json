@@ -1,0 +1,210 @@
+{
+ "title": "What If You Had to Survive a Monsoon While Trapped in a Cave?",
+ "voice": "narration.mp3",
+ "words": "narration.words.json",
+ "end": [
+  "Subscribe",
+  "@whatiffun",
+  "for more rescues"
+ ],
+ "thumb": {
+  "l1": "TRAPPED 4 KM",
+  "l2": "IN A FLOODED CAVE",
+  "img": "team-ledge.png"
+ },
+ "shots": [
+  {
+   "at": 0,
+   "kicker": "RESCUE",
+   "l1": "Trapped 4 km",
+   "l2": "inside a flooded cave?",
+   "l2_at": 6,
+   "num": "4 km",
+   "num_at": 5,
+   "art": [
+    {
+     "img": "cave-flooded.png",
+     "h": 0.95,
+     "move": "sway",
+     "amp": 0.008,
+     "per": 3.4
+    }
+   ]
+  },
+  {
+   "at": 10,
+   "kicker": "23 JUNE 2018",
+   "l1": "Twelve boys",
+   "l2": "and their coach.",
+   "l2_at": 20,
+   "num": "13",
+   "num_at": 22,
+   "art": [
+    {
+     "img": "team-ledge.png",
+     "h": 0.92,
+     "move": "bob",
+     "amp": 0.01,
+     "per": 2.2
+    }
+   ]
+  },
+  {
+   "at": 30,
+   "kicker": "MONSOON",
+   "l1": "The rain came early.",
+   "l2": "The way out is gone.",
+   "l2_at": 42,
+   "art": [
+    {
+     "img": "cave-flooded.png",
+     "h": 0.95,
+     "move": "sink",
+     "amp": 0.03,
+     "per": 6.0
+    }
+   ]
+  },
+  {
+   "at": 47,
+   "kicker": "MISSING",
+   "l1": "Nine days.",
+   "l2": "Thousands search.",
+   "l2_at": 55,
+   "num": "9 days",
+   "num_at": 48,
+   "art": [
+    {
+     "img": "team-ledge.png",
+     "h": 0.85,
+     "move": "none",
+     "dim_at": null,
+     "out_at": 55
+    },
+    {
+     "img": "smiley-head.png",
+     "in_at": 55,
+     "grid": {
+      "n": 40,
+      "cols": 10,
+      "h": 0.17
+     }
+    }
+   ]
+  },
+  {
+   "at": 65,
+   "kicker": "2 JULY",
+   "l1": "Two British divers",
+   "l2": "start counting.",
+   "l2_at": 73,
+   "num": "13 alive",
+   "num_at": 76,
+   "art": [
+    {
+     "img": "diver-towing-boy.png",
+     "h": 0.8,
+     "move": "bob",
+     "amp": 0.015,
+     "per": 1.8,
+     "out_at": 76
+    },
+    {
+     "img": "smiley-head.png",
+     "in_at": 76,
+     "grid": {
+      "n": 13,
+      "cols": 5,
+      "h": 0.18
+     }
+    }
+   ]
+  },
+  {
+   "at": 79,
+   "kicker": "THE CATCH",
+   "l1": "Hours of diving",
+   "l2": "in black tunnels.",
+   "l2_at": 86,
+   "art": [
+    {
+     "img": "cave-flooded.png",
+     "h": 0.95,
+     "move": "none",
+     "dim_at": 91
+    }
+   ]
+  },
+  {
+   "at": 97,
+   "kicker": "SAMAN KUNAN",
+   "l1": "A former Navy SEAL",
+   "l2": "gave his life.",
+   "l2_at": 103,
+   "art": [
+    {
+     "img": "air-tank.png",
+     "h": 0.85,
+     "move": "sway",
+     "amp": 0.01,
+     "per": 3.0,
+     "dim_at": 111
+    }
+   ]
+  },
+  {
+   "at": 112,
+   "kicker": "THE PLAN",
+   "l1": "Put each boy",
+   "l2": "to sleep.",
+   "l2_at": 120,
+   "art": [
+    {
+     "img": "diver-towing-boy.png",
+     "h": 0.85,
+     "move": "bob",
+     "amp": 0.02,
+     "per": 1.6
+    }
+   ]
+  },
+  {
+   "at": 141,
+   "kicker": "8–10 JULY",
+   "l1": "Four. Then four.",
+   "l2": "Then five.",
+   "l2_at": 146,
+   "num": "4 + 4 + 5",
+   "num_at": 149,
+   "art": [
+    {
+     "img": "smiley-head.png",
+     "in_at": 141,
+     "grid": {
+      "n": 13,
+      "cols": 5,
+      "h": 0.18
+     }
+    }
+   ]
+  },
+  {
+   "at": 153,
+   "kicker": "ALL ALIVE",
+   "l1": "All thirteen",
+   "l2": "came out alive.",
+   "l2_at": 155,
+   "num": "13 / 13",
+   "num_at": 154,
+   "art": [
+    {
+     "img": "team-ledge.png",
+     "h": 0.95,
+     "move": "pulse",
+     "amp": 0.015,
+     "per": 1.5
+    }
+   ]
+  }
+ ]
+}

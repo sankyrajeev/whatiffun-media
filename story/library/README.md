@@ -20,3 +20,7 @@ Generic stick figures and props (prepped or raw PNGs with transparency) that any
 - keeper-lantern-worried.png — worried stick figure in a navy peaked cap and wool jumper holding a lit lantern (flannan-keepers).
 - oilskin-coat-peg.png — yellow oilskin coat and sou'wester on a wooden peg rail (flannan-keepers).
 - wave-big.png — big curling cartoon sea wave with foam (drawn in code; story/flannan-keepers/tools/draw_art.py).
+- team-ledge.png — 12 smiling stick-figure kids in football kits + coach with a whistle on a muddy cave ledge (raw, thai-cave 2026-11-28).
+- diver-towing-boy.png — stick-figure cave diver with headlamp towing a sleeping kid in a full-face mask (raw, thai-cave).
+- cave-flooded.png — jungle cave mouth half full of brown flood water, rain, bikes and a football (raw, thai-cave).
+- air-tank.png, smiley-head.png — yellow scuba tank and a plain smiling stick-figure head for count grids (drawn in code; story/thai-cave/tools/draw_art.py).
