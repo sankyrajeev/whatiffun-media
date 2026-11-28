@@ -24,3 +24,7 @@ Generic stick figures and props (prepped or raw PNGs with transparency) that any
 - diver-towing-boy.png — stick-figure cave diver with headlamp towing a sleeping kid in a full-face mask (raw, thai-cave).
 - cave-flooded.png — jungle cave mouth half full of brown flood water, rain, bikes and a football (raw, thai-cave).
 - air-tank.png, smiley-head.png — yellow scuba tank and a plain smiling stick-figure head for count grids (drawn in code; story/thai-cave/tools/draw_art.py).
+- headless-rooster.png — cheerful headless cartoon rooster strutting, neat bandaged neck stump, no blood (raw, headless-mike 2026-11-28).
+- farmer-axe-shock.png — 1940s stick-figure farmer (straw hat, overalls) with raised axe, shocked, a headless rooster walking off (raw, headless-mike).
+- sideshow-tent-crowd.png — red/cream striped carnival sideshow tent with amazed stick-figure crowd, one holding a coin (raw, headless-mike).
+- coin-25c.png, glass-syringe.png — drawn in code (story/headless-mike/tools/draw_art.py).

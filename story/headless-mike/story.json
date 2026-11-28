@@ -1,0 +1,255 @@
+{
+ "title": "What If You Lost Your Head and Just Kept Living?",
+ "voice": "narration.mp3",
+ "words": "narration.words.json",
+ "end": [
+  "Subscribe",
+  "@whatiffun",
+  "for more weird facts"
+ ],
+ "thumb": {
+  "l1": "NO HEAD.",
+  "l2": "STILL ALIVE?",
+  "img": "headless-rooster.png"
+ },
+ "shots": [
+  {
+   "at": 0,
+   "kicker": "WHAT IF",
+   "l1": "A chicken lost its head",
+   "l2": "and kept living?",
+   "l2_at": 7,
+   "art": [
+    {
+     "img": "headless-rooster.png",
+     "h": 0.95,
+     "move": "bob",
+     "amp": 0.015,
+     "per": 1.2
+    }
+   ]
+  },
+  {
+   "at": 11,
+   "kicker": "FRUITA, COLORADO",
+   "l1": "Farmer Lloyd Olsen",
+   "l2": "picks a rooster.",
+   "l2_at": 19,
+   "num": "1945",
+   "num_at": 13,
+   "art": [
+    {
+     "img": "farmer-axe-shock.png",
+     "h": 0.95,
+     "move": "sway",
+     "amp": 0.01,
+     "per": 3.0
+    }
+   ]
+  },
+  {
+   "at": 24,
+   "kicker": "DINNER",
+   "l1": "His mother-in-law",
+   "l2": "loves the neck.",
+   "l2_at": 28,
+   "art": [
+    {
+     "img": "farmer-axe-shock.png",
+     "h": 0.95,
+     "move": "pulse",
+     "amp": 0.02,
+     "per": 1.4
+    }
+   ]
+  },
+  {
+   "at": 37,
+   "kicker": "THE HEAD IS OFF",
+   "l1": "And the rooster",
+   "l2": "gets up and walks.",
+   "l2_at": 41,
+   "art": [
+    {
+     "img": "headless-rooster.png",
+     "h": 0.95,
+     "move": "bob",
+     "amp": 0.03,
+     "per": 0.9
+    }
+   ]
+  },
+  {
+   "at": 49,
+   "kicker": "THE MISS",
+   "l1": "The blade missed",
+   "l2": "the brain stem.",
+   "l2_at": 53,
+   "art": [
+    {
+     "img": "headless-rooster.png",
+     "h": 0.9,
+     "move": "sway",
+     "amp": 0.012,
+     "per": 3.0
+    }
+   ]
+  },
+  {
+   "at": 63,
+   "kicker": "THE CARE",
+   "l1": "Milk and water",
+   "l2": "by eyedropper.",
+   "l2_at": 71,
+   "art": [
+    {
+     "img": "glass-syringe.png",
+     "h": 0.35,
+     "move": "sway",
+     "amp": 0.015,
+     "per": 2.6
+    }
+   ]
+  },
+  {
+   "at": 81,
+   "kicker": "MIRACLE MIKE",
+   "l1": "They named him",
+   "l2": "Mike.",
+   "l2_at": 84,
+   "art": [
+    {
+     "img": "headless-rooster.png",
+     "h": 0.95,
+     "move": "pulse",
+     "amp": 0.02,
+     "per": 1.3
+    }
+   ]
+  },
+  {
+   "at": 85,
+   "kicker": "ON TOUR",
+   "l1": "Across America,",
+   "l2": "a quarter a look.",
+   "l2_at": 91,
+   "num": "25¢",
+   "num_at": 93,
+   "art": [
+    {
+     "img": "sideshow-tent-crowd.png",
+     "h": 0.95,
+     "move": "sway",
+     "amp": 0.008,
+     "per": 3.2,
+     "out_at": 93
+    },
+    {
+     "img": "coin-25c.png",
+     "in_at": 93,
+     "grid": {
+      "n": 12,
+      "cols": 4,
+      "h": 0.2
+     }
+    }
+   ]
+  },
+  {
+   "at": 98,
+   "kicker": "FAMOUS",
+   "l1": "Time and Life",
+   "l2": "wrote about him.",
+   "l2_at": 102,
+   "art": [
+    {
+     "img": "sideshow-tent-crowd.png",
+     "h": 0.95,
+     "move": "pulse",
+     "amp": 0.012,
+     "per": 2.0
+    }
+   ]
+  },
+  {
+   "at": 105,
+   "kicker": "NO HEAD",
+   "l1": "Eighteen months",
+   "l2": "with no head.",
+   "l2_at": 110,
+   "num": "18 months",
+   "num_at": 108,
+   "art": [
+    {
+     "img": "headless-rooster.png",
+     "in_at": 108,
+     "grid": {
+      "n": 18,
+      "cols": 6,
+      "h": 0.2
+     }
+    }
+   ]
+  },
+  {
+   "at": 113,
+   "kicker": "MARCH 1947",
+   "l1": "A Phoenix motel.",
+   "l2": "Mike chokes.",
+   "l2_at": 121,
+   "art": [
+    {
+     "img": "headless-rooster.png",
+     "h": 0.9,
+     "move": "sink",
+     "amp": 0.03,
+     "per": 6.0,
+     "dim_at": 122
+    }
+   ]
+  },
+  {
+   "at": 126,
+   "kicker": "THE CATCH",
+   "l1": "The syringe",
+   "l2": "was left behind.",
+   "l2_at": 128,
+   "art": [
+    {
+     "img": "glass-syringe.png",
+     "h": 0.35,
+     "move": "none",
+     "dim_at": 131
+    }
+   ]
+  },
+  {
+   "at": 135,
+   "kicker": "TODAY",
+   "l1": "A festival",
+   "l2": "every year.",
+   "l2_at": 141,
+   "num": "Guinness",
+   "num_at": 145,
+   "art": [
+    {
+     "img": "headless-rooster.png",
+     "h": 0.9,
+     "move": "bob",
+     "amp": 0.03,
+     "per": 0.8,
+     "out_at": 141
+    },
+    {
+     "img": "smiley-head.png",
+     "in_at": 141,
+     "grid": {
+      "n": 30,
+      "cols": 6,
+      "h": 0.15
+     }
+    }
+   ]
+  }
+ ]
+}
