@@ -210,5 +210,9 @@
   "82": {
     "answer": "B8",
     "what": "the sprinkler that breaks physics: every other sprinkler's water arcs up and falls back onto its lawn, while B8's water reaches the top of its arc and keeps rising, curling up into the sky twice every loop"
+  },
+  "83": {
+    "answer": "C8",
+    "what": "the record that spins backwards: every other record turns clockwise the whole time (some just stop for a moment and start again), while C8 swings half a turn the wrong way, anticlockwise, twice every loop"
   }
 }
