@@ -1,4 +1,0 @@
-story/thai-cave/art/raw/team-ledge.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/cf897a8e-3a8b-4902-8462-52d38bbce91e.png
-story/thai-cave/art/raw/diver-towing-boy.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/5ea71a93-9d8a-4c37-8f34-43bc7f5264ae.png
-story/thai-cave/art/raw/cave-flooded.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/2be45c1f-c3be-42a2-80f8-9bfed0170644.png
-story/thai-cave/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/bdbd1a9f-1e8f-41ba-b0b8-c3c28d52a92e.mp3
