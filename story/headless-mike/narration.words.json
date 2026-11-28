@@ -1,0 +1,780 @@
+{
+ "text": " What if a chicken lost its head and just kept living? September 10th, 1945, Fruta, Colorado. Farmer Lloyd Olsen picks a rooster for dinner. His mother-in-law loves the neck, so he aims the axe high. The head comes off, and the rooster gets up and wanders away. The blade had missed the brain stem, the part that runs breathing and digestion. So the Olsons fed him milk and water with an eyedropper and cleared his throat with a syringe. They named him Mike. Mike went on tour across America. People paid 25 cents to see him. Time and Life magazines wrote about him. He lived for 18 months with no head. Then, in March 1947, in a Phoenix motel, Mike choked in the night. The syringe had been left behind at the show. Today, his hometown throws him a festival every year, and Guinness still lists his record. Subscribe for more weird facts.",
+ "words": [
+  {
+   "word": "What",
+   "start": 0.0,
+   "end": 0.2
+  },
+  {
+   "word": "if",
+   "start": 0.2,
+   "end": 0.36
+  },
+  {
+   "word": "a",
+   "start": 0.36,
+   "end": 0.58
+  },
+  {
+   "word": "chicken",
+   "start": 0.58,
+   "end": 0.84
+  },
+  {
+   "word": "lost",
+   "start": 0.84,
+   "end": 1.18
+  },
+  {
+   "word": "its",
+   "start": 1.18,
+   "end": 1.48
+  },
+  {
+   "word": "head",
+   "start": 1.48,
+   "end": 1.84
+  },
+  {
+   "word": "and",
+   "start": 1.84,
+   "end": 2.22
+  },
+  {
+   "word": "just",
+   "start": 2.22,
+   "end": 2.4
+  },
+  {
+   "word": "kept",
+   "start": 2.4,
+   "end": 2.6
+  },
+  {
+   "word": "living?",
+   "start": 2.6,
+   "end": 3.08
+  },
+  {
+   "word": "September",
+   "start": 4.3,
+   "end": 4.3
+  },
+  {
+   "word": "10th,",
+   "start": 4.3,
+   "end": 5.1
+  },
+  {
+   "word": "1945,",
+   "start": 5.1,
+   "end": 6.02
+  },
+  {
+   "word": "Fruta,",
+   "start": 6.82,
+   "end": 7.1
+  },
+  {
+   "word": "Colorado.",
+   "start": 7.38,
+   "end": 7.78
+  },
+  {
+   "word": "Farmer",
+   "start": 8.78,
+   "end": 8.94
+  },
+  {
+   "word": "Lloyd",
+   "start": 8.94,
+   "end": 9.28
+  },
+  {
+   "word": "Olsen",
+   "start": 9.28,
+   "end": 9.76
+  },
+  {
+   "word": "picks",
+   "start": 9.76,
+   "end": 10.1
+  },
+  {
+   "word": "a",
+   "start": 10.1,
+   "end": 10.34
+  },
+  {
+   "word": "rooster",
+   "start": 10.34,
+   "end": 10.62
+  },
+  {
+   "word": "for",
+   "start": 10.62,
+   "end": 10.88
+  },
+  {
+   "word": "dinner.",
+   "start": 10.88,
+   "end": 11.18
+  },
+  {
+   "word": "His",
+   "start": 11.78,
+   "end": 11.92
+  },
+  {
+   "word": "mother",
+   "start": 11.92,
+   "end": 12.18
+  },
+  {
+   "word": "-in",
+   "start": 12.18,
+   "end": 12.34
+  },
+  {
+   "word": "-law",
+   "start": 12.34,
+   "end": 12.52
+  },
+  {
+   "word": "loves",
+   "start": 12.52,
+   "end": 12.82
+  },
+  {
+   "word": "the",
+   "start": 12.82,
+   "end": 13.06
+  },
+  {
+   "word": "neck,",
+   "start": 13.06,
+   "end": 13.36
+  },
+  {
+   "word": "so",
+   "start": 13.68,
+   "end": 13.86
+  },
+  {
+   "word": "he",
+   "start": 13.86,
+   "end": 13.98
+  },
+  {
+   "word": "aims",
+   "start": 13.98,
+   "end": 14.28
+  },
+  {
+   "word": "the",
+   "start": 14.28,
+   "end": 14.48
+  },
+  {
+   "word": "axe",
+   "start": 14.48,
+   "end": 14.74
+  },
+  {
+   "word": "high.",
+   "start": 14.74,
+   "end": 15.18
+  },
+  {
+   "word": "The",
+   "start": 15.74,
+   "end": 15.9
+  },
+  {
+   "word": "head",
+   "start": 15.9,
+   "end": 16.12
+  },
+  {
+   "word": "comes",
+   "start": 16.12,
+   "end": 16.42
+  },
+  {
+   "word": "off,",
+   "start": 16.42,
+   "end": 16.74
+  },
+  {
+   "word": "and",
+   "start": 17.28,
+   "end": 17.54
+  },
+  {
+   "word": "the",
+   "start": 17.54,
+   "end": 17.66
+  },
+  {
+   "word": "rooster",
+   "start": 17.66,
+   "end": 17.96
+  },
+  {
+   "word": "gets",
+   "start": 17.96,
+   "end": 18.26
+  },
+  {
+   "word": "up",
+   "start": 18.26,
+   "end": 18.58
+  },
+  {
+   "word": "and",
+   "start": 18.58,
+   "end": 18.9
+  },
+  {
+   "word": "wanders",
+   "start": 18.9,
+   "end": 19.28
+  },
+  {
+   "word": "away.",
+   "start": 19.28,
+   "end": 19.62
+  },
+  {
+   "word": "The",
+   "start": 20.26,
+   "end": 20.54
+  },
+  {
+   "word": "blade",
+   "start": 20.54,
+   "end": 20.82
+  },
+  {
+   "word": "had",
+   "start": 20.82,
+   "end": 21.02
+  },
+  {
+   "word": "missed",
+   "start": 21.02,
+   "end": 21.3
+  },
+  {
+   "word": "the",
+   "start": 21.3,
+   "end": 21.52
+  },
+  {
+   "word": "brain",
+   "start": 21.52,
+   "end": 21.76
+  },
+  {
+   "word": "stem,",
+   "start": 21.76,
+   "end": 22.06
+  },
+  {
+   "word": "the",
+   "start": 22.44,
+   "end": 22.58
+  },
+  {
+   "word": "part",
+   "start": 22.58,
+   "end": 22.8
+  },
+  {
+   "word": "that",
+   "start": 22.8,
+   "end": 22.98
+  },
+  {
+   "word": "runs",
+   "start": 22.98,
+   "end": 23.26
+  },
+  {
+   "word": "breathing",
+   "start": 23.26,
+   "end": 23.66
+  },
+  {
+   "word": "and",
+   "start": 23.66,
+   "end": 23.94
+  },
+  {
+   "word": "digestion.",
+   "start": 23.94,
+   "end": 24.42
+  },
+  {
+   "word": "So",
+   "start": 25.06,
+   "end": 25.44
+  },
+  {
+   "word": "the",
+   "start": 25.44,
+   "end": 25.62
+  },
+  {
+   "word": "Olsons",
+   "start": 25.62,
+   "end": 26.06
+  },
+  {
+   "word": "fed",
+   "start": 26.06,
+   "end": 26.32
+  },
+  {
+   "word": "him",
+   "start": 26.32,
+   "end": 26.54
+  },
+  {
+   "word": "milk",
+   "start": 26.54,
+   "end": 26.78
+  },
+  {
+   "word": "and",
+   "start": 26.78,
+   "end": 27.0
+  },
+  {
+   "word": "water",
+   "start": 27.0,
+   "end": 27.3
+  },
+  {
+   "word": "with",
+   "start": 27.3,
+   "end": 27.56
+  },
+  {
+   "word": "an",
+   "start": 27.56,
+   "end": 27.7
+  },
+  {
+   "word": "eyedropper",
+   "start": 27.7,
+   "end": 28.26
+  },
+  {
+   "word": "and",
+   "start": 28.26,
+   "end": 28.7
+  },
+  {
+   "word": "cleared",
+   "start": 28.7,
+   "end": 28.98
+  },
+  {
+   "word": "his",
+   "start": 28.98,
+   "end": 29.18
+  },
+  {
+   "word": "throat",
+   "start": 29.18,
+   "end": 29.5
+  },
+  {
+   "word": "with",
+   "start": 29.5,
+   "end": 29.74
+  },
+  {
+   "word": "a",
+   "start": 29.74,
+   "end": 29.88
+  },
+  {
+   "word": "syringe.",
+   "start": 29.88,
+   "end": 30.28
+  },
+  {
+   "word": "They",
+   "start": 30.96,
+   "end": 31.1
+  },
+  {
+   "word": "named",
+   "start": 31.1,
+   "end": 31.34
+  },
+  {
+   "word": "him",
+   "start": 31.34,
+   "end": 31.58
+  },
+  {
+   "word": "Mike.",
+   "start": 31.58,
+   "end": 31.86
+  },
+  {
+   "word": "Mike",
+   "start": 32.7,
+   "end": 32.9
+  },
+  {
+   "word": "went",
+   "start": 32.9,
+   "end": 33.12
+  },
+  {
+   "word": "on",
+   "start": 33.12,
+   "end": 33.36
+  },
+  {
+   "word": "tour",
+   "start": 33.36,
+   "end": 33.66
+  },
+  {
+   "word": "across",
+   "start": 33.66,
+   "end": 34.02
+  },
+  {
+   "word": "America.",
+   "start": 34.02,
+   "end": 34.48
+  },
+  {
+   "word": "People",
+   "start": 35.18,
+   "end": 35.4
+  },
+  {
+   "word": "paid",
+   "start": 35.4,
+   "end": 35.64
+  },
+  {
+   "word": "25",
+   "start": 35.64,
+   "end": 36.22
+  },
+  {
+   "word": "cents",
+   "start": 36.22,
+   "end": 36.54
+  },
+  {
+   "word": "to",
+   "start": 36.54,
+   "end": 36.82
+  },
+  {
+   "word": "see",
+   "start": 36.82,
+   "end": 37.04
+  },
+  {
+   "word": "him.",
+   "start": 37.04,
+   "end": 37.28
+  },
+  {
+   "word": "Time",
+   "start": 38.02,
+   "end": 38.12
+  },
+  {
+   "word": "and",
+   "start": 38.12,
+   "end": 38.34
+  },
+  {
+   "word": "Life",
+   "start": 38.34,
+   "end": 38.62
+  },
+  {
+   "word": "magazines",
+   "start": 38.62,
+   "end": 39.12
+  },
+  {
+   "word": "wrote",
+   "start": 39.12,
+   "end": 39.46
+  },
+  {
+   "word": "about",
+   "start": 39.46,
+   "end": 39.78
+  },
+  {
+   "word": "him.",
+   "start": 39.78,
+   "end": 40.04
+  },
+  {
+   "word": "He",
+   "start": 40.6,
+   "end": 40.74
+  },
+  {
+   "word": "lived",
+   "start": 40.74,
+   "end": 40.96
+  },
+  {
+   "word": "for",
+   "start": 40.96,
+   "end": 41.22
+  },
+  {
+   "word": "18",
+   "start": 41.22,
+   "end": 41.62
+  },
+  {
+   "word": "months",
+   "start": 41.62,
+   "end": 42.02
+  },
+  {
+   "word": "with",
+   "start": 42.02,
+   "end": 42.34
+  },
+  {
+   "word": "no",
+   "start": 42.34,
+   "end": 42.62
+  },
+  {
+   "word": "head.",
+   "start": 42.62,
+   "end": 42.96
+  },
+  {
+   "word": "Then,",
+   "start": 43.64,
+   "end": 43.96
+  },
+  {
+   "word": "in",
+   "start": 44.06,
+   "end": 44.28
+  },
+  {
+   "word": "March",
+   "start": 44.28,
+   "end": 44.54
+  },
+  {
+   "word": "1947,",
+   "start": 44.54,
+   "end": 45.56
+  },
+  {
+   "word": "in",
+   "start": 45.94,
+   "end": 46.12
+  },
+  {
+   "word": "a",
+   "start": 46.12,
+   "end": 46.26
+  },
+  {
+   "word": "Phoenix",
+   "start": 46.26,
+   "end": 46.58
+  },
+  {
+   "word": "motel,",
+   "start": 46.58,
+   "end": 47.04
+  },
+  {
+   "word": "Mike",
+   "start": 47.7,
+   "end": 47.84
+  },
+  {
+   "word": "choked",
+   "start": 47.84,
+   "end": 48.18
+  },
+  {
+   "word": "in",
+   "start": 48.18,
+   "end": 48.44
+  },
+  {
+   "word": "the",
+   "start": 48.44,
+   "end": 48.58
+  },
+  {
+   "word": "night.",
+   "start": 48.58,
+   "end": 48.84
+  },
+  {
+   "word": "The",
+   "start": 49.42,
+   "end": 49.64
+  },
+  {
+   "word": "syringe",
+   "start": 49.64,
+   "end": 50.02
+  },
+  {
+   "word": "had",
+   "start": 50.02,
+   "end": 50.22
+  },
+  {
+   "word": "been",
+   "start": 50.22,
+   "end": 50.36
+  },
+  {
+   "word": "left",
+   "start": 50.36,
+   "end": 50.58
+  },
+  {
+   "word": "behind",
+   "start": 50.58,
+   "end": 50.98
+  },
+  {
+   "word": "at",
+   "start": 50.98,
+   "end": 51.16
+  },
+  {
+   "word": "the",
+   "start": 51.16,
+   "end": 51.3
+  },
+  {
+   "word": "show.",
+   "start": 51.3,
+   "end": 51.6
+  },
+  {
+   "word": "Today,",
+   "start": 52.3,
+   "end": 52.62
+  },
+  {
+   "word": "his",
+   "start": 52.76,
+   "end": 52.88
+  },
+  {
+   "word": "hometown",
+   "start": 52.88,
+   "end": 53.32
+  },
+  {
+   "word": "throws",
+   "start": 53.32,
+   "end": 53.7
+  },
+  {
+   "word": "him",
+   "start": 53.7,
+   "end": 53.88
+  },
+  {
+   "word": "a",
+   "start": 53.88,
+   "end": 54.04
+  },
+  {
+   "word": "festival",
+   "start": 54.04,
+   "end": 54.4
+  },
+  {
+   "word": "every",
+   "start": 54.4,
+   "end": 54.8
+  },
+  {
+   "word": "year,",
+   "start": 54.8,
+   "end": 55.18
+  },
+  {
+   "word": "and",
+   "start": 55.58,
+   "end": 55.74
+  },
+  {
+   "word": "Guinness",
+   "start": 55.74,
+   "end": 56.06
+  },
+  {
+   "word": "still",
+   "start": 56.06,
+   "end": 56.5
+  },
+  {
+   "word": "lists",
+   "start": 56.5,
+   "end": 56.88
+  },
+  {
+   "word": "his",
+   "start": 56.88,
+   "end": 57.08
+  },
+  {
+   "word": "record.",
+   "start": 57.08,
+   "end": 57.54
+  },
+  {
+   "word": "Subscribe",
+   "start": 58.28,
+   "end": 58.78
+  },
+  {
+   "word": "for",
+   "start": 58.78,
+   "end": 59.06
+  },
+  {
+   "word": "more",
+   "start": 59.06,
+   "end": 59.34
+  },
+  {
+   "word": "weird",
+   "start": 59.34,
+   "end": 59.64
+  },
+  {
+   "word": "facts.",
+   "start": 59.64,
+   "end": 60.08
+  }
+ ]
+}
