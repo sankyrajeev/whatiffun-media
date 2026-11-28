@@ -218,5 +218,9 @@
   "84": {
     "answer": "G3",
     "what": "the toaster that flips its toast: every other toaster pops its slice straight up (some wobble or tilt a little), while G3 sends its toast into a full somersault, twice every loop"
+  },
+  "85": {
+    "answer": "B6",
+    "what": "the barrier that swings over the top: every other barrier lifts to straight up and drops back down (a few bounce a little past upright and settle), while B6 swings right over its own post to the other side for a split second, twice every loop"
   }
 }
