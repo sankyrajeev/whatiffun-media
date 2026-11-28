@@ -214,5 +214,9 @@
   "83": {
     "answer": "C8",
     "what": "the record that spins backwards: every other record turns clockwise the whole time (some just stop for a moment and start again), while C8 swings half a turn the wrong way, anticlockwise, twice every loop"
+  },
+  "84": {
+    "answer": "G3",
+    "what": "the toaster that flips its toast: every other toaster pops its slice straight up (some wobble or tilt a little), while G3 sends its toast into a full somersault, twice every loop"
   }
 }
