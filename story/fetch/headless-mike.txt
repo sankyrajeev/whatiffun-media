@@ -1,4 +1,0 @@
-story/headless-mike/art/raw/headless-rooster.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/73a1e59e-1fcc-4ac6-b9a9-17669db03109.png
-story/headless-mike/art/raw/farmer-axe-shock.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/cac6907c-b00d-4cc5-ba35-b395d459236e.png
-story/headless-mike/art/raw/sideshow-tent-crowd.png https://ai-thumbnails.s3.amazonaws.com/editor/c9af8166-f405-4cbd-9fd7-f3ac003b4585/69dc6f84-036f-44be-8afc-d5046a3aad45.png
-story/headless-mike/narration.mp3 https://assets.vidiq.com/voiceovers/c9af8166-f405-4cbd-9fd7-f3ac003b4585/63d62b48-f412-4466-9f25-c6dc12acd39e.mp3
